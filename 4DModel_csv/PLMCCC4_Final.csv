@@ -1,0 +1,73 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+P,CC4,A,05,PCC4A05,PCC4A05,01/28/2013,01/29/2013,2,1029,1020,2,20,Construct,.,,,
+P,CC4,A,04b,PCC4A04b,PCC4A04b,02/18/2013,02/18/2013,1,256,153,1,12,Construct,,,,
+P,CC4,A,04a,PCC4A04a,PCC4A04a,03/02/2013,03/02/2013,1,265,153,1,4,Construct,,,,
+P,CC4,A,03b,PCC4A03b,PCC4A03b,03/06/2013,03/07/2013,2,216,159,2,14,Construct,Code 05.,"Lift ""C03b"" will be renamed as ""03b"".",Code 05a.,P-P-S-5401-0001
+P,CC4,A,03a,PCC4A03a,PCC4A03a,03/21/2013,03/21/2013,1,168,159,1,-33,Construct,,,,
+P,CC4,B,05,PCC4B05,PCC4B05,02/16/2013,03/22/2013,35,750,588,4,15,Construct,Code 02.,"Joining ""052, ""05b"" and ""05a"" under the name of ""05"".",Code 02a.,P-P-S-5405-0001
+P,CC4,B,04b,PCC4B04b,PCC4B04b,04/06/2013,04/06/2013,1,128,122,1,0,Construct,,,,
+P,CC4,B,04c,PCC4B04c,PCC4B04c,04/06/2013,04/06/2013,1,72,66,1,7,Construct,,,,
+P,CC4,B,04a,PCC4B04a,PCC4B04a,04/13/2013,04/13/2013,1,104,84,1,17,Construct,,,,
+P,CC4,B,03b,PCC4B03b,PCC4B03b,04/30/2013,05/01/2013,2,137,127,2,1,Construct,,,,
+P,CC4,B,03a,PCC4B03a,PCC4B03a,05/02/2013,05/03/2013,2,200,140,2,-1,Construct,Code 03.,"Lift ""03a&c"" will be divided into ""03a"" and ""03c"". All quantities will be assigned to ""03a"".",Code 03a.,P-P-S-5406-0001
+P,CC4,B,03c,PCC4B03c,PCC4B03c,05/02/2013,05/03/2013,2,0,0,0,18,Construct,Code 03.,"Lift ""03a&c"" will be divided into ""03a"" and ""03c"". All quantities will be assigned to ""03a"".",Code 03a.,P-P-S-5406-0001
+P,CC4,B,02,PCC4B02,PCC4B02,05/21/2013,05/21/2013,1,728,577,1,4,Construct,,,,
+P,CC4,B,01,PCC4B01,PCC4B01,05/25/2013,05/25/2013,1,1076,681,1,-87,Construct,,,,
+P,CC4,C,05,PCC4C05,PCC4C05,02/27/2013,04/13/2013,46,740,619,4,9,Construct,Code 02.,"Joining ""05"", ""05a+b"" and ""05a"" under the name of ""05"".",Code 02a.,P-P-S-5408-0001
+P,CC4,C,04a,PCC4C04a,PCC4C04a,04/22/2013,04/22/2013,1,311,252,1,0,Construct,Code 03.,"Lift ""04a&b&c"" will be separated into ""04a"", ""04b"" and ""04c"".  All quantities will be assigned to ""04a"".",Code 03a.,P-P-S-5409-0001
+P,CC4,C,04b,PCC4C04b,PCC4C04b,04/22/2013,04/22/2013,1,0,0,0,0,Construct,Code 03.,"Lift ""04a&b&c"" will be separated into ""04a"", ""04b"" and ""04c"".  All quantities will be assigned to ""04a"".",Code 03a.,P-P-S-5409-0001
+P,CC4,C,04c,PCC4C04c,PCC4C04c,04/22/2013,04/22/2013,1,0,0,0,16,Construct,Code 03.,"Lift ""04a&b&c"" will be separated into ""04a"", ""04b"" and ""04c"".  All quantities will be assigned to ""04a"".",Code 03a.,P-P-S-5409-0001
+P,CC4,C,03b,PCC4C03b,PCC4C03b,05/08/2013,05/09/2013,2,136,125,2,0,Construct,,,,
+P,CC4,C,03a,PCC4C03a,PCC4C03a,05/09/2013,05/10/2013,2,104,65,2,-1,Construct,,,,
+P,CC4,C,03c,PCC4C03c,PCC4C03c,05/09/2013,05/09/2013,1,88,72,1,35,Construct,,,,
+P,CC4,C,02,PCC4C02,PCC4C02,06/13/2013,06/14/2013,2,762,609,2,4,Construct,,,,
+P,CC4,C,01,PCC4C01,PCC4C01,06/18/2013,06/18/2013,1,848,722,1,-103,Construct,,,,
+P,CC4,D,05,PCC4D05,PCC4D05,03/07/2013,04/13/2013,38,910,844,6,33,Construct,Code 02.,"Joining lifts ""05"", ""05a+b+c"" and ""05a"" under the name of ""05"".",Code 02a.,P-P-S-5411-0001
+P,CC4,D,04c,PCC4D04c,PCC4D04c,05/16/2013,05/17/2013,2,432,283,2,1,Construct,,,,
+P,CC4,D,04b,PCC4D04b,PCC4D04b,05/18/2013,05/18/2013,1,144,64,1,3,Construct,,,,
+P,CC4,D,04a,PCC4D04a,PCC4D04a,05/21/2013,05/21/2013,1,96,64,1,4,Construct,,,,
+P,CC4,D,03c,PCC4D03c,PCC4D03c,05/25/2013,05/25/2013,1,408,294,1,4,Construct,,,,
+P,CC4,D,03b,PCC4D03b,PCC4D03b,05/29/2013,05/30/2013,2,124,67,2,0,Construct,,,,
+P,CC4,D,03a,PCC4D03a,PCC4D03a,05/30/2013,05/30/2013,1,160,67,1,29,Construct,,,,
+P,CC4,D,02,PCC4D02,PCC4D02,06/28/2013,06/29/2013,2,940,828,2,3,Construct,,,,
+P,CC4,D,01,PCC4D01,PCC4D01,07/02/2013,07/03/2013,2,969,972,2,-307,Construct,,,,
+P,CC4,E,05,PCC4E05,PCC4E05,08/30/2012,08/31/2012,2,225,188,2,8,Construct,,,,
+P,CC4,E,04b,PCC4E04b,PCC4E04b,09/08/2012,09/08/2012,1,81,49,1,0,Construct,,,,
+P,CC4,E,04c,PCC4E04c,PCC4E04c,09/08/2012,09/08/2012,1,56,30,1,10,Construct,,,,
+P,CC4,E,03b,PCC4E03b,PCC4E03b,09/18/2012,09/19/2012,2,126,82,2,-1,Construct,Code 03.,"Lift ""03"" will be separated into ""03b"" and ""03c"".  All quantities will be assigned to ""03b"".",Code 03a.,P-P-S-5415-0001
+P,CC4,E,03c,PCC4E03c,PCC4E03c,09/18/2012,09/19/2012,2,0,0,0,43,Construct,Code 03.,"Lift ""03"" will be separated into ""03b"" and ""03c"".  All quantities will be assigned to ""03b"".",Code 03a.,P-P-S-5415-0001
+P,CC4,E,02,PCC4E02,PCC4E02,11/01/2012,11/01/2012,1,216,185,1,14,Construct,,,,
+P,CC4,E,01,PCC4E01,PCC4E01,11/15/2012,11/16/2012,2,372.08,220,2,-129,Construct,,,,
+P,CC4,F,05,PCC4F05,PCC4F05,07/10/2012,07/11/2012,2,588,540,2,245,Construct,,,,
+P,CC4,F,04,PCC4F04,PCC4F04,03/13/2013,03/14/2013,2,711,502,3,30,Construct,Code 02.,"Joining lifts ""04"" and ""04(1ststage)"" under the name of ""04"".",Code 02a.,P-P-S-5418-0001
+P,CC4,F,03,PCC4F03,PCC4F03,04/13/2013,04/13/2013,1,624,578,1,69,Construct,,,,
+P,CC4,F,02,PCC4F02,PCC4F02,06/21/2013,06/22/2013,2,730,547,2,-431,Construct,,,,
+P,CC4,G,05,PCC4G05,PCC4G05,04/17/2012,04/19/2012,3,138,93,4,19,Construct,,,,
+P,CC4,G,04,PCC4G04,PCC4G04,05/08/2012,05/09/2012,2,88,53,2,8,Construct,,,,
+P,CC4,G,03,PCC4G03,PCC4G03,05/17/2012,05/17/2012,1,88,77,1,-47,Construct,,,,
+P,CC4,H,05,PCC4H05,PCC4H05,03/31/2012,04/10/2012,11,100,93,2,10,Construct,,,,
+P,CC4,H,04,PCC4H04,PCC4H04,04/20/2012,04/21/2012,2,113,53,2,10,Construct,,,,
+P,CC4,H,03,PCC4H03,PCC4H03,05/01/2012,05/01/2012,1,92,77,1,296,Construct,,,,
+P,CC4,I,05,PCC4I05,PCC4I05,02/21/2013,02/21/2013,1,176,189,1,27,Construct,,,,
+P,CC4,I,04a,PCC4I04a,PCC4I04a,03/20/2013,03/20/2013,1,128,98,1,0,Construct,Code 03.,"Lift ""04a&c"" will be divided into ""04a"" and ""04c"".  All quantities will be assigned to ""04a"".",Code 03a.,P-P-S-5426-0001
+P,CC4,I,04c,PCC4I04c,PCC4I04c,03/20/2013,03/20/2013,1,0,0,0,15,Construct,Code 03.,"Lift ""04a&c"" will be divided into ""04a"" and ""04c"".  All quantities will be assigned to ""04a"".",Code 03a.,P-P-S-5426-0001
+P,CC4,I,03a,PCC4I03a,PCC4I03a,04/04/2013,04/04/2013,1,24,31,1,0,Construct,,,,
+P,CC4,I,03c,PCC4I03c,PCC4I03c,04/04/2013,04/04/2013,1,72,51,1,29,Construct,,,,
+P,CC4,I,02,PCC4I02,PCC4I02,05/03/2013,05/04/2013,2,216,185,2,5,Construct,,,,
+P,CC4,I,01,PCC4I01,PCC4I01,05/09/2013,05/09/2013,1,286,220,1,-202,Construct,,,,
+P,CC4,J,05,PCC4J05,PCC4J05,10/19/2012,10/20/2012,2,528,540,2,47,Construct,,,,
+P,CC4,J,04,PCC4J04,PCC4J04,12/06/2012,12/07/2012,2,529,452,2,183,Construct,,,,
+P,CC4,J,03,PCC4J03,PCC4J03,06/08/2013,06/08/2013,1,639,573,1,55,Construct,,,,
+P,CC4,J,02,PCC4J02,PCC4J02,08/02/2013,08/03/2013,2,705,547,2,-381,Construct,,,,
+P,CC4,K,05,PCC4K05,PCC4K05,07/18/2012,07/26/2012,9,116,93,2,13,Construct,,,,
+P,CC4,K,04,PCC4K04,PCC4K04,08/08/2012,08/08/2012,1,74,53,1,7,Construct,,,,
+P,CC4,K,03,PCC4K03,PCC4K03,08/15/2012,08/15/2012,1,120,77,1,-28,Construct,,,,
+P,CC4,L,05,PCC4L05,PCC4L05,07/18/2012,07/24/2012,7,121,93,3,10,Construct,,,,
+P,CC4,L,04,PCC4L04,PCC4L04,08/03/2012,08/03/2012,1,88,53,1,8,Construct,,,,
+P,CC4,L,03,PCC4L03,PCC4L03,08/11/2012,08/11/2012,1,144,77,1,,Construct,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

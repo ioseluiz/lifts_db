@@ -1,0 +1,71 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+P,CU3,2W,16,PCU32W16,PCU32W16,08/18/2012,08/18/2012,1,95,84,1,-10,Construct,.,,,
+P,CU3,2W,15,PCU32W15,PCU32W15,08/28/2012,08/28/2012,1,108,40,1,-18,Construct,,,,
+P,CU3,2W,14,PCU32W14,PCU32W14,09/15/2012,09/16/2012,2,454,408,2,-45,Construct,,,,
+P,CU3,2W,13 a,PCU32W13a,PCU32W13a,10/31/2012,10/31/2012,1,144,144,1,-1,Construct,Code 05.,"Lift ""13 a&b"" will be renamed as ""13a"".",Code 05a.,P-P-S-5806-0001
+P,CU3,2W,13 b,PCU32W13b,PCU32W13b,11/01/2012,11/01/2012,1,248,200,1,-341,Construct,Code 05.,"Lift ""13a &B"" will be renamed as ""13b"".",Code 05a.,P-P-S-5806-0001
+P,CU3,2W,11 b,PCU32W11b,PCU32W11b,10/08/2013,10/09/2013,2,481,424,2,1,Construct,Code 03.,"Lift ""11+12b"" will be separated into ""11b"" and ""12b"".  All quantities will be assigned to 11b.",Code 03a.,P-P-S-5807-0002
+P,CU3,2W,12,PCU32W12,PCU32W12,10/08/2013,10/09/2013,2,0,0,0,-23,Construct,Code 03.,"Lift ""11+12b"" will be separated into ""11b"" and ""12b"".  All quantities will be assigned to 11b.",Code 03a.,P-P-S-5807-0002
+P,CU3,2W,11 a,PCU32W11a,PCU32W11a,11/01/2013,11/01/2013,1,272.56,245,2,-13,Construct,Code 02.,"Joining ""11a"" and ""11A"" under the name of ""11a"".",Code 02a.,P-P-S-5807-0002
+P,CU3,2W,10,PCU32W10,PCU32W10,11/14/2013,11/15/2013,2,324,245,2,-8,Construct,,,,
+P,CU3,2W,09,PCU32W09,PCU32W09,11/23/2013,11/23/2013,1,288,295,1,-12,Construct,,,,
+P,CU3,2W,08,PCU32W08,PCU32W08,12/05/2013,12/06/2013,2,186,174,2,-155,Construct,,,,
+P,CU3,2W,07,PCU32W07,PCU32W07,05/10/2014,05/10/2014,1,156,174,1,-11,Construct,,,,
+P,CU3,2W,06,PCU32W06,PCU32W06,05/21/2014,05/21/2014,1,160,174,1,-9,Construct,,,,
+P,CU3,2W,05,PCU32W05,PCU32W05,05/30/2014,05/30/2014,1,184,174,1,-14,Construct,,,,
+P,CU3,2W,04,PCU32W04,PCU32W04,06/13/2014,06/13/2014,1,108,110,1,-25,Construct,,,,
+P,CU3,2W,03,PCU32W03,PCU32W03,07/08/2014,07/08/2014,1,124,110,1,-22,Construct,,,,
+P,CU3,2W,02 a,PCU32W02a,PCU32W02a,07/30/2014,07/30/2014,1,112,110,1,0,Construct,Code 03.,"Lift ""02"" will be separated into ""02a"" and ""02b"".  All quantities assigned to 02a.",Code 03a.,P-P-S-5807-0002
+P,CU3,2W,02 b,PCU32W02b,PCU32W02b,07/30/2014,07/30/2014,1,0,0,0,-121,Construct,Code 03.,"Lift ""02"" will be separated into ""02a"" and ""02b"".  All quantities assigned to 02a.",Code 03a.,P-P-S-5807-0002
+P,CU3,2W,01,PCU32W01,PCU32W01,11/28/2014,11/29/2014,2,67,62,2,793,Construct,,,,
+P,CU3,1W,04,PCU31W04,PCU31W04,09/27/2012,09/28/2012,2,529,445,2,-7,Construct,,,,
+P,CU3,1W,03 S,PCU31W03S,PCU31W03S,10/05/2012,10/06/2012,2,480,416,2,1,Construct,Code 03.,"Lift ""03"" will be separated into ""03N"" and ""03S"".  All quantities assigned to 03S.",Code 03a.,P-P-S-5804-0002
+P,CU3,1W,03 N,PCU31W03N,PCU31W03N,10/05/2012,10/06/2012,2,0,0,0,-3,Construct,Code 03.,"Lift ""03"" will be separated into ""03N"" and ""03S"".  All quantities assigned to 03S.",Code 03a.,P-P-S-5804-0002
+P,CU3,C,04 d,PCU3C04d,PCU3C04d,10/09/2012,10/09/2012,1,160,120,1,-3,Construct,,,,
+P,CU3,C,04 c,PCU3C04c,PCU3C04c,10/12/2012,10/12/2012,1,150,120,1,-6,Construct,,,,
+P,CU3,C,03 dN,PCU3C03dN,PCU3C03dN,10/18/2012,10/18/2012,1,180,128,1,0,Construct,Code 03.,"Lift ""03d"" will be separated into ""03dN"" and ""03dS"".  All quantities assigned to 03dN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,03 dS,PCU3C03dS,PCU3C03dS,10/18/2012,10/18/2012,1,0,0,0,-4,Construct,Code 03.,"Lift ""03d"" will be separated into ""03dN"" and ""03dS"".  All quantities assigned to 03dN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,03 cN,PCU3C03cN,PCU3C03cN,10/22/2012,10/23/2012,2,192,128,2,1,Construct,Code 03.,"Lift ""03c"" will be separated into ""03cN"" and ""03cS"".  All quantities assigned to 03dN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,03 cS,PCU3C03cS,PCU3C03cS,10/22/2012,10/23/2012,2,0,0,0,-1,Construct,Code 03.,"Lift ""03c"" will be separated into ""03cN"" and ""03cS"".  All quantities assigned to 03dN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,04 b,PCU3C04b,PCU3C04b,10/24/2012,10/25/2012,2,160,128,2,-4,Construct,,,,
+P,CU3,C,04 a,PCU3C04a,PCU3C04a,10/29/2012,10/30/2012,2,144,120,2,-3,Construct,,,,
+P,CU3,C,03 bN,PCU3C03bN,PCU3C03bN,11/02/2012,11/02/2012,1,200,128,1,0,Construct,Code 03.,"Lift ""03b"" will be separated into ""03bN"" and ""03bS"".   All quantities assigned to 03bN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,03 bS,PCU3C03bS,PCU3C03bS,11/02/2012,11/02/2012,1,0,0,0,-7,Construct,Code 03.,"Lift ""03b"" will be separated into ""03bN"" and ""03bS"".   All quantities assigned to 03bN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,03 aN,PCU3C03aN,PCU3C03aN,11/09/2012,11/09/2012,1,168.14,128,1,0,Construct,Code 03.,"Lift ""03b"" will be separated into ""03aN"" and ""03aS"".  All quantities assigned to 03aN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,03 aS,PCU3C03aS,PCU3C03aS,11/09/2012,11/09/2012,1,0,0,0,-8,Construct,Code 03.,"Lift ""03b"" will be separated into ""03aN"" and ""03aS"".  All quantities assigned to 03aN.",Code 03a.,P-P-S-5801-0001
+P,CU3,C,02 d2,PCU3C02d2,PCU3C02d2,11/17/2012,11/17/2012,1,72,60,1,-4,Construct,,,,
+P,CU3,C,02 c2,PCU3C02c2,PCU3C02c2,11/21/2012,11/21/2012,1,80,60,1,-2,Construct,,,,
+P,CU3,C,02 d1,PCU3C02d1,PCU3C02d1,11/23/2012,11/24/2012,2,161,152,2,-7,Construct,,,,
+P,CU3,C,02 c1,PCU3C02c1,PCU3C02c1,12/01/2012,12/01/2012,1,176,152,1,3,Construct,,,,
+P,CU3,C,01 d,PCU3C01d,PCU3C01d,11/28/2012,11/28/2012,1,112,121,1,-6,Construct,,,,
+P,CU3,C,01 c,PCU3C01c,PCU3C01c,12/04/2012,12/04/2012,1,140,121,1,-22,Construct,,,,
+P,CU3,C,01 a,PCU3C01a,PCU3C01a,12/26/2012,12/26/2012,1,120,121,1,14,Construct,,,,
+P,CU3,C,02 a2,PCU3C02a2,PCU3C02a2,12/12/2012,12/12/2012,1,64,60,1,-5,Construct,,,,
+P,CU3,C,02 b2,PCU3C02b2,PCU3C02b2,12/17/2012,12/17/2012,1,76,60,1,-2,Construct,,,,
+P,CU3,C,02 a1,PCU3C02a1,PCU3C02a1,12/19/2012,12/19/2012,1,176,152,1,-8,Construct,,,,
+P,CU3,C,02 b1,PCU3C02b1,PCU3C02b1,12/27/2012,12/27/2012,1,179,152,1,-7,Construct,,,,
+P,CU3,C,01b,PCU3C01b,PCU3C01b,01/03/2013,01/03/2013,1,122.28,121,1,23,Construct,Code 05.,"Lift ""01B"" will be renamed as ""01b"".",Code 05a.,P-P-S-5803-0001
+P,CU3,1E,04,PCU31E04,PCU31E04,12/11/2012,12/12/2012,2,481,445,2,-27,Construct,,,,
+P,CU3,1E,03 N,PCU31E03N,PCU31E03N,01/08/2013,01/09/2013,2,454,416,2,1,Construct,Code 03..,"Lift ""03 N/S"" will be separated into ""03 N"" and 03 S"".  All quantities will be assigned to 03N.",Code 03a.,P-P-S-5831-0002
+P,CU3,1E,03 S,PCU31E03S,PCU31E03S,01/08/2013,01/09/2013,2,0,0,0,41,Construct,Code 03..,"Lift ""03 N/S"" will be separated into ""03 N"" and 03 S"".  All quantities will be assigned to 03N.",Code 03a.,P-P-S-5831-0002
+P,CU3,2E,16,PCU32E16,PCU32E16,11/29/2012,11/29/2012,1,120,84,1,-7,Construct,,,,
+P,CU3,2E,15,PCU32E15,PCU32E15,12/06/2012,12/06/2012,1,145,40,1,-16,Construct,,,,
+P,CU3,2E,14,PCU32E14,PCU32E14,12/22/2012,12/22/2012,1,498,408,1,-30,Construct,,,,
+P,CU3,2E,13 a,PCU32E13a,PCU32E13a,01/21/2013,01/22/2013,2,485,344,2,1,Construct,Code 03.,"Lift ""13 a&b"" will be separated into ""03 a"" and ""03 b"".  All quantities will be assigned to 13 a .",Code 03a.,P-P-S-5833-0001
+P,CU3,2E,13 b,PCU32E13b,PCU32E13b,01/21/2013,01/22/2013,2,0,0,0,-427,Construct,Code 03.,"Lift ""13 a&b"" will be separated into ""03 a"" and ""03 b"".  All quantities will be assigned to 13 a .",Code 03a.,P-P-S-5833-0001
+P,CU3,2E,11 b,PCU32E11b,PCU32E11b,03/25/2014,03/25/2014,1,489,424,1,0,Construct,Code 03.,"Lift ""12/11 b"" will be separated into ""12"" and ""11 b"".  All quantities assigned to 11 b.",Code 03a.,P-P-S-5833-0001
+P,CU3,2E,12,PCU32E12,PCU32E12,03/25/2014,03/25/2014,1,0,0,0,-9,Construct,Code 03.,"Lift ""12/11 b"" will be separated into ""12"" and ""11 b"".  All quantities assigned to 11 b.",Code 03a.,P-P-S-5833-0001
+P,CU3,2E,11 a,PCU32E11a,PCU32E11a,04/03/2014,04/03/2014,1,352,245,1,-11,Construct,,,,
+P,CU3,2E,10,PCU32E10,PCU32E10,04/14/2014,04/14/2014,1,249,245,1,-29,Construct,,,,
+P,CU3,2E,09,PCU32E09,PCU32E09,05/13/2014,05/13/2014,1,232,245,1,-21,Construct,,,,
+P,CU3,2E,08,PCU32E08,PCU32E08,06/03/2014,06/03/2014,1,177,174,1,-32,Construct,,,,
+P,CU3,2E,07,PCU32E07,PCU32E07,07/05/2014,07/05/2014,1,177,174,1,-10,Construct,Code 05.,"Lift ""W07"" will be renamed as ""07"".",Code 05a.,P-P-S-5834-0002
+P,CU3,2E,06,PCU32E06,PCU32E06,07/15/2014,07/16/2014,2,181,174,2,-19,Construct,,,,
+P,CU3,2E,05,PCU32E05,PCU32E05,08/04/2014,08/05/2014,2,176,174,2,-28,Construct,,,,
+P,CU3,2E,04,PCU32E04,PCU32E04,09/02/2014,09/02/2014,1,120,110,1,-20,Construct,,,,
+P,CU3,2E,03,PCU32E03,PCU32E03,09/22/2014,09/23/2014,2,139,110,2,-16,Construct,,,,
+P,CU3,2E,02 a,PCU32E02a,PCU32E02a,10/09/2014,10/09/2014,1,105,110,2,0,Construct,Code 03.,"Lift ""02"" will be separated into ""02 a"" and ""02 b"".    All quantities will be assigned to 02 a.",Code 03a.,P-P-S-5834-0002
+P,CU3,2E,02 b,PCU32E02b,PCU32E02b,10/09/2014,10/09/2014,1,0,0,0,-184,Construct,Code 03.,"Lift ""02"" will be separated into ""02 a"" and ""02 b"".    All quantities will be assigned to 02 a.",Code 03a.,P-P-S-5834-0002
+P,CU3,2E,01,PCU32E01,PCU32E01,04/11/2015,04/11/2015,1,60,62,1,-30,Construct,Code 05.,"Lift ""W01"" will be renamed as ""01"". ",Code 05a.,P-P-S-5834-0002
+P,CU3,2E,IWS,PCU32EIWS,PCU32EIWS,05/11/2015,06/25/2015,46,396,301,31,48,Construct,Code 07.,"Several lifts corresponding to internal walls and stairs were joined as ""IWS"" of monolith 2E.",Code 07a.,P-P-S-5834-0002
+P,CU3,2W,IWS,PCU32WIWS,PCU32WIWS,05/08/2015,06/24/2015,48,318,230,24,,Construct,Code 07.,"Several lifts corresponding to internal walls and stairs were joined as ""IWS"" of monolith 2W.",Code 07a.,P-P-S-5834-0002

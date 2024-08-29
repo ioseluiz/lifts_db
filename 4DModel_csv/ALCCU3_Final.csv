@@ -1,0 +1,77 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in Days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+A,CU3,2E,16,ACU32E16,ACU32E16,8/4/2012,8/4/2012,1,96,65,1,14,Construct,.,,,
+A,CU3,2E,15,ACU32E15,ACU32E15,8/18/2012,8/18/2012,1,87,68,1,60,Construct,,,,
+A,CU3,2E,14,ACU32E14,ACU32E14,10/17/2012,10/18/2012,2,429,427,2,89,Construct,,,,
+A,CU3,2E,13,ACU32E13,ACU32E13,1/15/2013,1/28/2013,14,388,363,3,1,Construct,Code 02.,"Joining lift ""13"" and ""13 a"", under the name of ""13"".",Code 02a.,A-P-S-5833-0001
+A,CU3,2E,12c,ACU32E12c,ACU32E12c,1/29/2013,1/29/2013,1,0,0,0,7,Construct,Code 01.,"A new row was created under the name of 12 c"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,A-P-S-5833-0001
+A,CU3,2E,12b,ACU32E12b,ACU32E12b,2/5/2013,2/5/2013,1,64,40,1,244,Construct,,,,
+A,CU3,2E,12a,ACU32E12a,ACU32E12a,10/7/2013,10/8/2013,2,429,370,2,14,Construct,Code 05.,"Lift ""C05&C04 a (I)"" will be renamed as ""C05 a"".",Code 05a.,A-P-S-5833-0001
+A,CU3,2E,11,ACU32E11,ACU32E11,10/22/2013,10/23/2013,2,303,271,2,-1,Construct,Code 03.,"Lift ""10/11"" will be divided in ""10"" and ""11"". All quantities will be assigned to ""11"".",Code 03a.,A-P-S-5834-0002
+A,CU3,2E,10,ACU32E10,ACU32E10,10/22/2013,10/23/2013,2,0,0,0,7,Construct,Code 03.,"Lift ""10/11"" will be divided in ""10"" and ""11"". All quantities will be assigned to ""11"".",Code 03a.,A-P-S-5834-0002
+A,CU3,2E,9,ACU32E09,ACU32E09,10/30/2013,10/31/2013,2,292,276,2,8,Construct,,,,
+A,CU3,2E,08b,ACU32E08b,ACU32E08b,11/8/2013,11/9/2013,2,157,138,2,6,Construct,,,,
+A,CU3,2E,08a,ACU32E08a,ACU32E08a,11/15/2013,11/15/2013,1,149,76,1,6,Construct,,,,
+A,CU3,2E,7,ACU32E07,ACU32E07,11/21/2013,11/27/2013,7,242,174,2,9,Construct,,,,
+A,CU3,2E,6,ACU32E06,ACU32E06,12/6/2013,12/6/2013,1,200,174,1,10,Construct,,,,
+A,CU3,2E,5,ACU32E05,ACU32E05,12/16/2013,12/16/2013,1,196,174,1,26,Construct,,,,
+A,CU3,2E,4,ACU32E04,ACU32E04,1/11/2014,1/11/2014,1,126,142,1,126,Construct,,,,
+A,CU3,2E,3,ACU32E03,ACU32E03,5/17/2014,5/17/2014,1,104,110,1,11,Construct,,,,
+A,CU3,2E,02a,ACU32E02a,ACU32E02a,5/28/2014,5/29/2014,2,88,110,2,-1,Construct,Code 03.,"Lift ""02"" will be divided into ""02a"" and ""02b"". All quantities will be assigned to ""02a"".",Code 03a.,A-P-S-5834-0002
+A,CU3,2E,02b,ACU32E02b,ACU32E02b,5/28/2014,5/29/2014,2,0,0,0,285,Construct,Code 03.,"Lift ""02"" will be divided into ""02a"" and ""02b"". All quantities will be assigned to ""02a"".",Code 03a.,A-P-S-5834-0002
+A,CU3,2E,1,ACU32E01,ACU32E01,3/10/2015,3/10/2015,1,58,57,1,42,Construct,,,,
+A,CU3,2E,IW,ACU32EIW,ACU32EIW,4/21/2015,8/15/2015,117,204.75,199,16,-1103,Construct,Code 08.,"Several lifts corresponding to internal walls and stairs were joined as ""IW"" of monolith 2E.",Code 08a.,A-P-S-5834-0002
+A,CU3,1E,4,ACU31E04,ACU31E04,8/7/2012,8/8/2012,2,468,463,2,27,Construct,,,,
+A,CU3,1E,03a-N,ACU31E03a-N,ACU31E03a-N,9/4/2012,9/4/2012,1,78,72,1,3,Construct,,,,
+A,CU3,1E,03b-S,ACU31E03b-S,ACU31E03b-S,9/7/2012,9/7/2012,1,78,72,1,4,Construct,,,,
+A,CU3,1E,03a-S,ACU31E03a-S,ACU31E03a-S,9/11/2012,9/11/2012,1,72,72,1,0,Construct,,,,
+A,CU3,1E,03b-N,ACU31E03b-N,ACU31E03b-N,9/11/2012,9/12/2012,2,72,72,2,6,Construct,,,,
+A,CU3,1E,03c-N,ACU31E03c-N,ACU31E03c-N,9/18/2012,9/18/2012,1,112,72,1,0,Construct,,,,
+A,CU3,1E,03c-S,ACU31E03c-S,ACU31E03c-S,9/18/2012,9/18/2012,1,80,72,1,204,Construct,,,,
+A,CU3,C,04c,ACU3C04c,ACU3C04c,4/10/2013,4/11/2013,2,144,112,2,5,Construct,,,,
+A,CU3,C,04a,ACU3C04a,ACU3C04a,4/16/2013,4/16/2013,1,120,112,1,2,Construct,,,,
+A,CU3,C,04b,ACU3C04b,ACU3C04b,4/18/2013,4/18/2013,1,136,112,1,4,Construct,,,,
+A,CU3,C,03c-N,ACU3C03c-N,ACU3C03c-N,4/22/2013,4/22/2013,1,80,60,1,5,Construct,,,,
+A,CU3,C,03c-S,ACU3C03c-S,ACU3C03c-S,4/27/2013,4/27/2013,1,64,70,1,3,Construct,,,,
+A,CU3,C,03b-S,ACU3C03b-S,ACU3C03b-S,4/30/2013,4/30/2013,1,80,60,1,2,Construct,,,,
+A,CU3,C,03b-N,ACU3C03b-N,ACU3C03b-N,5/2/2013,5/2/2013,1,72,60,1,5,Construct,,,,
+A,CU3,C,03a-N,ACU3C03a-N,ACU3C03a-N,5/7/2013,5/7/2013,1,88,60,1,3,Construct,,,,
+A,CU3,C,03a-S,ACU3C03a-S,ACU3C03a-S,5/10/2013,5/10/2013,1,72,60,1,4,Construct,,,,
+A,CU3,C,02c,ACU3C02c,ACU3C02c,5/14/2013,5/14/2013,1,192,162,1,3,Construct,,,,
+A,CU3,C,02b,ACU3C02b,ACU3C02b,5/17/2013,5/17/2013,1,176,162,1,4,Construct,,,,
+A,CU3,C,01c,ACU3C01c,ACU3C01c,5/21/2013,5/22/2013,2,144,152,2,5,Construct,,,,
+A,CU3,C,01b,ACU3C01b,ACU3C01b,5/27/2013,5/28/2013,2,136,152,2,11,Construct,,,,
+A,CU3,C,02a,ACU3C02a,ACU3C02a,6/8/2013,6/8/2013,1,176,162,1,2,Construct,,,,
+A,CU3,C,01a,ACU3C01a,ACU3C01a,6/10/2013,6/10/2013,1,144,152,1,30,Construct,,,,
+A,CU3,C,04d,ACU3C04d,ACU3C04d,7/10/2013,7/11/2013,2,120,112,2,11,Construct,,,,
+A,CU3,C,03d-S,ACU3C03d-S,ACU3C03d-S,7/22/2013,7/22/2013,1,68,60,1,3,Construct,,,,
+A,CU3,C,03d-N,ACU3C03d-N,ACU3C03d-N,7/25/2013,7/25/2013,1,80,60,1,6,Construct,,,,
+A,CU3,C,02d,ACU3C02d,ACU3C02d,7/31/2013,8/1/2013,2,181,162,2,4,Construct,,,,
+A,CU3,C,01d,ACU3C01d,ACU3C01d,8/5/2013,8/6/2013,2,151,152,2,-106,Construct,,,,
+A,CU3,1W,4,ACU31W04,ACU31W04,4/22/2013,4/23/2013,2,480,463,2,24,Construct,,,,
+A,CU3,1W,03a-S,ACU31W03a-S,ACU31W03a-S,5/17/2013,5/21/2013,5,84,80,2,6,Construct,,,,
+A,CU3,1W,03a-N,ACU31W03a-N,ACU31W03a-N,5/27/2013,5/27/2013,1,80,72,1,3,Construct,,,,
+A,CU3,1W,03b-N,ACU31W03b-N,ACU31W03b-N,5/30/2013,6/1/2013,3,104,80,2,18,Construct,,,,
+A,CU3,1W,03c-N,ACU31W03c-N,ACU31W03c-N,6/19/2013,6/20/2013,2,96,72,2,13,Construct,,,,
+A,CU3,1W,03b-S,ACU31W03b-S,ACU31W03b-S,7/3/2013,7/3/2013,1,64,72,1,3,Construct,,,,
+A,CU3,1W,03c-S,ACU31W03c-S,ACU31W03c-S,7/6/2013,7/6/2013,1,68,72,1,152,Construct,,,,
+A,CU3,2W,16,ACU32W16,ACU32W16,12/5/2013,12/5/2013,1,92,65,1,6,Construct,,,,
+A,CU3,2W,15,ACU32W15,ACU32W15,12/11/2013,12/11/2013,1,100,68,1,27,Construct,,,,
+A,CU3,2W,14,ACU32W14,ACU32W14,1/7/2014,1/7/2014,1,451,426,1,22,Construct,,,,
+A,CU3,2W,13,ACU32W13,ACU32W13,1/29/2014,1/29/2014,1,121,106,1,29,Construct,,,,
+A,CU3,2W,12c,ACU32W12c,ACU32W12c,2/27/2014,2/27/2014,1,307,278,1,16,Construct,,,,
+A,CU3,2W,12b,ACU32W12b,ACU32W12b,3/15/2014,3/15/2014,1,376,392,1,0,Construct,Code 03.,"Lift ""12a/12b/11"" will be divided in ""12a"", ""12b"" and ""11"". All quantities will be assigned to ""12 b"".",Code 03a.,A-P-S-5806-0001
+A,CU3,2W,12a,ACU32W12a,ACU32W12a,3/15/2014,3/15/2014,1,0,0,0,0,Construct,Code 03.,"Lift ""12a/12b/11"" will be divided in ""12a"", ""12b"" and ""11"". All quantities will be assigned to ""12 b"".",Code 03a.,A-P-S-5806-0001
+A,CU3,2W,11,ACU32W11,ACU32W11,3/15/2014,3/15/2014,1,0,0,0,9,Construct,Code 03.,"Lift ""12a/12b/11"" will be divided in ""12a"", ""12b"" and ""11"". All quantities will be assigned to ""12 b"".",Code 03a.,A-P-S-5807-0002
+A,CU3,2W,10,ACU32W10,ACU32W10,3/24/2014,3/24/2014,1,328,245,1,5,Construct,,,,
+A,CU3,2W,9,ACU32W09,ACU32W09,3/29/2014,3/29/2014,1,256,245,1,6,Construct,,,,
+A,CU3,2W,08b,ACU32W08b,ACU32W08b,4/4/2014,4/4/2014,1,144,138,1,6,Construct,,,,
+A,CU3,2W,08a,ACU32W08a,ACU32W08a,4/10/2014,4/10/2014,1,104,76,1,11,Construct,,,,
+A,CU3,2W,7,ACU32W07,ACU32W07,4/21/2014,4/22/2014,2,248,174,2,32,Construct,,,,
+A,CU3,2W,6,ACU32W06,ACU32W06,5/24/2014,5/24/2014,1,224,174,1,17,Construct,,,,
+A,CU3,2W,5,ACU32W05,ACU32W05,6/10/2014,6/10/2014,1,144,174,1,16,Construct,,,,
+A,CU3,2W,4,ACU32W04,ACU32W04,6/26/2014,6/26/2014,1,160,110,1,13,Construct,,,,
+A,CU3,2W,3,ACU32W03,ACU32W03,7/9/2014,7/9/2014,1,104,110,1,12,Construct,,,,
+A,CU3,2W,02a,ACU32W02a,ACU32W02a,7/21/2014,7/21/2014,1,88,109,1,0,Construct,Code 03.,"Lift ""02"" will be divided into ""02a"" and ""02b"". All quantities will be assigned to ""02a"".",Code 03a.,A-P-S-5807-0002
+A,CU3,2W,02b,ACU32W02b,ACU32W02b,7/21/2014,7/21/2014,1,0,0,0,171,Construct,Code 03.,"Lift ""02"" will be divided into ""02a"" and ""02b"". All quantities will be assigned to ""02a"".",Code 03a.,A-P-S-5807-0002
+A,CU3,2W,1,ACU32W01,ACU32W01,1/8/2015,1/8/2015,1,65,57,1,54,Construct,Code 05.,"Lift ""W01"" will be renamed as ""01"".",Code 05a.,A-P-S-5807-0002
+A,CU3,2W,IW,ACU32WIW,ACU32WIW,3/3/2015,8/20/2015,171,197,173,15,,Construct,Code 08.,"Several lifts corresponding to internal walls and stairs were joined as ""IW"" of monolith 2W.",Code 08a.,A-P-S-5807-0002

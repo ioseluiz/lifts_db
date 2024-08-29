@@ -1,0 +1,71 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+A,CC5,A,5,ACC5A05,ACC5A05,01/14/2013,03/04/2013,50,872,828,4,-2,Construct,Code 02.,"Joining lift ""05"", ""05 b"" and ""05 a"", under the name of ""05"".",Code 02a.,A-P-S-5420-0001
+A,CC5,A,04a,ACC5A04a,ACC5A04a,03/02/2013,03/02/2013,1,168,154,1,12,Construct,,,,
+A,CC5,A,03a,ACC5A03a,ACC5A03a,03/14/2013,03/14/2013,1,168,160,1,4,Construct,,,,
+A,CC5,A,04b,ACC5A04b,ACC5A04b,03/18/2013,03/19/2013,2,160,154,2,13,Construct,,,,
+A,CC5,A,03b,ACC5A03b,ACC5A03b,04/01/2013,04/01/2013,1,176,160,1,-60,Construct,,,,
+A,CC5,B,5,ACC5B05,ACC5B05,01/31/2013,04/02/2013,62,613,588,6,3,Construct,Code 02.,"Joining lift ""05"", ""05 a"", ""05 b"" and ""05 c"", under the name of ""05"".",Code 02a.,A-P-S-5455-0001
+A,CC5,B,04a,ACC5B04a,ACC5B04a,04/05/2013,04/05/2013,1,80,76,1,4,Construct,,,,
+A,CC5,B,04c,ACC5B04c,ACC5B04c,04/09/2013,04/10/2013,2,72,72,2,2,Construct,,,,
+A,CC5,B,03a,ACC5B03a,ACC5B03a,04/12/2013,04/12/2013,1,72,65,1,3,Construct,,,,
+A,CC5,B,03c,ACC5B03c,ACC5B03c,04/15/2013,04/15/2013,1,64,62,1,2,Construct,,,,
+A,CC5,B,04b,ACC5B04b,ACC5B04b,04/17/2013,04/17/2013,1,156,134,1,7,Construct,,,,
+A,CC5,B,03b,ACC5B03b,ACC5B03b,04/24/2013,04/24/2013,1,144,115,1,59,Construct,,,,
+A,CC5,B,2,ACC5B02,ACC5B02,06/22/2013,06/22/2013,1,632,578,1,3,Construct,,,,
+A,CC5,B,1,ACC5B01,ACC5B01,06/25/2013,06/26/2013,2,699,684,2,-138,Construct,,,,
+A,CC5,C,5,ACC5C05,ACC5C05,02/08/2013,04/18/2013,70,630,620,3,6,Construct,Code 02.,"Joining lift ""05"", ""05 b"" and ""05 c"", under the name of ""05"".",Code 02a.,A-P-S-5458-0001
+A,CC5,C,04c,ACC5C04c,ACC5C04c,04/24/2013,04/24/2013,1,72,75,1,2,Construct,,,,
+A,CC5,C,04a,ACC5C04a,ACC5C04a,04/26/2013,04/26/2013,1,72,68,1,5,Construct,,,,
+A,CC5,C,04b,ACC5C04b,ACC5C04b,05/01/2013,05/01/2013,1,144,132,1,1,Construct,,,,
+A,CC5,C,03c,ACC5C03c,ACC5C03c,05/02/2013,05/02/2013,1,72,65,1,6,Construct,,,,
+A,CC5,C,03a,ACC5C03a,ACC5C03a,05/08/2013,05/09/2013,2,72,59,2,0,Construct,,,,
+A,CC5,C,03b,ACC5C03b,ACC5C03b,05/09/2013,05/10/2013,2,120,114,2,26,Construct,,,,
+A,CC5,C,2,ACC5C02,ACC5C02,06/05/2013,06/05/2013,1,640,754,1,3,Construct,,,,
+A,CC5,C,1,ACC5C01,ACC5C01,06/08/2013,06/08/2013,1,702,578,1,-106,Construct,,,,
+A,CC5,D,5,ACC5D05,ACC5D05,02/22/2013,03/20/2013,27,898,844,4,6,Construct,Code 02.,"Joining lift ""05"", ""05 a&c"" and ""05 b"", under the name of ""05"".",Code 02a.,A-P-S-5461-0001
+A,CC5,D,04b,ACC5D04b,ACC5D04b,03/26/2013,03/26/2013,1,80,70,1,0,Construct,,,,
+A,CC5,D,04c,ACC5D04c,ACC5D04c,03/26/2013,03/27/2013,2,320,311,2,1,Construct,,,,
+A,CC5,D,04a,ACC5D04a,ACC5D04a,03/28/2013,03/28/2013,1,68,70,1,4,Construct,,,,
+A,CC5,D,03b,ACC5D03b,ACC5D03b,04/01/2013,04/01/2013,1,72,60,1,2,Construct,,,,
+A,CC5,D,03a,ACC5D03a,ACC5D03a,04/03/2013,04/03/2013,1,72,60,1,2,Construct,,,,
+A,CC5,D,03c,ACC5D03c,ACC5D03c,04/05/2013,04/05/2013,1,280,268,1,20,Construct,,,,
+A,CC5,D,2,ACC5D02,ACC5D02,04/25/2013,04/26/2013,2,856,777,2,6,Construct,,,,
+A,CC5,D,1,ACC5D01,ACC5D01,05/02/2013,05/03/2013,2,992,1022,2,-301,Construct,,,,
+A,CC5,E,5,ACC5E05,ACC5E05,07/06/2012,07/13/2012,8,188,196,3,6,Construct,,,,
+A,CC5,E,04c,ACC5E04c,ACC5E04c,07/19/2012,07/20/2012,2,56,56,2,0,Construct,,,,
+A,CC5,E,04b,ACC5E04b,ACC5E04b,07/20/2012,07/20/2012,1,56,34,1,5,Construct,,,,
+A,CC5,E,03b,ACC5E03b,ACC5E03b,07/25/2012,07/25/2012,1,40,30,1,0,Construct,,,,
+A,CC5,E,03c,ACC5E03c,ACC5E03c,07/25/2012,07/25/2012,1,48,47,1,9,Construct,,,,
+A,CC5,E,2,ACC5E02,ACC5E02,08/03/2012,08/03/2012,1,191,193,1,7,Construct,,,,
+A,CC5,E,1,ACC5E01,ACC5E01,08/10/2012,08/11/2012,2,230,229,2,144,Construct,,,,
+A,CC5,F,5,ACC5F05,ACC5F05,01/02/2013,04/30/2013,119,544,541,4,-10,Construct,Code 02.,"Joining lift ""05"", ""05 a"", ""05 b"" and ""05 c"", under the name of ""05"".",Code 02a.,A-P-S-5467-0001
+A,CC5,F,4,ACC5F04,ACC5F04,04/20/2013,07/02/2013,74,559,510,6,-57,Construct,Code 02.,"Joining lift ""04 b"", ""04 c"", ""04 a"" and ""04 (Ramp)"", under the name of ""04"".",Code 02a.,A-P-S-5468-0002
+A,CC5,F,3,ACC5F03,ACC5F03,05/06/2013,07/17/2013,73,533,565,5,20,Construct,Code 02.,"Joining lift ""03 b"", ""03 c"", ""03 a"" and ""03 (ramp)"", under the name of ""03"".",Code 02a.,A-P-S-5468-0002
+A,CC5,F,2,ACC5F02,ACC5F02,08/06/2013,08/07/2013,2,532,526,2,-264,Construct,,,,
+A,CC5,G,5,ACC5G05,ACC5G05,11/16/2012,11/16/2012,1,104,93,1,15,Construct,,,,
+A,CC5,G,4,ACC5G04,ACC5G04,12/01/2012,12/01/2012,1,68,53,1,9,Construct,,,,
+A,CC5,G,3,ACC5G03,ACC5G03,12/10/2012,12/10/2012,1,56,61,1,9,Construct,,,,
+A,CC5,G,2,ACC5G02,ACC5G02,12/19/2012,12/19/2012,1,64,61,1,-16,Construct,,,,
+A,CC5,H,5,ACC5H05,ACC5H05,12/03/2012,12/03/2012,1,104,93,1,4,Construct,,,,
+A,CC5,H,4,ACC5H04,ACC5H04,12/07/2012,12/07/2012,1,48,53,1,11,Construct,,,,
+A,CC5,H,3,ACC5H03,ACC5H03,12/18/2012,12/19/2012,2,56,61,2,33,Construct,,,,
+A,CC5,H,2,ACC5H02,ACC5H02,01/21/2013,01/21/2013,1,72,61,1,60,Construct,,,,
+A,CC5,I,5,ACC5I05,ACC5I05,03/22/2013,05/27/2013,67,320,285,5,1,Construct,Code 02.,"Joining lift ""05"", ""05 a"", ""05 b&c"" and ""05 c"", under the name of ""05"".",Code 02a.,A-P-S-5475-0001
+A,CC5,I,04a,ACC5I04a,ACC5I04a,05/28/2013,05/28/2013,1,0,0,0,0,Construct,Code 01.,"A new row was created under the name of ""04 a"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,A-P-S-5476-0001
+A,CC5,I,04c,ACC5I04c,ACC5I04c,05/28/2013,05/28/2013,1,0,0,0,6,Construct,Code 01.,"A new row was created under the name of ""04 c"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,A-P-S-5476-0001
+A,CC5,I,03a,ACC5I03a,ACC5I03a,06/03/2013,06/03/2013,1,32,30,1,0,Construct,,,,
+A,CC5,I,03c,ACC5I03c,ACC5I03c,06/03/2013,06/03/2013,1,72,47,1,23,Construct,,,,
+A,CC5,I,2,ACC5I02,ACC5I02,06/26/2013,06/26/2013,1,208,193,1,3,Construct,,,,
+A,CC5,I,1,ACC5I01,ACC5I01,06/29/2013,06/29/2013,1,216,229,1,-72,Construct,,,,
+A,CC5,J,5,ACC5J05,ACC5J05,04/18/2013,09/03/2013,139,504,541,2,-1,Construct,Code 02.,"Joining lift ""05"" and ""05 (Kicker b)"", under the name of ""05"".",Code 02a.,A-P-S-5478-0001
+A,CC5,J,4,ACC5J04,ACC5J04,09/02/2013,09/28/2013,27,522,540,6,-22,Construct,Code 02.,"Joining lift ""J04a"", ""J04b"", ""J04c"", ""J04 (Ramp)  under the name of ""J04"".",Code 02a.,A-P-S-5479-0002
+A,CC5,J,3,ACC5J03,ACC5J03,09/06/2013,10/08/2013,33,645,540,5,17,Construct,Code 02.,"Joining lift ""J03a"", ""J03b"", ""J03c"", ""J03 (Ramp)"" under the name of ""J03"".",Code 02a.,A-P-S-5479-0002
+A,CC5,J,2,ACC5J02,ACC5J02,10/25/2013,10/26/2013,2,649,526,2,-170,Construct,,,,
+A,CC5,K,5,ACC5K05,ACC5K05,05/09/2013,05/09/2013,1,104,93,1,33,Construct,,,,
+A,CC5,K,4,ACC5K04,ACC5K04,06/11/2013,06/11/2013,1,72,53,1,7,Construct,,,,
+A,CC5,K,3,ACC5K03,ACC5K03,06/18/2013,06/18/2013,1,64,61,1,7,Construct,,,,
+A,CC5,K,2,ACC5K02,ACC5K02,06/25/2013,06/25/2013,1,56,61,1,-96,Construct,,,,
+A,CC5,L,5,ACC5L05,ACC5L05,03/21/2013,03/21/2013,1,120,93,1,11,Construct,,,,
+A,CC5,L,4,ACC5L04,ACC5L04,04/01/2013,04/01/2013,1,72,53,1,15,Construct,,,,
+A,CC5,L,3,ACC5L03,ACC5L03,04/16/2013,04/16/2013,1,72,61,1,16,Construct,,,,
+A,CC5,L,2,ACC5L02,ACC5L02,05/02/2013,05/02/2013,1,56,61,1,,Construct,,,,
