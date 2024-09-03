@@ -332,9 +332,51 @@ def main():
         cds_lift.insert_cdslift(report_id, lift_reported_id)
         
     print("CDS Values inserted successfully...")
-        
-        
     
+    # Read Redfer CDS csv file        
+    cds_redfern = "cds_redfern_request.csv"
+    full_cds_file_path = Path(CDS_FOLDER) / cds_redfern
+    cds_data = read_csv(full_cds_file_path)
+    
+    cds_report_data = []
+    for item in cds_data:
+        info = {}
+        # CDS Report DATA
+        info["report"] = item["report"]
+        info["qty_equipment"] = item["qty_equipment"]
+        info["volume"] = item["volume"]
+        info["concrete_start"] = item["concrete_start"]
+        info["concrete_finish"] = item["concrete_finish"]
+        info["duration"] = item["duration"]
+        info["calc_duration"] = item["calc_duration"]
+        info["rate"] = item["rate"]
+        info["calc_rate"] = item["calc_rate"]
+        info["source"] = item["type"]
+        
+        if len(cds_report_data) == 0:
+            cds_report_data.append(info)
+        else:
+            # Check if the dictionary alredy exists in the list
+            duplicated = [x for x in cds_report_data if x == info]
+            if len(duplicated) == 0:
+                cds_report_data.append(info)
+                
+        # Insert CDS Report in table CDS
+    cds_report_data_list = list(cds_report_data)
+    for item in cds_report_data_list:
+        cds.insert_cds(item["report"], item["qty_equipment"], item["volume"], item["concrete_start"],
+                       item["concrete_finish"], item["duration"], item["calc_duration"],
+                       item["rate"], item["calc_rate"],item["source"])
+        
+    # Create Table CDSLift
+    for item in cds_data:
+        report = item["report"]
+        report_id = cds.get_report_id_by_name(report)
+        lift_reported = item["lift"]
+        lift_reported_id = lift.get_lift_id_by_name(lift_reported)
+        cds_lift.insert_cdslift(report_id, lift_reported_id)
+        
+    print("CDS Values inserted successfully...")
             
         
 
