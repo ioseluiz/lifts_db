@@ -1,0 +1,61 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+P,VS2,,C01a,PVS2C01a,PVS2C01a,06/19/2013,06/26/2013,8,571,547,3,-7,Construct,Code 03.,"Lift ""C1a&b"" will be separated into ""C1"" and ""C1b"".  All quantities will be assigned to ""C1"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C01b1,PVS2C01b1,PVS2C01b1,06/19/2013,06/26/2013,8,0,0,0,20,Construct,Code 03.,"Lift ""C1a&b"" will be separated into ""C1a"" and ""C1b"".  All quantities will be assigned to ""C1a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C01b3,PVS2C01b3,PVS2C01b3,07/16/2013,07/18/2013,3,617,569,4,9,Construct,"Code 05.
+
+Code 02.","Lift ""C1a&b"" will be renamed as ""C1b"".
+
+Joining Lift ""C1b 3"" with ""C1a&b (1st stage) 3"" under the name of ""C1b 3"".","Code 05a.
+
+Code 02a.",P-P-S-6710-0003
+P,VS2,,C01b2,PVS2C01b2,PVS2C01b2,07/27/2013,08/03/2013,8,498,594,2,-106,Construct,Code 05.,"Lift ""C1a&b"" will be renamed as ""C1b"".",Code 05a.,P-P-S-6710-0003
+P,VS2,,C02a1,PVS2C02a1,PVS2C02a1,04/19/2013,04/20/2013,2,141,110,2,-1,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b1,PVS2C02b1,PVS2C02b1,04/19/2013,04/20/2013,2,0,0,0,16,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02a3,PVS2C02a3,PVS2C02a3,05/06/2013,05/07/2013,2,185,168,2,-1,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b3,PVS2C02b3,PVS2C02b3,05/06/2013,05/07/2013,2,0,0,0,3,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02a2,PVS2C02a2,PVS2C02a2,05/10/2013,05/11/2013,2,136,131,2,-1,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b2,PVS2C02b2,PVS2C02b2,05/10/2013,05/11/2013,2,0,0,0,17,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02a5,PVS2C02a5,PVS2C02a5,05/28/2013,05/29/2013,2,222,181,2,-1,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b5,PVS2C02b5,PVS2C02b5,05/28/2013,05/29/2013,2,0,0,0,7,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02a7,PVS2C02a7,PVS2C02a7,06/05/2013,06/05/2013,1,129,109,1,0,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b7,PVS2C02b7,PVS2C02b7,06/05/2013,06/05/2013,1,0,0,0,2,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02a6,PVS2C02a6,PVS2C02a6,06/07/2013,06/07/2013,1,129,122,1,0,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b6,PVS2C02b6,PVS2C02b6,06/07/2013,06/07/2013,1,0,0,0,17,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02a4,PVS2C02a4,PVS2C02a4,06/24/2013,06/24/2013,1,121,126,1,0,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C02b4,PVS2C02b4,PVS2C02b4,06/24/2013,06/24/2013,1,0,0,0,-81,Construct,Code 03.,"Lift ""C2a&b"" will be separated into ""C2a"" and ""C2b"".  All quantities will be assigned to ""C2a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a1,PVS2C03a1,PVS2C03a1,04/04/2013,04/04/2013,1,124,107,1,0,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b1,PVS2C03b1,PVS2C03b1,04/04/2013,04/04/2013,1,0,0,0,14,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a3,PVS2C03a3,PVS2C03a3,04/18/2013,04/18/2013,1,168,161,1,0,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b3,PVS2C03b3,PVS2C03b3,04/18/2013,04/18/2013,1,0,0,0,13,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a2,PVS2C03a2,PVS2C03a2,05/01/2013,05/01/2013,1,145,126,1,0,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b2,PVS2C03b2,PVS2C03b2,05/01/2013,05/01/2013,1,0,0,0,15,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a5,PVS2C03a5,PVS2C03a5,05/16/2013,05/17/2013,2,184,181,2,-1,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b5,PVS2C03b5,PVS2C03b5,05/16/2013,05/17/2013,2,0,0,0,5,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a6,PVS2C03a6,PVS2C03a6,05/22/2013,05/23/2013,2,129,117,2,-1,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b6,PVS2C03b6,PVS2C03b6,05/22/2013,05/23/2013,2,0,0,0,0,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a7,PVS2C03a7,PVS2C03a7,05/23/2013,05/24/2013,2,137,106,2,-1,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b7,PVS2C03b7,PVS2C03b7,05/23/2013,05/24/2013,2,0,0,0,20,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03a4,PVS2C03a4,PVS2C03a4,06/13/2013,06/14/2013,2,131,121,2,-1,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C03b4,PVS2C03b4,PVS2C03b4,06/13/2013,06/14/2013,2,0,0,0,-218,Construct,Code 03.,"Lift ""C3a&b"" will be separated into ""C3a"" and ""C3b"".  All quantities will be assigned to ""C3a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C04a1,PVS2C04a1,PVS2C04a1,11/08/2012,11/09/2012,2,592.3,568,2,-1,Construct,Code 03.,"Lift ""C4a&b"" will be separated into ""C4a"" and ""C4b"".  All quantities will be assigned to ""C4a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C04b1,PVS2C04b1,PVS2C04b1,11/08/2012,11/09/2012,2,0,0,0,11,Construct,Code 03.,"Lift ""C4a&b"" will be separated into ""C4a"" and ""C4b"".  All quantities will be assigned to ""C4a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C04a2,PVS2C04a2,PVS2C04a2,11/20/2012,11/21/2012,2,550,544,2,-1,Construct,Code 03.,"Lift ""C4a&b"" will be separated into ""C4a"" and ""C4b"".  All quantities will be assigned to ""C4a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C04b2,PVS2C04b2,PVS2C04b2,11/20/2012,11/21/2012,2,0,0,0,12,Construct,Code 03.,"Lift ""C4a&b"" will be separated into ""C4a"" and ""C4b"".  All quantities will be assigned to ""C4a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C04a3,PVS2C04a3,PVS2C04a3,12/03/2012,12/04/2012,2,588,576,2,-1,Construct,Code 03.,"Lift ""C4a&b"" will be separated into ""C4a"" and ""C4b"".  All quantities will be assigned to ""C4a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C04b3,PVS2C04b3,PVS2C04b3,12/03/2012,12/04/2012,2,0,0,0,-64,Construct,Code 03.,"Lift ""C4a&b"" will be separated into ""C4a"" and ""C4b"".  All quantities will be assigned to ""C4a"".",Code 03a.,P-P-S-6710-0003
+P,VS2,,C05a1,PVS2C05a1,PVS2C05a1,10/01/2012,10/02/2012,2,170,174,2,1,Construct,,,,
+P,VS2,,C05a3,PVS2C05a3,PVS2C05a3,10/03/2012,10/03/2012,1,168,174,1,2,Construct,,,,
+P,VS2,,C05a2,PVS2C05a2,PVS2C05a2,10/05/2012,10/06/2012,2,176,168,2,2,Construct,,,,
+P,VS2,,C05b1,PVS2C05b1,PVS2C05b1,10/08/2012,10/09/2012,2,175,175,2,1,Construct,,,,
+P,VS2,,C05b2,PVS2C05b2,PVS2C05b2,10/10/2012,10/11/2012,2,171,173,2,1,Construct,,,,
+P,VS2,,C05b3,PVS2C05b3,PVS2C05b3,10/12/2012,10/13/2012,2,206,188,2,840,Construct,,,,
+P,VS2,,W01,PVS2W01,PVS2W01,01/31/2015,01/31/2015,1,305,284,3,-500,Construct,Code 02.,"Joining ""W01 A1"", ""W01 A2"" and ""W01 A3"" under the name of ""W01"".",Code 02a.,P-P-S-6710-0002
+P,VS2,,W02,PVS2W02,PVS2W02,09/18/2013,09/18/2013,1,822,797,5,-14,Construct,Code 02.,"Joining ""W02 A1"", ""W02 A2"" and ""W02 A3"" under the name of ""W02"".",Code 02a.,P-P-S-6710-0002
+P,VS2,,W03,PVS2W03,PVS2W03,09/04/2013,10/04/2013,31,836,814,5,-39,Construct,Code 02.,"Joining ""W03 A1"", ""W03 A2"" and ""W03 A3"" under the name of ""W03"".",Code 02a.,P-P-S-6710-0002
+P,VS2,,W04,PVS2W04,PVS2W04,08/26/2013,08/27/2013,2,839,814,5,-15,Construct,Code 02.,"Joining ""W04 A1"", ""W04 A2"" and ""W04 A3"" under the name of ""W04"".",Code 02a.,P-P-S-6710-0002
+P,VS2,,W05,PVS2W05,PVS2W05,08/12/2013,08/13/2013,2,848,814,6,-15,Construct,Code 02.,"Joining ""W05 A1"", ""W05 A2"" and ""W05 A3"" under the name of ""W05"".",Code 02a.,P-P-S-6710-0002
+P,VS2,,W06,PVS2W06,PVS2W06,07/29/2013,07/29/2013,1,841,781,5,-20,Construct,Code 02.,"Joining ""W06 A1"", ""W06 A2"" and ""W06 A3"" under the name of ""W06"".",Code 02a.,P-P-S-6710-0002
+P,VS2,,W07,PVS2W07,PVS2W07,07/09/2013,07/10/2013,2,914,810,6,,Construct,Code 02.,"Joining ""W07 A1"", ""W07 A2"" and ""W07 A3"" under the name of ""W07"".",Code 02a.,P-P-S-6710-0002
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

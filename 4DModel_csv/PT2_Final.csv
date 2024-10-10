@@ -1,0 +1,281 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+P,T2,C312,F01 a,PT2C312F01a,PT2C312F01a,09/03/2014,09/04/2014,2,192,200,2,22,Construct,.,,,
+P,T2,C312,F01 b,PT2C312F01b,PT2C312F01b,09/26/2014,09/26/2014,1,231,200,1,12,Construct,,,,
+P,T2,C312,W04 a,PT2C312W04a,PT2C312W04a,10/08/2014,10/08/2014,1,24,23,1,0,Construct,,,,
+P,T2,C312,W04 b,PT2C312W04b,PT2C312W04b,10/08/2014,10/08/2014,1,16,23,1,21,Construct,,,,
+P,T2,C312,W03 b,PT2C312W03b,PT2C312W03b,10/29/2014,10/29/2014,1,50,46,1,17,Construct,,,,
+P,T2,C312,W03 a,PT2C312W03a,PT2C312W03a,11/15/2014,11/15/2014,1,50,46,1,39,Construct,,,,
+P,T2,C312,W02c,PT2C312W02c,PT2C312W02c,12/24/2014,12/24/2014,1,22,42,1,21,Construct,,,,
+P,T2,C312,W01 c,PT2C312W01c,PT2C312W01c,01/14/2015,01/14/2015,1,76,46,1,0,Construct,Code 03.,"Lift ""W01 c+d+e"" will be separated into ""W01c"", ""W01d"" and ""W01e"".  All quantities will be assigned to W01c.",Code 03a.,P-P-S-6820-0004
+P,T2,C312,W01 d,PT2C312W01d,PT2C312W01d,01/14/2015,01/14/2015,1,0,0,0,0,Construct,Code 03.,"Lift ""W01 c+d+e"" will be separated into ""W01c"", ""W01d"" and ""W01e"".  All quantities will be assigned to W01c.",Code 03a.,P-P-S-6820-0004
+P,T2,C312,W01 e,PT2C312W01e,PT2C312W01e,01/14/2015,01/14/2015,1,0,0,0,-183,Construct,Code 03.,"Lift ""W01 c+d+e"" will be separated into ""W01c"", ""W01d"" and ""W01e"".  All quantities will be assigned to W01c.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,F01 a,PT2C311F01a,PT2C311F01a,07/15/2014,07/16/2014,2,376,358,2,-1,Construct,Code 03.,"Lift ""F01 a+b"" will be separated into ""F01a"" and ""F01b"".  All quantities will be assigned to F01a.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,F01 b,PT2C311F01b,PT2C311F01b,07/15/2014,07/16/2014,2,0,0,0,19,Construct,Code 03.,"Lift ""F01 a+b"" will be separated into ""F01a"" and ""F01b"".  All quantities will be assigned to F01a.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,W05 b,PT2C311W05b,PT2C311W05b,08/04/2014,08/04/2014,1,46,43,1,1,Construct,,,,
+P,T2,C311,W05 a,PT2C311W05a,PT2C311W05a,08/05/2014,08/05/2014,1,47,43,1,52,Construct,,,,
+P,T2,C311,W04 b,PT2C311W04b,PT2C311W04b,09/26/2014,09/26/2014,1,57,46,1,6,Construct,,,,
+P,T2,C311,W04 a,PT2C311W04a,PT2C311W04a,10/02/2014,10/02/2014,1,48,46,1,21,Construct,,,,
+P,T2,C311,W03 b,PT2C311W03b,PT2C311W03b,10/23/2014,10/23/2014,1,75,65,1,4,Construct,,,,
+P,T2,C311,W03 a,PT2C311W03a,PT2C311W03a,10/27/2014,10/27/2014,1,65,65,1,19,Construct,,,,
+P,T2,C311,P06,PT2C311P06,PT2C311P06,11/15/2014,11/15/2014,1,13,29,1,0,Construct,Code 03.,"Lift ""P06+P07"" will be divided into ""P06"" and ""P07"".  All quantities will be asigned to P06.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,P07,PT2C311P07,PT2C311P07,11/15/2014,11/15/2014,1,0,0,0,9,Construct,Code 03.,"Lift ""P06+P07"" will be divided into ""P06"" and ""P07"".  All quantities will be asigned to P06.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,P05,PT2C311P05,PT2C311P05,11/24/2014,11/24/2014,1,45,34,1,0,Construct,Code 03.,"Lift ""C3-11+12 P05+P04"" will be divided into ""C3-11 P05"", ""C3-11 P04"", ""C3-12 P05"" and ""C3-12 P04"".  All quantities will be asigned to C3-11 P05.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,P04,PT2C311P04,PT2C311P04,11/24/2014,11/24/2014,1,0,0,0,0,Construct,Code 03.,"Lift ""C3-11+12 P05+P04"" will be divided into ""C3-11 P05"", ""C3-11 P04"", ""C3-12 P05"" and ""C3-12 P04"".  All quantities will be asigned to C3-11 P05.",Code 03a.,P-P-S-6820-0004
+P,T2,C312,P05,PT2C312P05,PT2C312P05,11/24/2014,11/24/2014,1,0,0,0,0,Construct,Code 03.,"Lift ""C3-11+12 P05+P04"" will be divided into ""C3-11 P05"", ""C3-11 P04"", ""C3-12 P05"" and ""C3-12 P04"".  All quantities will be asigned to C3-11 P05.",Code 03a.,P-P-S-6820-0004
+P,T2,C312,P04,PT2C312P04,PT2C312P04,11/24/2014,11/24/2014,1,0,0,0,9,Construct,Code 03.,"Lift ""C3-11+12 P05+P04"" will be divided into ""C3-11 P05"", ""C3-11 P04"", ""C3-12 P05"" and ""C3-12 P04"".  All quantities will be asigned to C3-11 P05.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,P03,PT2C311P03,PT2C311P03,12/03/2014,12/04/2014,2,59,55,2,-1,Construct,Code 03.,"Lift ""C3-11+12 P03+P02"" will be divided into ""C3-11 P03"", ""C3-11 P02"", ""C3-12 P03"" and ""C3-12 P02"".  All quantities will be asigned to C3-11 P03.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,P02,PT2C311P02,PT2C311P02,12/03/2014,12/04/2014,2,0,0,0,-1,Construct,Code 03.,"Lift ""C3-11+12 P03+P02"" will be divided into ""C3-11 P03"", ""C3-11 P02"", ""C3-12 P03"" and ""C3-12 P02"".  All quantities will be asigned to C3-11 P03.",Code 03a.,P-P-S-6820-0004
+P,T2,C312,P03,PT2C312P03,PT2C312P03,12/03/2014,12/04/2014,2,0,0,0,-1,Construct,Code 03.,"Lift ""C3-11+12 P03+P02"" will be divided into ""C3-11 P03"", ""C3-11 P02"", ""C3-12 P03"" and ""C3-12 P02"".  All quantities will be asigned to C3-11 P03.",Code 03a.,P-P-S-6820-0004
+P,T2,C312,P02,PT2C312P02,PT2C312P02,12/03/2014,12/04/2014,2,0,0,0,5,Construct,Code 03.,"Lift ""C3-11+12 P03+P02"" will be divided into ""C3-11 P03"", ""C3-11 P02"", ""C3-12 P03"" and ""C3-12 P02"".  All quantities will be asigned to C3-11 P03.",Code 03a.,P-P-S-6820-0004
+P,T2,C311,P01,PT2C311P01,PT2C311P01,12/09/2014,12/09/2014,1,16,10,1,0,Construct,Code 04.,"Lift ""C3-11+12 P01"" will be divided into ""C3-11 P01"" and ""C3-12 P01"".  All quantities will be assigned to ""C3-11 P01"". ",Code 04a.,P-P-S-6820-0004
+P,T2,C312,P01,PT2C312P01,PT2C312P01,12/09/2014,12/09/2014,1,0,0,0,2,Construct,Code 04.,"Lift ""C3-11+12 P01"" will be divided into ""C3-11 P01"" and ""C3-12 P01"".  All quantities will be assigned to ""C3-11 P01"". ",Code 04a.,P-P-S-6820-0004
+P,T2,C311,W02 a,PT2C311W02a,PT2C311W02a,12/11/2014,12/11/2014,1,15,33,1,0,Construct,Code 04.,"Lift ""C3-11+12 W02a"" will be divided into ""C3-11 W02a"" and ""C3-12 W02a"".  All quantities will be assigned to C3-11 W02a.",Code 04a.,P-P-S-6820-0003
+P,T2,C312,W02 a,PT2C312W02a,PT2C312W02a,12/11/2014,12/11/2014,1,32,66,2,0,Construct,"Code 04.
+
+Code 03.","Lift ""C3-11+12 W02a"" will be divided into ""C3-11 W02a"" and ""C3-12 W02a"".  All quantities will be assigned to C3-11 W02a.
+In this lift ""C3-12 W02a"" will be accounted the lift ""C3-11+12 W02a+b"".","Code 04a.
+
+Code 03a.",P-P-S-6820-0003
+P,T2,C311,W02 b,PT2C311W02b,PT2C311W02b,12/11/2014,12/11/2014,1,28,38,1,0,Construct,Code 04.,"Lift ""C3-11+12 W02b"" will be divided into ""C3-11 W02b"" and ""C3-12 W02b"".  All quantities will be assigned to C3-11 W02b.",Code 04a.,P-P-S-6820-0004
+P,T2,C312,W02 b,PT2C312W02b,PT2C312W02b,12/11/2014,12/11/2014,1,0,0,0,27,Construct,Code 04.,"Lift ""C3-11+12 W02b"" will be divided into ""C3-11 W02b"" and ""C3-12 W02b"".  All quantities will be assigned to C3-11 W02b.",Code 04a.,P-P-S-6820-0004
+P,T2,C311,W01 a,PT2C311W01a,PT2C311W01a,01/07/2015,01/07/2015,1,70,33,1,0,Construct,Code 04.,"Lift ""C3-11+12 W01a"" will be divided into ""C3-11 W01a"" and ""C3-12 W01a"".  All quantities will be assigned to C3-11 W01a.",Code 04a.,P-P-S-6820-0003
+P,T2,C312,W01 a,PT2C312W01a,PT2C312W01a,01/07/2015,01/07/2015,1,0,0,0,5,Construct,Code 04.,"Lift ""C3-11+12 W01a"" will be divided into ""C3-11 W01a"" and ""C3-12 W01a"".  All quantities will be assigned to C3-11 W01a.",Code 04a.,P-P-S-6820-0003
+P,T2,C311,W01 b,PT2C311W01b,PT2C311W01b,01/12/2015,01/12/2015,1,57,33,1,0,Construct,Code 04.,"Lift ""C3-11+12 W01b"" will be divided into ""C3-11 W01b"" and ""C3-12 W01b"".  All quantities will be assigned to C3-11 W01b.",Code 04a.,P-P-S-6820-0004
+P,T2,C312,W01 b,PT2C312W01b,PT2C312W01b,01/12/2015,01/12/2015,1,0,0,0,-107,Construct,Code 04.,"Lift ""C3-11+12 W01b"" will be divided into ""C3-11 W01b"" and ""C3-12 W01b"".  All quantities will be assigned to C3-11 W01b.",Code 04a.,P-P-S-6820-0004
+P,T2,C312,W02d,PT2C312W02d,PT2C312W02d,09/27/2014,09/27/2014,1,0,0,0,90,Construct,Code 01.,"A new row was created under the name of ""W02d"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0004
+P,T2,C312,W02e,PT2C312W02e,PT2C312W02e,12/26/2014,12/26/2014,1,0,0,0,-679,Construct,Code 04.,"A new row was created under the name of ""W02e"", with 0 quantities and the date of the previous lift plus one day.",Code 04a.,P-P-S-6820-0004
+P,T2,C310,F01,PT2C310F01,PT2C310F01,02/15/2013,02/16/2013,2,248,259,2,530,Construct,,,,
+P,T2,C310,W02 b,PT2C310W02b,PT2C310W02b,07/31/2014,07/31/2014,1,27,48,1,2,Construct,,,,
+P,T2,C310,W02 a,PT2C310W02a,PT2C310W02a,08/02/2014,08/02/2014,1,40,48,1,25,Construct,,,,
+P,T2,C310,W01a,PT2C310W01a,PT2C310W01a,08/27/2014,08/27/2014,1,40,48,1,13,Construct,Code 05.,"Lift ""W01E"" will be renamed as ""W01b"".",Code 05a.,P-P-S-6820-0005
+P,T2,C310,W01 b,PT2C310W01b,PT2C310W01b,09/09/2014,09/09/2014,1,32,41,1,21,Construct,,,,
+P,T2,C310,P04,PT2C310P04,PT2C310P04,09/30/2014,09/30/2014,1,14,16,1,8,Construct,,,,
+P,T2,C310,P03,PT2C310P03,PT2C310P03,10/08/2014,10/08/2014,1,23,23,1,8,Construct,,,,
+P,T2,C310,P02,PT2C310P02,PT2C310P02,10/16/2014,10/16/2014,1,31,27,1,0,Construct,Code 03.,"Lift ""P02+P01"" will be divided into ""P02"" and ""P01"".  All quantities will be assigned to ""P02"".",Code 03a.,P-P-S-6820-0005
+P,T2,C310,P01,PT2C310P01,PT2C310P01,10/16/2014,10/16/2014,1,0,0,0,76,Construct,Code 03.,"Lift ""P02+P01"" will be divided into ""P02"" and ""P01"".  All quantities will be assigned to ""P02"".",Code 03a.,P-P-S-6820-0005
+P,T2,C310,R04,PT2C310R04,PT2C310R04,12/31/2014,12/31/2014,1,74,74,1,0,Construct,Code 03.,"Lift ""R04b"" and ""R03b"" will be separated into ""R04"" and ""R03b"".  All quantities will be assigned to ""R04"".",Code 03a.,P-P-S-6820-0005
+P,T2,C310,R03 b,PT2C310R03b,PT2C310R03b,12/31/2014,12/31/2014,1,0,0,0,10,Construct,Code 03.,"Lift ""R04b"" and ""R03b"" will be separated into ""R04b"" and ""R03b"".  All quantities will be assigned to ""R04b"".",Code 03a.,P-P-S-6820-0005
+P,T2,C310,R02,PT2C310R02,PT2C310R02,01/10/2015,01/10/2015,1,312,308,1,0,Construct,Code 03.,"Lift ""R02"" and ""R01"" will be separated into ""R02"" and ""R01"".  All quantities will be assigned to ""R02"".",Code 03a.,P-P-S-6820-0005
+P,T2,C310,R01,PT2C310R01,PT2C310R01,01/10/2015,01/10/2015,1,0,0,0,-170,Construct,Code 03.,"Lift ""R02"" and ""R01"" will be separated into ""R02"" and ""R01"".  All quantities will be assigned to ""R02"".",Code 03a.,P-P-S-6820-0005
+P,T2,C309,W02 b,PT2C309W02b,PT2C309W02b,07/24/2014,07/24/2014,1,40,42,1,7,Construct,,,,
+P,T2,C309,W02 a,PT2C309W02a,PT2C309W02a,07/31/2014,07/31/2014,1,36,42,1,21,Construct,,,,
+P,T2,C309,W01 a,PT2C309W01a,PT2C309W01a,08/21/2014,08/21/2014,1,41,40,1,7,Construct,,,,
+P,T2,C309,W01b,PT2C309W01b,PT2C309W01b,08/28/2014,08/28/2014,1,40,40,1,27,Construct,,,,
+P,T2,C309,P04,PT2C309P04,PT2C309P04,09/24/2014,09/24/2014,1,17,14,1,8,Construct,,,,
+P,T2,C309,P03,PT2C309P03,PT2C309P03,10/02/2014,10/02/2014,1,18,12,1,2,Construct,,,,
+P,T2,C309,P02,PT2C309P02,PT2C309P02,10/04/2014,10/04/2014,1,20,12,1,3,Construct,,,,
+P,T2,C309,P01,PT2C309P01,PT2C309P01,10/07/2014,10/07/2014,1,13,10,1,37,Construct,,,,
+P,T2,C310,R03c,PT2C310R03c,PT2C310R03c,11/13/2014,11/14/2014,2,190,177,2,-1,Construct,Code 04.,"Lift ""R03+C3-10-R05"" will be divided into ""C3-10 R03c"" and ""C3-10 R05"".  All quantities will be assigned to ""C3-10 R03c"".",Code 04a.,P-P-S-6820-0005
+P,T2,C310,R05,PT2C310R05,PT2C310R05,11/13/2014,11/14/2014,2,0,0,0,4,Construct,Code 04.,"Lift ""R03+C3-10-R05"" will be divided into ""C3-10 R03c"" and ""C3-10 R05"".  All quantities will be assigned to ""C3-10 R03c"".",Code 04a.,P-P-S-6820-0005
+P,T2,C309,R02,PT2C309R02,PT2C309R02,11/18/2014,11/19/2014,2,206,189,2,7,Construct,Code 05.,"Lift ""PT2C3-09R02+C3-10-R04"" will be renamed as C3-09 R02"".",Code 05a.,P-P-S-6820-0003
+P,T2,C309,R01,PT2C309R01,PT2C309R01,11/26/2014,11/26/2014,1,224,224,1,0,Construct,Code 03.,"Lift ""R01+C3-010-R03a"" will be separated into ""C3-09 R01"" and ""C3-10 R03a"".",Code 03a.,P-P-S-6820-0003
+P,T2,C310,R03a,PT2C310R03a,PT2C310R03a,11/26/2014,11/26/2014,1,0,0,0,1,Construct,Code 05.,"Lift ""R01+C3-010-R03a"" will be renamed as ""C3-09 R01"".",Code 05a.,P-P-S-6820-0005
+P,T2,C309,R03,PT2C309R03,PT2C309R03,11/27/2014,11/27/2014,1,8,21,1,-646,Construct,Code 05.,"Lift ""R01 +C3-10-R03 a"" will be renamed as ""C3-09 R03"".",Code 05a.,P-P-S-6820-0003
+P,T2,C308,F01,PT2C308F01,PT2C308F01,02/19/2013,02/20/2013,2,592,561,2,-1,Construct,Code 05.,"Lift ""C3-08&09 F01"" will be divided into ""C3-08 F01"" and ""C3-09 F01"".  All quantities will be assigned to C3-08 F01.",Code 05a.,P-P-S-6820-0003
+P,T2,C309,F01,PT2C309F01,PT2C309F01,02/19/2013,02/20/2013,2,0,0,0,510,Construct,Code 05.,"Lift ""C3-08&09 F01"" will be divided into ""C3-08 F01"" and ""C3-09 F01"".  All quantities will be assigned to C3-08 F01.",Code 05a.,P-P-S-6820-0003
+P,T2,C308,W02 a,PT2C308W02a,PT2C308W02a,07/15/2014,07/15/2014,1,72,77,1,6,Construct,,,,
+P,T2,C308,W02 b,PT2C308W02b,PT2C308W02b,07/21/2014,07/21/2014,1,72,73,1,25,Construct,,,,
+P,T2,C308,W01 a,PT2C308W01a,PT2C308W01a,08/15/2014,08/16/2014,2,72,73,2,4,Construct,,,,
+P,T2,C308,W01 b,PT2C308W01b,PT2C308W01b,08/20/2014,08/21/2014,2,80,73,2,51,Construct,,,,
+P,T2,C308,R02,PT2C308R02,PT2C308R02,10/11/2014,10/11/2014,1,168,137,1,5,Construct,,,,
+P,T2,C308,R01,PT2C308R01,PT2C308R01,10/16/2014,10/16/2014,1,242,238,1,-602,Construct,,,,
+P,T2,C307,F01,PT2C307F01,PT2C307F01,02/21/2013,02/22/2013,2,328,310,2,503,Construct,,,,
+P,T2,C307,W02 a,PT2C307W02a,PT2C307W02a,07/10/2014,07/10/2014,1,80,76,1,12,Construct,,,,
+P,T2,C307,W02 b,PT2C307W02b,PT2C307W02b,07/22/2014,07/23/2014,2,68,76,2,19,Construct,,,,
+P,T2,C307,W01 a,PT2C307W01a,PT2C307W01a,08/11/2014,08/11/2014,1,72,72,1,2,Construct,,,,
+P,T2,C307,W01 b,PT2C307W01b,PT2C307W01b,08/13/2014,08/13/2014,1,88,72,1,45,Construct,,,,
+P,T2,C307,R02,PT2C307R02,PT2C307R02,09/27/2014,09/27/2014,1,160,125,1,3,Construct,,,,
+P,T2,C307,R01,PT2C307R01,PT2C307R01,09/30/2014,10/01/2014,2,192,208,2,-85,Construct,,,,
+P,T2,C306,W02 a,PT2C306W02a,PT2C306W02a,07/08/2014,07/08/2014,1,71,73,1,9,Construct,,,,
+P,T2,C306,W02 b,PT2C306W02b,PT2C306W02b,07/17/2014,07/17/2014,1,80,71,1,18,Construct,,,,
+P,T2,C306,W01 a,PT2C306W01a,PT2C306W01a,08/04/2014,08/04/2014,1,78,79,1,4,Construct,,,,
+P,T2,C306,W01 b,PT2C306W01b,PT2C306W01b,08/08/2014,08/08/2014,1,72,61,1,33,Construct,,,,
+P,T2,C306,R02,PT2C306R02,PT2C306R02,09/10/2014,09/10/2014,1,128,118,1,6,Construct,,,,
+P,T2,C306,R01,PT2C306R01,PT2C306R01,09/16/2014,09/16/2014,1,200,196,1,-157,Construct,,,,
+P,T2,C305,F01,PT2C305F01,PT2C305F01,04/12/2014,04/12/2014,1,756,674,1,65,Construct,Code 05.,"Lift ""F01+C2-04-F01"" will be renamed as ""C3-05 F01""",Code 05a.,P-P-S-6820-0003
+P,T2,C306,F01,PT2C306F01,PT2C306F01,06/16/2014,06/16/2014,1,612,612,1,18,Construct,Code 05.,"Lift ""05+06-F01"" will be renamed as ""C3-06 F01""",Code 05a.,P-P-S-6820-0003
+P,T2,C305,W02 a,PT2C305W02a,PT2C305W02a,07/04/2014,07/04/2014,1,73,73,1,10,Construct,,,,
+P,T2,C305,W02 b,PT2C305W02b,PT2C305W02b,07/14/2014,07/14/2014,1,64,62,1,12,Construct,,,,
+P,T2,C305,W01 a,PT2C305W01a,PT2C305W01a,07/26/2014,07/26/2014,1,80,70,1,5,Construct,,,,
+P,T2,C305,W01 b,PT2C305W01b,PT2C305W01b,07/31/2014,07/31/2014,1,64,60,1,26,Construct,,,,
+P,T2,C305,R02,PT2C305R02,PT2C305R02,08/26/2014,08/26/2014,1,133.5,123,1,3,Construct,,,,
+P,T2,C305,R01,PT2C305R01,PT2C305R01,08/29/2014,08/29/2014,1,185,185,1,-92,Construct,,,,
+P,T2,C304,F01,PT2C304F01,PT2C304F01,05/29/2014,05/29/2014,1,384,300,1,26,Construct,,,,
+P,T2,C304,W02 a,PT2C304W02a,PT2C304W02a,06/24/2014,06/24/2014,1,65,73,1,9,Construct,,,,
+P,T2,C304,W02 b,PT2C304W02b,PT2C304W02b,07/03/2014,07/04/2014,2,64,61,2,5,Construct,,,,
+P,T2,C304,W01 a,PT2C304W01a,PT2C304W01a,07/09/2014,07/10/2014,2,43,70,2,5,Construct,,,,
+P,T2,C304,W01 b,PT2C304W01b,PT2C304W01b,07/15/2014,07/15/2014,1,56,60,1,25,Construct,,,,
+P,T2,C304,R02,PT2C304R02,PT2C304R02,08/09/2014,08/09/2014,1,120,151,1,5,Construct,,,,
+P,T2,C304,R01,PT2C304R01,PT2C304R01,08/14/2014,08/14/2014,1,153,129,1,-94,Construct,,,,
+P,T2,C303,W02 a,PT2C303W02a,PT2C303W02a,05/12/2014,05/13/2014,2,150,156,2,11,Construct,,,,
+P,T2,C303,W01 a,PT2C303W01a,PT2C303W01a,05/24/2014,05/24/2014,1,100,79,1,63,Construct,,,,
+P,T2,C303,R02,PT2C303R02,PT2C303R02,07/26/2014,07/26/2014,1,128,122,1,4,Construct,,,,
+P,T2,C303,R01,PT2C303R01,PT2C303R01,07/30/2014,07/31/2014,2,232,209,2,-243,Construct,,,,
+P,T2,C303,W01b,PT2C303W01b,PT2C303W01b,11/30/2013,11/30/2013,1,0,0,0,-1,Construct,Code 01.,"A new row was created under the name of ""W01b"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0004
+P,T2,C303,W02b,PT2C303W02b,PT2C303W02b,11/29/2013,11/29/2013,1,0,0,0,168,Construct,Code 01.,"A new row was created under the name of ""W02b"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0004
+P,T2,C302,W02 b,PT2C302W02b,PT2C302W02b,05/16/2014,05/16/2014,1,72,73,1,4,Construct,,,,
+P,T2,C302,W01 a,PT2C302W01a,PT2C302W01a,05/20/2014,05/20/2014,1,80,80,1,2,Construct,,,,
+P,T2,C302,W01 b,PT2C302W01b,PT2C302W01b,05/22/2014,05/22/2014,1,62,68,1,43,Construct,,,,
+P,T2,C302,R02,PT2C302R02,PT2C302R02,07/04/2014,07/04/2014,1,119,123,1,-245,Construct,,,,
+P,T2,C302,W02a,PT2C302W02a,PT2C302W02a,11/01/2013,11/01/2013,1,0,0,1,166,Construct,Code 01.,"A new row was created under the name of ""W01b"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0003
+P,T2,C301,W02 a,PT2C301W02a,PT2C301W02a,04/16/2014,04/16/2014,1,76,90,1,1,Construct,,,,
+P,T2,C301,W02 b,PT2C301W02b,PT2C301W02b,04/17/2014,04/17/2014,1,108,117,1,22,Construct,,,,
+P,T2,C301,W01 a,PT2C301W01a,PT2C301W01a,05/09/2014,05/09/2014,1,87,86,1,5,Construct,,,,
+P,T2,C301,W01 b,PT2C301W01b,PT2C301W01b,05/14/2014,05/14/2014,1,103,111,1,23,Construct,,,,
+P,T2,C301,R02,PT2C301R02,PT2C301R02,06/06/2014,06/06/2014,1,369,381,1,0,Construct,Code 03.,"Lift ""R02&R01"" will be separated into ""R02"" and ""R01"".  All quantities will be assigned to R02.",Code 03a.,P-P-S-6820-0003
+P,T2,C301,R01,PT2C301R01,PT2C301R01,06/06/2014,06/06/2014,1,0,0,0,101,Construct,Code 03.,"Lift ""R02&R01"" will be separated into ""R02"" and ""R01"".  All quantities will be assigned to R02.",Code 03a.,P-P-S-6820-0003
+P,T2,C208,F01 a,PT2C208F01a,PT2C208F01a,09/15/2014,01/14/2015,122,186,200,1,-61,Construct,Code 02.,"Joining ""F01"" with ""F01a"" under the name of ""F01a"".",Code 02a.,P-P-S-6820-0008
+P,T2,C208,F01 b,PT2C208F01b,PT2C208F01b,11/14/2014,11/14/2014,1,161,150,1,11,Construct,,,,
+P,T2,C208,W05,PT2C208W05,PT2C208W05,11/25/2014,11/26/2014,2,47,22,2,-71,Construct,,,,
+P,T2,C208,P05,PT2C208P05,PT2C208P05,09/16/2014,09/16/2014,1,0,0,0,86,Construct,Code 01.,"A new row was created under the name of ""P05"", with 0 quantities and the dates of the previous lift plus one day.",Code 01a.,P-P-S-6820-0008
+P,T2,C208,W03 b,PT2C208W03b,PT2C208W03b,12/11/2014,12/11/2014,1,40,28,1,44,Construct,,,,
+P,T2,C208,P04,PT2C208P04,PT2C208P04,01/24/2015,01/24/2015,1,53,31,1,0,Construct,Code 03.,"Lift ""P04+P03"" will be divided into ""P04"" and ""P032.  All quantities will be assigned to ""P04"".",Code 03a.,P-P-S-6820-0008
+P,T2,C208,P03,PT2C208P03,PT2C208P03,01/24/2015,01/24/2015,1,0,0,0,6,Construct,Code 03.,"Lift ""P04+P03"" will be divided into ""P04"" and ""P032.  All quantities will be assigned to ""P04"".",Code 03a.,P-P-S-6820-0008
+P,T2,C208,P02,PT2C208P02,PT2C208P02,01/30/2015,01/30/2015,1,38,30,1,5,Construct,Code 05.,"Lift ""P03+P02"" will be renamed as ""P02"".",Code 05a.,P-P-S-6820-0008
+P,T2,C208,W01 c,PT2C208W01c,PT2C208W01c,02/04/2015,02/04/2015,1,67,69,1,0,Construct,Code 03.,"Lift ""W01 c+d+e"" will be separated into ""W01c"", ""W01d"" and ""W01e"".  All quantities will be assigned to W01c.",Code 03a.,P-P-S-6820-0008
+P,T2,C208,W01 d,PT2C208W01d,PT2C208W01d,02/04/2015,02/04/2015,1,0,0,0,0,Construct,Code 03.,"Lift ""W01 c+d+e"" will be separated into ""W01c"", ""W01d"" and ""W01e"".  All quantities will be assigned to W01c.",Code 03a.,P-P-S-6820-0008
+P,T2,C208,W01 e,PT2C208W01e,PT2C208W01e,02/04/2015,02/04/2015,1,0,0,0,2,Construct,Code 03.,"Lift ""W01 c+d+e"" will be separated into ""W01c"", ""W01d"" and ""W01e"".  All quantities will be assigned to W01c.",Code 03a.,P-P-S-6820-0008
+P,T2,C208,P01,PT2C208P01,PT2C208P01,02/06/2015,02/06/2015,1,7,5,1,-83,Construct,,,,
+P,T2,C208,W02c,PT2C208W02c,PT2C208W02c,11/15/2014,11/15/2014,1,0,0,0,0,Construct,Code 01.,"A new row was created under the name of ""W02c"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0008
+P,T2,C208,W02d,PT2C208W02d,PT2C208W02d,11/15/2014,11/15/2014,1,0,0,0,0,Construct,Code 01.,"A new row was created under the name of ""W02d"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0008
+P,T2,C208,W02e,PT2C208W02e,PT2C208W02e,11/15/2014,11/15/2014,1,0,0,0,11,Construct,Code 01.,"A new row was created under the name of ""W02e"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0008
+P,T2,C208,W04b,PT2C208W04b,PT2C208W04b,11/26/2014,11/26/2014,1,0,0,0,-112,Construct,Code 01.,"A new row was created under the name of ""W04b"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0009
+P,T2,C207,F01 a,PT2C207F01a,PT2C207F01a,08/06/2014,08/28/2014,23,324,363,3,1,Construct,,,,
+P,T2,C207,F01b,PT2C207F01b,PT2C207F01b,08/29/2014,08/29/2014,1,104,92,1,1,Construct,,,,
+P,T2,C207,W07,PT2C207W07,PT2C207W07,08/30/2014,08/30/2014,1,29,24,1,14,Construct,,,,
+P,T2,C207,W06,PT2C207W06,PT2C207W06,09/13/2014,09/13/2014,1,48,55,1,4,Construct,,,,
+P,T2,C207,P07,PT2C207P07,PT2C207P07,09/17/2014,09/17/2014,1,20,13,1,5,Construct,,,,
+P,T2,C207,W05,PT2C207W05,PT2C207W05,09/22/2014,09/22/2014,1,51,46,1,25,Construct,,,,
+P,T2,C207,P06,PT2C207P06,PT2C207P06,10/17/2014,10/17/2014,1,29,21,1,5,Construct,,,,
+P,T2,C207,W03a,PT2C207W03a,PT2C207W03a,10/22/2014,10/22/2014,1,96,89,1,0,Construct,Code 04.,"Lift ""C2-07+08 W03+W04a"" will be separated into ""C2-07 W03a"", ""C2-07 W04a"", ""C2-08 W03a"" and ""C2-08 W04a"".  All quantities will be assigned to C2-07 W03a.",Code 04a.,P-P-S-6820-0008
+P,T2,C208,W03 a,PT2C208W03a,PT2C208W03a,10/22/2014,10/22/2014,1,0,0,0,0,Construct,Code 04.,"Lift ""C2-07+08 W03+W04a"" will be separated into ""C2-07 W03a"", ""C2-07 W04a"", ""C2-08 W03a"" and ""C2-08 W04a"".  All quantities will be assigned to C2-07 W03a.",Code 04a.,P-P-S-6820-0008
+P,T2,C207,W04a,PT2C207W04a,PT2C207W04a,10/22/2014,10/22/2014,1,0,0,0,0,Construct,Code 04.,"Lift ""C2-07+08 W03+W04a"" will be separated into ""C2-07 W03a"", ""C2-07 W04a"", ""C2-08 W03a"" and ""C2-08 W04a"".  All quantities will be assigned to C2-07 W03a.",Code 04a.,P-P-S-6820-0008
+P,T2,C208,W04 a,PT2C208W04a,PT2C208W04a,10/22/2014,10/22/2014,1,0,0,0,8,Construct,Code 04.,"Lift ""C2-07+08 W03+W04a"" will be separated into ""C2-07 W03a"", ""C2-07 W04a"", ""C2-08 W03a"" and ""C2-08 W04a"".  All quantities will be assigned to C2-07 W03a.",Code 04a.,P-P-S-6820-0008
+P,T2,C207,W03 b,PT2C207W03b,PT2C207W03b,10/30/2014,10/30/2014,1,53,53,1,0,Construct,Code 03.,"Lift ""W03b+W04b"" will be separated into ""W03b"" and ""W04b"".  All quantities will be assigned to ""W03b"".",Code 03a.,P-P-S-6820-0009
+P,T2,C207,W04 b,PT2C207W04b,PT2C207W04b,10/30/2014,10/30/2014,1,0,0,0,18,Construct,Code 03.,"Lift ""W03b+W04b"" will be separated into ""W03b"" and ""W04b"".  All quantities will be assigned to ""W03b"".",Code 03a.,P-P-S-6820-0009
+P,T2,C207,P05,PT2C207P05,PT2C207P05,11/17/2014,11/17/2014,1,15,17,1,8,Construct,,,,
+P,T2,C207,P04,PT2C207P04,PT2C207P04,11/25/2014,11/25/2014,1,25,21,1,7,Construct,,,,
+P,T2,C207,P02,PT2C207P02,PT2C207P02,12/02/2014,12/02/2014,1,19,31,1,1,Construct,Code 05.,"Lift ""P03+P02"" will be renamed as ""P02"".",Code 05a.,P-P-S-6820-0008
+P,T2,C207,P03,PT2C207P03,PT2C207P03,12/03/2014,12/03/2014,1,7,0,1,2,Construct,Code 05.,"Lift ""P02+P03"" will be renamed as ""P03"".",Code 05a.,P-P-S-6820-0008
+P,T2,C207,P01,PT2C207P01,PT2C207P01,12/05/2014,12/05/2014,1,16,5,1,54,Construct,,,,
+P,T2,C207,W01 a,PT2C207W01a,PT2C207W01a,01/28/2015,01/29/2015,2,118,114,2,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0008
+P,T2,C207,W01 b,PT2C207W01b,PT2C207W01b,01/28/2015,01/29/2015,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0009
+P,T2,C207,W02 a,PT2C207W02a,PT2C207W02a,01/28/2015,01/29/2015,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0008
+P,T2,C207,W02 b,PT2C207W02b,PT2C207W02b,01/28/2015,01/29/2015,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0009
+P,T2,C208,W01 a,PT2C208W01a,PT2C208W01a,01/28/2015,01/29/2015,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0008
+P,T2,C208,W01 b,PT2C208W01b,PT2C208W01b,01/28/2015,01/29/2015,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0009
+P,T2,C208,W02 a,PT2C208W02a,PT2C208W02a,01/28/2015,01/29/2015,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0008
+P,T2,C208,W02 b,PT2C208W02b,PT2C208W02b,01/28/2015,01/29/2015,2,0,0,0,-217,Construct,Code 04.,"Lift ""C2-07+08 W01 a+b + ""W02 a+b"" will be separated into ""C2-07 W01a"", ""C2-07 W01b"", ""C2-07 W02a"", ""C2-07 W02b"", ""C2-08 W01a"", ""C2-08 W01b"", ""C2-08 W02a"" and ""C2-08 W02b"".  All quantities will be assigned to ""C2-07 W01a"".",Code 04a.,P-P-S-6820-0009
+P,T2,C206,F01,PT2C206F01,PT2C206F01,06/26/2014,06/26/2014,1,240,236,1,18,Construct,,,,
+P,T2,C206,W03,PT2C206W03,PT2C206W03,07/14/2014,07/14/2014,1,56,48,1,15,Construct,,,,
+P,T2,C206,W02,PT2C206W02,PT2C206W02,07/29/2014,07/29/2014,1,32,36,1,17,Construct,,,,
+P,T2,C206,P04,PT2C206P04,PT2C206P04,08/15/2014,08/15/2014,1,24,19,1,3,Construct,,,,
+P,T2,C206,P03,PT2C206P03,PT2C206P03,08/18/2014,08/23/2014,6,16,28,2,-3,Construct,,,,
+P,T2,C206,W01,PT2C206W01,PT2C206W01,08/20/2014,08/20/2014,1,32,23,1,6,Construct,,,,
+P,T2,C206,P01,PT2C206P01,PT2C206P01,08/26/2014,08/26/2014,1,12,14,1,-7,Construct,,,,
+P,T2,C206,P02,PT2C206P02,PT2C206P02,08/19/2014,08/19/2014,1,0,0,1,-78,Construct,Code 01.,"A new row was created under the name of ""P02"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0008
+P,T2,C205,F01,PT2C205F01,PT2C205F01,06/02/2014,06/02/2014,1,216,222,1,23,Construct,,,,
+P,T2,C205,W02,PT2C205W02,PT2C205W02,06/25/2014,06/25/2014,1,48,50,1,19,Construct,,,,
+P,T2,C205,P04,PT2C205P04,PT2C205P04,07/14/2014,07/25/2014,12,33,25,3,-4,Construct,Code 02.,"Joining lifts ""P04"" and ""P04 (chamfer)"" under the name of ""P04"".",Code 02a.,P-P-S-6820-0008
+P,T2,C205,W01,PT2C205W01,PT2C205W01,07/21/2014,07/21/2014,1,48,48,1,8,Construct,,,,
+P,T2,C205,P03,PT2C205P03,PT2C205P03,07/29/2014,07/29/2014,1,16,14,1,4,Construct,,,,
+P,T2,C205,P02,PT2C205P02,PT2C205P02,08/02/2014,08/02/2014,1,16,14,1,3,Construct,,,,
+P,T2,C205,P01,PT2C205P01,PT2C205P01,08/05/2014,08/05/2014,1,15,12,1,30,Construct,,,,
+P,T2,C205,R06,PT2C205R06,PT2C205R06,09/04/2014,09/04/2014,1,104,96,1,2,Construct,,,,
+P,T2,C205,R05,PT2C205R05,PT2C205R05,09/06/2014,09/06/2014,1,187,180,1,6,Construct,,,,
+P,T2,C205,R04 b,PT2C205R04b,PT2C205R04b,09/12/2014,09/13/2014,2,272,340,2,5,Construct,,,,
+P,T2,C205,R03 b,PT2C205R03b,PT2C205R03b,09/18/2014,09/19/2014,2,232,279,2,89,Construct,,,,
+P,T2,C205,R04 a,PT2C205R04a,PT2C205R04a,12/17/2014,01/08/2015,23,172,137,2,14,Construct,,,,
+P,T2,C205,R01,PT2C205R01,PT2C205R01,01/22/2015,01/22/2015,1,264,276,1,0,Construct,Code 03.,"Lift ""R01+R02"" will be separated into ""R01"" and ""R02"".  All quantities will be assigned to ""R01"".",Code 03a.,P-P-S-6820-0009
+P,T2,C205,R02,PT2C205R02,PT2C205R02,01/22/2015,01/22/2015,1,0,0,0,1,Construct,Code 03.,"Lift ""R01+R02"" will be separated into ""R01"" and ""R02"".  All quantities will be assigned to ""R01"".",Code 03a.,P-P-S-6820-0009
+P,T2,C205,R03a,PT2C205R03a,PT2C205R03a,01/23/2015,01/23/2015,1,0,0,0,-126,Construct,,,,
+P,T2,C205,R03c,PT2C205R03c,PT2C205R03c,09/19/2014,09/19/2014,1,0,0,0,-108,Construct,,,,
+P,T2,C204,F01,PT2C204F01,PT2C204F01,06/03/2014,06/03/2014,1,0,0,0,-10,Construct,,,,
+P,T2,C204,W02,PT2C204W02,PT2C204W02,05/24/2014,05/24/2014,1,112,109,1,11,Construct,,,,
+P,T2,C204,W01,PT2C204W01,PT2C204W01,06/04/2014,06/04/2014,1,107,104,1,69,Construct,,,,
+P,T2,C204,R02,PT2C204R02,PT2C204R02,08/12/2014,08/12/2014,1,155,142,1,3,Construct,,,,
+P,T2,C204,R01,PT2C204R01,PT2C204R01,08/15/2014,08/15/2014,1,216,241,1,-85,Construct,,,,
+P,T2,C203,W02,PT2C203W02,PT2C203W02,05/22/2014,05/22/2014,1,164,158,1,11,Construct,,,,
+P,T2,C203,W01,PT2C203W01,PT2C203W01,06/02/2014,06/03/2014,2,205,152,2,37,Construct,,,,
+P,T2,C203,R02,PT2C203R02,PT2C203R02,07/10/2014,07/10/2014,1,178,132,1,4,Construct,,,,
+P,T2,C203,R01,PT2C203R01,PT2C203R01,07/14/2014,07/15/2014,2,450,423,2,-1,Construct,Code 04.,"Lift ""C2-03 +C3-02-R01"" will be separated into ""C2-03 R01"" and ""C3-02 R01"".  All quantities will be sasigned to ""C2-03 R01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C302,R01,PT2C302R01,PT2C302R01,07/14/2014,07/15/2014,2,0,0,0,-229,Construct,Code 04.,"Lift ""C2-03 +C3-02-R01"" will be separated into ""C2-03 R01"" and ""C3-02 R01"".  All quantities will be sasigned to ""C2-03 R01"".",Code 04a.,P-P-S-6820-0003
+P,T2,C202,F01,PT2C202F01,PT2C202F01,11/28/2013,11/29/2013,2,744,744,2,-1,Construct,Code 04.,"Lift ""C2-02/03&C3-02/03 F01"" will be separated into ""C2-02 F01"", ""C2-03 F01"" and ""C3-03 F01"".  All quantities will be sasigned to ""C2-02 F01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C203,F01,PT2C203F01,PT2C203F01,11/28/2013,11/29/2013,2,0,0,0,-1,Construct,Code 04.,"Lift ""C2-02/03&C3-02/03 F01"" will be separated into ""C2-02 F01"", ""C2-03 F01"" and ""C3-03 F01"".  All quantities will be sasigned to ""C2-02 F01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C303,F01,PT2C303F01,PT2C303F01,11/28/2013,11/29/2013,2,0,0,0,-29,Construct,Code 04.,"Lift ""C2-02/03&C3-02/03 F01"" will be separated into ""C2-02 F01"", ""C2-03 F01"" and ""C3-03 F01"".  All quantities will be sasigned to ""C2-02 F01"".",Code 04a.,P-P-S-6820-0003
+P,T2,C201,F01,PT2C201F01,PT2C201F01,10/31/2013,11/02/2013,3,868.2,843,3,-2,Construct,Code 04.,"Lift ""C2-01/02&C3-01/02 F01"" will be separated into ""C2-01 F01"", ""C3-01 F01"" and ""C3-02 F01"".  All quantities will be sasigned to ""C2-01 F01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C301,F01,PT2C301F01,PT2C301F01,10/31/2013,11/02/2013,3,0,0,0,-2,Construct,Code 04.,"Lift ""C2-01/02&C3-01/02 F01"" will be separated into ""C2-01 F01"", ""C3-01 F01"" and ""C3-02 F01"".  All quantities will be sasigned to ""C2-01 F01"".",Code 04a.,P-P-S-6820-0003
+P,T2,C302,F01,PT2C302F01,PT2C302F01,10/31/2013,11/02/2013,3,0,0,0,191,Construct,Code 04.,"Lift ""C2-01/02&C3-01/02 F01"" will be separated into ""C2-01 F01"", ""C3-01 F01"" and ""C3-02 F01"".  All quantities will be sasigned to ""C2-01 F01"".",Code 04a.,P-P-S-6820-0003
+P,T2,C201,W02,PT2C201W02,PT2C201W02,05/12/2014,05/12/2014,1,177,226,1,0,Construct,Code 04.,"Lift ""C2-01&02 W02"" will be separated into ""C2-01 W02"" and ""C2-02 W02"".  All quantities will be assigned to ""C2-01 W02"".",Code 04a.,P-P-S-6820-0009
+P,T2,C202,W02,PT2C202W02,PT2C202W02,05/12/2014,05/12/2014,1,0,0,0,9,Construct,Code 04.,"Lift ""C2-01&02 W02"" will be separated into ""C2-01 W02"" and ""C2-02 W02"".  All quantities will be assigned to ""C2-01 W02"".",Code 04a.,P-P-S-6820-0009
+P,T2,C201,W01,PT2C201W01,PT2C201W01,05/21/2014,05/21/2014,1,176,219,1,0,Construct,Code 04.,"Lift ""C2-01+02 W01"" will be separated into ""C2-01 W01"" and ""C2-02 W01"".  All quantities will be assigned to ""C2-01 W01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C202,W01,PT2C202W01,PT2C202W01,05/21/2014,05/21/2014,1,0,0,0,23,Construct,Code 04.,"Lift ""C2-01+02 W01"" will be separated into ""C2-01 W01"" and ""C2-02 W01"".  All quantities will be assigned to ""C2-01 W01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C201,R02,PT2C201R02,PT2C201R02,06/13/2014,06/13/2014,1,164,229,1,0,Construct,Code 04.,"Lift ""C2-01+02 R02"" will be separated into ""C2-01 R02"" and ""C2-02 R02"".  All quantities will be assigned to ""C2-01 R02"".",Code 04a.,P-P-S-6820-0009
+P,T2,C202,R02,PT2C202R02,PT2C202R02,06/13/2014,06/13/2014,1,0,0,0,5,Construct,Code 04.,"Lift ""C2-01+02 R02"" will be separated into ""C2-01 R02"" and ""C2-02 R02"".  All quantities will be assigned to ""C2-01 R02"".",Code 04a.,P-P-S-6820-0009
+P,T2,C201,R01,PT2C201R01,PT2C201R01,06/18/2014,06/18/2014,1,251,256,1,0,Construct,Code 04.,"Lift ""C2-01+02 R01"" will be separated into ""C2-01 R01"" and ""C2-02 R01"".  All quantities will be assigned to ""C2-01 R01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C202,R01,PT2C202R01,PT2C202R01,06/18/2014,06/18/2014,1,0,0,0,51,Construct,Code 04.,"Lift ""C2-01+02 R01"" will be separated into ""C2-01 R01"" and ""C2-02 R01"".  All quantities will be assigned to ""C2-01 R01"".",Code 04a.,P-P-S-6820-0009
+P,T2,C103,F01 b,PT2C103F01b,PT2C103F01b,08/08/2014,08/08/2014,1,149,136,1,41,Construct,,,,
+P,T2,C103,W04 a,PT2C103W04a,PT2C103W04a,09/18/2014,09/19/2014,2,30,19,2,5,Construct,,,,
+P,T2,C103,F01 c,PT2C103F01c,PT2C103F01c,09/24/2014,09/24/2014,1,116,95,1,9,Construct,,,,
+P,T2,C103,W03 b,PT2C103W03b,PT2C103W03b,10/03/2014,10/03/2014,1,51,51,1,57,Construct,,,,
+P,T2,C103,W02c,PT2C103W02c,PT2C103W02c,11/29/2014,11/29/2014,1,43,30,1,0,Construct,Code 03.,"Lift ""W02+W01 c+d"" will be divided into ""W02c"", ""W02d"", ""W01c"" and ""W01d"".  All quantities will be assigned to ""W02c"".",Code 03a.,P-P-S-6820-0011
+P,T2,C103,W02d,PT2C103W02d,PT2C103W02d,11/29/2014,11/29/2014,1,0,0,0,0,Construct,Code 03.,"Lift ""W02+W01 c+d"" will be divided into ""W02c"", ""W02d"", ""W01c"" and ""W01d"".  All quantities will be assigned to ""W02c"".",Code 03a.,P-P-S-6820-0011
+P,T2,C103,W01c,PT2C103W01c,PT2C103W01c,11/29/2014,11/29/2014,1,0,0,0,0,Construct,Code 03.,"Lift ""W02+W01 c+d"" will be divided into ""W02c"", ""W02d"", ""W01c"" and ""W01d"".  All quantities will be assigned to ""W02c"".",Code 03a.,P-P-S-6820-0011
+P,T2,C103,W01d,PT2C103W01d,PT2C103W01d,11/29/2014,11/29/2014,1,0,0,0,6,Construct,Code 03.,"Lift ""W02+W01 c+d"" will be divided into ""W02c"", ""W02d"", ""W01c"" and ""W01d"".  All quantities will be assigned to ""W02c"".",Code 03a.,P-P-S-6820-0011
+P,T2,C103,P04,PT2C103P04,PT2C103P04,12/05/2014,12/05/2014,1,12,8,1,53,Construct,Code 02.,"Lift ""P06"" will be renamed as ""P04"".",Code 02a.,P-P-S-6820-0011
+P,T2,C103,P05,PT2C103P05,PT2C103P05,01/27/2015,01/27/2015,1,16,13,1,-145,Construct,,,,
+P,T2,C103,P06,PT2C103P06,PT2C103P06,09/04/2014,09/04/2014,1,0,0,0,153,Construct,Code 01.,Lift C0103P06 was added to match RFC,Code01a.,P-P-S-6820-0011
+P,T2,C103,P03,PT2C103P03,PT2C103P03,02/04/2015,02/04/2015,1,27,17,1,0,Construct,Code 03.,"Lift ""P03+P02"" will be divided into ""P03"" and ""P02"".  All quantiteis will be assigned to ""P03"".",Code 03a.,P-P-S-6820-0011
+P,T2,C103,P02,PT2C103P02,PT2C103P02,02/04/2015,02/04/2015,1,0,0,0,5,Construct,Code 03.,"Lift ""P03+P02"" will be divided into ""P03"" and ""P02"".  All quantiteis will be assigned to ""P03"".",Code 03a.,P-P-S-6820-0011
+P,T2,C103,P01,PT2C103P01,PT2C103P01,02/09/2015,02/09/2015,1,13,5,1,-213,Construct,,,,
+P,T2,C102,F01 a,PT2C102F01a,PT2C102F01a,07/11/2014,07/12/2014,2,492,490,2,-1,Construct,Code 04.,"Lift ""C1-02 F01 a+b + C1-03-F01 a"" will be separated into ""C1-02 F01a"", ""C1-02 F01b"" and ""C1-03 F01a"".  All quantities will be assigned to ""C1-02 F01a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,F01 b,PT2C102F01b,PT2C102F01b,07/11/2014,07/12/2014,2,0,0,0,-1,Construct,Code 04.,"Lift ""C1-02 F01 a+b + C1-03-F01 a"" will be separated into ""C1-02 F01a"", ""C1-02 F01b"" and ""C1-03 F01a"".  All quantities will be assigned to ""C1-02 F01a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,F01 a,PT2C103F01a,PT2C103F01a,07/11/2014,09/03/2014,55,7,0,1,-42,Construct,"Code 04.
+
+Code 02.","Lift ""C1-02 F01 a+b + C1-03-F01 a"" will be separated into ""C1-02 F01a"", ""C1-02 F01b"" and ""C1-03 F01a"".  All quantities will be assigned to ""C1-02 F01a"".
+
+Joining ""F01"" and ""F01a"" under the name of ""F01a""","Code 04a.
+
+Code 02a.",P-P-S-6820-0011
+P,T2,C102,W07,PT2C102W07,PT2C102W07,07/23/2014,07/23/2014,1,25,21,1,6,Construct,,,,
+P,T2,C102,W05,PT2C102W05,PT2C102W05,07/29/2014,07/30/2014,2,64,94,2,-1,Construct,Code 04.,"Lift ""C1-02 W05+W06&C1-03-W05"" will be separated into ""C1-02 W05"", ""C1-02 W06"" and ""C1-03 W05"".  All quantities will be assigned to ""C1-02 W05"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,W06,PT2C102W06,PT2C102W06,07/29/2014,07/30/2014,2,0,0,0,-1,Construct,Code 04.,"Lift ""C1-02 W05+W06&C1-03-W05"" will be separated into ""C1-02 W05"", ""C1-02 W06"" and ""C1-03 W05"".  All quantities will be assigned to ""C1-02 W05"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W05,PT2C103W05,PT2C103W05,07/29/2014,07/30/2014,2,0,0,0,2,Construct,Code 04.,"Lift ""C1-02 W05+W06&C1-03-W05"" will be separated into ""C1-02 W05"", ""C1-02 W06"" and ""C1-03 W05"".  All quantities will be assigned to ""C1-02 W05"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,P09,PT2C102P09,PT2C102P09,08/01/2014,08/01/2014,1,16,22,1,0,Construct,Code 03.,"Lift ""P09+P08"" will be separated into ""P09"" and ""P08"". All quantities will be assigned to ""P09"".",Code 03.,P-P-S-6820-0011
+P,T2,C102,P08,PT2C102P08,PT2C102P08,08/01/2014,08/01/2014,1,0,0,0,24,Construct,Code 03.,"Lift ""P09+P08"" will be separated into ""P09"" and ""P08"". All quantities will be assigned to ""P09"".",Code 03.,P-P-S-6820-0011
+P,T2,C102,W04b,PT2C102W04b,PT2C102W04b,08/25/2014,08/25/2014,1,140.02,102,1,0,Construct,Code 04.,"Code ""C1-02+03 W04b"" will be separated into ""C1-02 W04b"" and ""C1-03 W04b"".  All quantities will be assigned to ""C1-02 W04b"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W04b,PT2C103W04b,PT2C103W04b,08/25/2014,08/25/2014,1,0,0,0,4,Construct,Code 04.,"Code ""C1-02+03 W04b"" will be separated into ""C1-02 W04b"" and ""C1-03 W04b"".  All quantities will be assigned to ""C1-02 W04b"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,P06,PT2C102P06,PT2C102P06,08/29/2014,08/29/2014,1,44.25,38,1,0,Construct,Code 03.,"Lift ""P06/P07"" will be separated into ""P06"" and ""P07"". All quantities will be assigned to ""P06"".",Code 03.,P-P-S-6820-0011
+P,T2,C102,P07,PT2C102P07,PT2C102P07,08/29/2014,08/29/2014,1,0,0,0,7,Construct,Code 03.,"Lift ""P06/P07"" will be separated into ""P06"" and ""P07"". All quantities will be assigned to ""P06"".",Code 03.,P-P-S-6820-0011
+P,T2,C102,P05,PT2C102P05,PT2C102P05,09/05/2014,09/15/2014,11,46,42,2,-7,Construct,,,,
+P,T2,C102,W04 a,PT2C102W04a,PT2C102W04a,09/08/2014,09/08/2014,1,32,28,1,23,Construct,,,,
+P,T2,C102,P04,PT2C102P04,PT2C102P04,10/01/2014,10/01/2014,1,24,25,1,6,Construct,,,,
+P,T2,C102,W03 b,PT2C102W03b,PT2C102W03b,10/07/2014,10/07/2014,1,44,52,1,14,Construct,,,,
+P,T2,C102,P03,PT2C102P03,PT2C102P03,10/21/2014,10/21/2014,1,24,27,1,0,Construct,Code 03.,"Lift ""P03+P02"" will be separated into ""P03"" and ""P02"". All quantities will be assigned to ""P03"".",Code 03.,P-P-S-6820-0011
+P,T2,C102,P02,PT2C102P02,PT2C102P02,10/21/2014,10/21/2014,1,0,0,0,16,Construct,Code 03.,"Lift ""P03+P02"" will be separated into ""P03"" and ""P02"". All quantities will be assigned to ""P03"".",Code 03.,P-P-S-6820-0011
+P,T2,C102,W03a,PT2C102W03a,PT2C102W03a,11/06/2014,11/06/2014,1,96,100,1,0,Construct,Code 04.,"Lift ""C1-02+03 W03"" will be separated into ""C1-02 W03a"" and ""C1-03 W03a"".  All quantities will be assigned to ""C1-02 W03a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W03a,PT2C103W03a,PT2C103W03a,11/06/2014,11/06/2014,1,0,0,0,6,Construct,Code 04.,"Lift ""C1-02+03 W03"" will be separated into ""C1-02 W03a"" and ""C1-03 W03a"".  All quantities will be assigned to ""C1-02 W03a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,P01,PT2C102P01,PT2C102P01,11/12/2014,11/12/2014,1,7,5,1,30,Construct,,,,
+P,T2,C102,W01 b,PT2C102W01b,PT2C102W01b,12/12/2014,12/12/2014,1,50,57,1,0,Construct,Code 04.,"Lift ""C1-02+03 W01 b+W02 b"" will be separated into ""C1-02 W01b"", ""C1-02 W02b"", ""C1-03 W01b"" and ""C1-03 W02b"".  All quantities will be assigned to ""C1-02 W01b"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,W02 b,PT2C102W02b,PT2C102W02b,12/12/2014,12/12/2014,1,0,0,0,0,Construct,Code 04.,"Lift ""C1-02+03 W01 b+W02 b"" will be separated into ""C1-02 W01b"", ""C1-02 W02b"", ""C1-03 W01b"" and ""C1-03 W02b"".  All quantities will be assigned to ""C1-02 W01b"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W01 b,PT2C103W01b,PT2C103W01b,12/12/2014,12/12/2014,1,0,0,0,0,Construct,Code 04.,"Lift ""C1-02+03 W01 b+W02 b"" will be separated into ""C1-02 W01b"", ""C1-02 W02b"", ""C1-03 W01b"" and ""C1-03 W02b"".  All quantities will be assigned to ""C1-02 W01b"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W02 b,PT2C103W02b,PT2C103W02b,12/12/2014,12/12/2014,1,0,0,0,8,Construct,Code 04.,"Lift ""C1-02+03 W01 b+W02 b"" will be separated into ""C1-02 W01b"", ""C1-02 W02b"", ""C1-03 W01b"" and ""C1-03 W02b"".  All quantities will be assigned to ""C1-02 W01b"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,W01a,PT2C102W01a,PT2C102W01a,12/20/2014,12/20/2014,1,77.5,81,1,0,Construct,Code 04.,"Lift ""C1-02+03 W01+02A+03-W01+2C"" will be separated into ""C1-02 W01a"", ""C1-02 W02a"", ""C1-03 W01a"" and ""C1-03 W02a"".  All quantities will be assigned to ""C1-02 W01a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C102,W02a,PT2C102W02a,PT2C102W02a,12/20/2014,12/20/2014,1,0,0,0,0,Construct,Code 04.,"Lift ""C1-02+03 W01+02A+03-W01+2C"" will be separated into ""C1-02 W01a"", ""C1-02 W02a"", ""C1-03 W01a"" and ""C1-03 W02a"".  All quantities will be assigned to ""C1-02 W01a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W01a,PT2C103W01a,PT2C103W01a,12/20/2014,12/20/2014,1,0,0,0,0,Construct,Code 04.,"Lift ""C1-02+03 W01+02A+03-W01+2C"" will be separated into ""C1-02 W01a"", ""C1-02 W02a"", ""C1-03 W01a"" and ""C1-03 W02a"".  All quantities will be assigned to ""C1-02 W01a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W02a,PT2C103W02a,PT2C103W02a,12/20/2014,12/20/2014,1,0,0,0,-42,Construct,Code 04.,"Lift ""C1-02+03 W01+02A+03-W01+2C"" will be separated into ""C1-02 W01a"", ""C1-02 W02a"", ""C1-03 W01a"" and ""C1-03 W02a"".  All quantities will be assigned to ""C1-02 W01a"".",Code 04a.,P-P-S-6820-0011
+P,T2,C103,W01e,PT2C103W01e,PT2C103W01e,11/08/2014,11/08/2014,1,0,0,0,-1,Construct,Code 01.,"A new row was created under the name of ""W01e"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0011
+P,T2,C103,W02e,PT2C103W02e,PT2C103W02e,11/07/2014,11/07/2014,1,0,0,0,-312,Construct,Code 01.,"A new row was created under the name of ""W02e"", with 0 quantities and the date of the previous lift plus one day.",Code 01a.,P-P-S-6820-0011
+P,T2,C101,F01,PT2C101F01,PT2C101F01,12/30/2013,12/30/2013,1,441,399,1,113,Construct,,,,
+P,T2,C101,W03,PT2C101W03,PT2C101W03,04/22/2014,04/22/2014,1,82,83,1,34,Construct,,,,
+P,T2,C101,W02,PT2C101W02,PT2C101W02,05/26/2014,05/26/2014,1,83,73,1,28,Construct,,,,
+P,T2,C101,W01,PT2C101W01,PT2C101W01,06/23/2014,06/23/2014,1,19,18,1,25,Construct,,,,
+P,T2,C101,R07,PT2C101R07,PT2C101R07,07/18/2014,07/18/2014,1,156,132,1,4,Construct,,,,
+P,T2,C101,R06,PT2C101R06,PT2C101R06,07/22/2014,07/23/2014,2,147,144,2,1,Construct,,,,
+P,T2,C101,R05,PT2C101R05,PT2C101R05,07/24/2014,07/25/2014,2,136,107,2,133,Construct,,,,
+P,T2,C101,R04 a,PT2C101R04a,PT2C101R04a,12/05/2014,12/05/2014,1,64,52,1,6,Construct,,,,
+P,T2,C101,R04 b,PT2C101R04b,PT2C101R04b,12/11/2014,12/12/2014,2,152,117,2,38,Construct,,,,
+P,T2,C101,R03 a,PT2C101R03a,PT2C101R03a,01/19/2015,01/19/2015,1,48,45,1,0,Construct,Code 03.,"Lift ""R03 a+b"" will be divided into ""R03a"" and ""R03b"".  All quantities will be assigned to ""R03a"".",Code 03a.,P-P-S-6820-0011
+P,T2,C101,R03 b,PT2C101R03b,PT2C101R03b,01/19/2015,01/19/2015,1,0,0,0,8,Construct,Code 03.,"Lift ""R03 a+b"" will be divided into ""R03a"" and ""R03b"".  All quantities will be assigned to ""R03a"".",Code 03a.,P-P-S-6820-0011
+P,T2,C101,R02,PT2C101R02,PT2C101R02,01/27/2015,01/27/2015,1,76,79,1,0,Construct,Code 03.,"Lift ""R02+R01"" will be separated into ""R02"" and ""R01"".  All quantities will be assigned to ""R02"".",Code 03a.,P-P-S-6820-0011
+P,T2,C101,R01,PT2C101R01,PT2C101R01,01/27/2015,01/27/2015,1,0,0,0,,Construct,Code 03.,"Lift ""R02+R01"" will be separated into ""R02"" and ""R01"".  All quantities will be assigned to ""R02"".",Code 03a.,P-P-S-6820-0011
