@@ -1,6 +1,8 @@
 import sqlite3
 from db import structure
 from db import site
+from db import pour, lift
+from main import save_csv
 
 def get_lifts_with_defects(site_abr, structure_abr, monolith):
     db = sqlite3.connect("lifts_4d.db")
@@ -43,15 +45,25 @@ def get_lifts_by_site_structure(site_abr, structure_abr, monolith):
 
 
 def main():
-    lifts = get_lifts_with_defects("P", "LW","M06")
-    for lift in lifts:
-        print(lift)
+    # lifts = get_lifts_with_defects("P", "LW","M06")
+    # for lift in lifts:
+    #     print(lift)
 
-    print("-----------------------------------\n")
-    all_lifts = get_lifts_by_site_structure("P", "LW", "M06")
-    for lift in all_lifts:
-        print(lift)
+    # print("-----------------------------------\n")
+    # all_lifts = get_lifts_by_site_structure("P", "LW", "M06")
+    # for lift in all_lifts:
+    #     print(lift)
 
+    lifts = pour.get_pours_with_lift()
+    data = []
+    for x in lifts:
+        info = {}
+        info['lift'] = x[1]
+        info['actual_start'] = x[2]
+        info['actual_quantity'] = x[3]
+        data.append(info)
+
+    save_csv(data, ["lift","actual_start", "actual_quantity"], "database_model_lifts.csv")
 
 if __name__ == "__main__":
     main()

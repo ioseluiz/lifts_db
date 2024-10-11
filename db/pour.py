@@ -41,3 +41,30 @@ def get_all_pours() -> list[tuple]:
     pours = cur.execute(query)
     pours = pours.fetchall()
     return pours
+
+def get_lift_actual_start(lift_id) -> str:
+    db = sqlite3.connect('lifts_4d.db')
+
+    query = """SELECT lift.id, lift.name, pour.actual_start FROM lift
+               LEFT JOIN pour ON lift.id = pour.lift_id
+               WHERE lift_id = ?;"""
+    
+    cur = db.cursor()
+    lift = cur.execute(query, (lift_id,))
+    lift_data = lift.fetchone()
+    if lift_data != None:
+        actual_start = lift_data[2]
+    else:
+        actual_start =  None
+    return actual_start
+
+def get_pours_with_lift():
+    db = sqlite3.connect('lifts_4d.db')
+
+    query = """SELECT lift.id, lift.name, pour.actual_start, pour.actual_quantity FROM lift
+               LEFT JOIN pour ON lift.id = pour.lift_id;
+               """
+    cur = db.cursor()
+    lifts = cur.execute(query)
+    lifts = lifts.fetchall()
+    return lifts

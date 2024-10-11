@@ -68,3 +68,21 @@ def get_lift_name_by_name(name) -> str:
         lift_id =  "lift don't exists."
     return lift_id
 
+# get all lifts is name is contained in lift_name
+def get_lifts_that_contain_name(lift_name) -> str:
+    db = sqlite3.connect('lifts_4d.db')
+    query = "SELECT id, name FROM lift WHERE instr(lower(name), lower(?));"
+    # query = "SELECT id, name FROM lift WHERE name LIKE '%?%';"
+    cur = db.cursor()
+    lifts = cur.execute(query, (lift_name,))
+    lifts = lifts.fetchall()
+    print(lifts)
+    if len(lifts) == 0:
+        print(lift_name)
+        print(lifts)
+    return lifts
+
+def get_lifts_with_pours():
+    db = sqlite3.connect('lifts_4d.db')
+
+
