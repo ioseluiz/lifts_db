@@ -22,7 +22,9 @@ def create_table() -> None:
     name_fix TEXT,
     defects_fix INTEGER,
     ncr_fix INTEGER,
-    cod_fix INTEGER
+    cod_fix INTEGER,
+    formwork_fix INTEGER,
+    rebar_fix INTEGER
     );
     """
     cur = db.cursor()
@@ -30,15 +32,16 @@ def create_table() -> None:
     db.close()
 
 def insert_name_fix_defect(lift: str, defects: int, ncr: int, cod: int, fix_code: int, 
-                           description: str, solution: str, name_fix: str, defects_fix: int, ncr_fix: int, cod_fix: int) -> None:
+                           description: str, solution: str, name_fix: str, defects_fix: int, ncr_fix: int, cod_fix: int,
+                           formwork_fix: int, rebar_fix: int) -> None:
     db = sqlite3.connect('lifts_4d.db')
     INSERT_QUERY  = """
                     INSERT INTO name_fix_defect (lift, defects, ncr, cod, fix_code, description, solution,name_fix,
-                      defects_fix, ncr_fix, cod_fix) VALUES
-                    (?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?);"""
+                      defects_fix, ncr_fix, cod_fix, formwork_fix, rebar_fix) VALUES
+                    (?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?, ?, ?);"""
     cur = db.cursor()
     cur.execute(INSERT_QUERY, (lift, defects, ncr, cod, fix_code, description, solution,name_fix, defects_fix,
-                               ncr_fix, cod_fix))
+                               ncr_fix, cod_fix, formwork_fix, rebar_fix))
     db.commit()
     db.close()
 

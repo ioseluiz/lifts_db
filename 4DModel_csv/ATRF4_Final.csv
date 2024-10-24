@@ -1,0 +1,82 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+A,TRF4,SL,8,ATRF4SL08,ATRF4SL08,09/16/2013,09/17/2013,2,279,200,2,196,Construct,,,,
+A,TRF4,NW,3,ATRF4NW03,ATRF4NW03,04/01/2014,04/01/2014,1,64,53,1,-17,Construct,,,,
+A,TRF4,NW,4,ATRF4NW04,ATRF4NW04,03/15/2014,03/15/2014,1,56,45,1,-54,Construct,,,,
+A,TRF4,NW,5,ATRF4NW05,ATRF4NW05,01/20/2014,01/20/2014,1,52,46,1,-40,Construct,,,,
+A,TRF4,NW,7,ATRF4NW07,ATRF4NW07,12/11/2013,12/11/2013,1,56,50,1,-15,Construct,,,,
+A,TRF4,NW,8,ATRF4NW08,ATRF4NW08,11/26/2013,11/26/2013,1,54,43,1,-10,Construct,,,,
+A,TRF4,NW,9,ATRF4NW09,ATRF4NW09,11/16/2013,11/16/2013,1,72,65,1,-31,Construct,,,,
+A,TRF4,NW,10,ATRF4NW10,ATRF4NW10,10/16/2013,10/16/2013,1,60,50,1,-19,Construct,,,,
+A,TRF4,SL,07a,ATRF4SL07a,ATRF4SL07a,09/27/2013,09/27/2013,1,278,255,1,0,Construct,Code 03.,"Lift ""07"" will be separated in ""07a"", ""07b"" and ""07c"", all quantities will be assigned to ""07a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,07b,ATRF4SL07b,ATRF4SL07b,09/27/2013,09/27/2013,1,0,0,,0,Construct,Code 03.,"Lift ""07"" will be separated in ""07a"", ""07b"" and ""07c"", all quantities will be assigned to ""07a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,07c,ATRF4SL07c,ATRF4SL07c,09/27/2013,09/27/2013,1,0,0,,11,Construct,Code 03.,"Lift ""07"" will be separated in ""07a"", ""07b"" and ""07c"", all quantities will be assigned to ""07a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,06a,ATRF4SL06a,ATRF4SL06a,10/08/2013,10/09/2013,2,253,285,2,-1,Construct,Code 03.,"Lift ""06"" will be separated in ""06a"", ""06b"" and ""06c"", all quantities will be assigned to ""06a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,06b,ATRF4SL06b,ATRF4SL06b,10/08/2013,10/09/2013,2,0,0,,-1,Construct,Code 03.,"Lift ""06"" will be separated in ""06a"", ""06b"" and ""06c"", all quantities will be assigned to ""06a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,06c,ATRF4SL06c,ATRF4SL06c,10/08/2013,10/09/2013,2,0,0,,149,Construct,Code 03.,"Lift ""06"" will be separated in ""06a"", ""06b"" and ""06c"", all quantities will be assigned to ""06a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,P2,3,ATRF4P203,ATRF4P203,03/07/2014,03/07/2014,1,22,20,2,29,Construct,,,,
+A,TRF4,P3,3,ATRF4P303,ATRF4P303,04/05/2014,04/05/2014,1,56,60,1,-10,Construct,,,,
+A,TRF4,P3,4,ATRF4P304,ATRF4P304,03/26/2014,03/26/2014,1,40,40,1,-19,Construct,,,,
+A,TRF4,P3,5,ATRF4P305,ATRF4P305,03/07/2014,03/07/2014,1,30,35,1,-136,Construct,,,,
+A,TRF4,SL,05a,ATRF4SL05a,ATRF4SL05a,10/22/2013,10/23/2013,2,326,305,2,-1,Construct,Code 03.,"Lift ""05"" will be separated in ""05a"", ""05b"" and ""05c"", all quantities will be assigned to ""05a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,05b,ATRF4SL05b,ATRF4SL05b,10/22/2013,10/23/2013,2,0,0,,-1,Construct,Code 03.,"Lift ""05"" will be separated in ""05a"", ""05b"" and ""05c"", all quantities will be assigned to ""05a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,05c,ATRF4SL05c,ATRF4SL05c,10/22/2013,10/23/2013,2,0,0,,16,Construct,Code 03.,"Lift ""05"" will be separated in ""05a"", ""05b"" and ""05c"", all quantities will be assigned to ""05a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,04a,ATRF4SL04a,ATRF4SL04a,11/08/2013,11/09/2013,2,368,325,2,-1,Construct,Code 03.,"Lift ""04"" will be separated in ""04a"", ""04b"" and ""04c"", all quantities will be assigned to ""04a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,04b,ATRF4SL04b,ATRF4SL04b,11/08/2013,11/09/2013,2,0,0,,-1,Construct,Code 03.,"Lift ""04"" will be separated in ""04a"", ""04b"" and ""04c"", all quantities will be assigned to ""04a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,04c,ATRF4SL04c,ATRF4SL04c,11/08/2013,11/09/2013,2,0,0,,27,Construct,Code 03.,"Lift ""04"" will be separated in ""04a"", ""04b"" and ""04c"", all quantities will be assigned to ""04a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,03a,ATRF4SL03a,ATRF4SL03a,12/06/2013,12/07/2013,2,378,395,2,-1,Construct,Code 03.,"Lift ""03"" will be separated in ""03a"", ""03b"" and ""03c"", all quantities will be assigned to ""03a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,03b,ATRF4SL03b,ATRF4SL03b,12/06/2013,12/07/2013,2,0,0,,-1,Construct,Code 03.,"Lift ""03"" will be separated in ""03a"", ""03b"" and ""03c"", all quantities will be assigned to ""03a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,03c,ATRF4SL03c,ATRF4SL03c,12/06/2013,12/07/2013,2,0,0,,19,Construct,Code 03.,"Lift ""03"" will be separated in ""03a"", ""03b"" and ""03c"", all quantities will be assigned to ""03a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,NW,6,ATRF4NW06,ATRF4NW06,12/26/2013,12/26/2013,1,56,46,1,30,Construct,Code 05.,"lift ""W06"" will be renamed as ""06""",Code 05a.,A-P-S-6131-0004
+A,TRF4,SL,02a,ATRF4SL02a,ATRF4SL02a,01/25/2014,01/25/2014,1,514,405,1,178,Construct,Code 03.,"Lift ""02"" will be separated in ""02a"", ""02b"" and ""02c"", all quantities will be assigned to ""02a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,R,1,ATRF4R01,ATRF4R01,07/22/2014,07/22/2014,1,499,458,1,-6,Construct,,,,
+A,TRF4,R,2,ATRF4R02,ATRF4R02,07/16/2014,07/17/2014,2,737,614,2,-8,Construct,,,,
+A,TRF4,R,3,ATRF4R03,ATRF4R03,07/09/2014,07/10/2014,2,378,348,2,-20,Construct,,,,
+A,TRF4,R,4,ATRF4R04,ATRF4R04,06/20/2014,06/20/2014,1,244,262,1,-7,Construct,,,,
+A,TRF4,R,5,ATRF4R05,ATRF4R05,06/13/2014,06/13/2014,1,212,239,1,-7,Construct,,,,
+A,TRF4,R,6,ATRF4R06,ATRF4R06,06/06/2014,06/06/2014,1,214,224,1,-14,Construct,,,,
+A,TRF4,R,7,ATRF4R07,ATRF4R07,05/23/2014,05/24/2014,2,214,209,2,-7,Construct,,,,
+A,TRF4,R,8,ATRF4R08,ATRF4R08,05/17/2014,05/17/2014,1,174,194,1,-5,Construct,,,,
+A,TRF4,R,9,ATRF4R09,ATRF4R09,05/12/2014,05/13/2014,2,182,178,2,-27,Construct,,,,
+A,TRF4,R,10,ATRF4R10,ATRF4R10,04/16/2014,04/16/2014,1,158,162,1,-5,Construct,,,,
+A,TRF4,R,11,ATRF4R11,ATRF4R11,04/11/2014,04/11/2014,1,130,147,1,-4,Construct,,,,
+A,TRF4,R,12,ATRF4R12,ATRF4R12,04/07/2014,04/08/2014,2,212,147,2,-5,Construct,,,,
+A,TRF4,R,13,ATRF4R13,ATRF4R13,04/03/2014,04/03/2014,1,150,157,1,-8,Construct,,,,
+A,TRF4,R,14,ATRF4R14,ATRF4R14,03/26/2014,03/26/2014,1,116,102,1,-60,Construct,,,,
+A,TRF4,SL,02b,ATRF4SL02b,ATRF4SL02b,01/25/2014,01/25/2014,1,0,0,,0,Construct,Code 03.,"Lift ""02"" will be separated in ""02a"", ""02b"" and ""02c"", all quantities will be assigned to ""02a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,02c,ATRF4SL02c,ATRF4SL02c,01/25/2014,01/25/2014,1,0,0,,10,Construct,Code 03.,"Lift ""02"" will be separated in ""02a"", ""02b"" and ""02c"", all quantities will be assigned to ""02a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,01a,ATRF4SL01a,ATRF4SL01a,02/04/2014,02/04/2014,1,324,320,1,0,Construct,Code 03.,"Lift ""01"" will be separated in ""01a"", ""01b"" and ""01c"", all quantities will be assigned to ""01a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,01b,ATRF4SL01b,ATRF4SL01b,02/04/2014,02/04/2014,1,0,0,,0,Construct,Code 03.,"Lift ""01"" will be separated in ""01a"", ""01b"" and ""01c"", all quantities will be assigned to ""01a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,SL,01c,ATRF4SL01c,ATRF4SL01c,02/04/2014,02/04/2014,1,0,0,,32,Construct,Code 03.,"Lift ""01"" will be separated in ""01a"", ""01b"" and ""01c"", all quantities will be assigned to ""01a""",Code 03a.,A-P-S-6130-0001
+A,TRF4,P3,6,ATRF4P306,ATRF4P306,03/08/2014,03/08/2014,1,0,0,,0,Construct,Code 01.,"A new row was created under the name of ""06"", with 0 quantities and with the dates of the previous lift plus one day",Code 01a.,A-P-S-6131-0002
+A,TRF4,P4,3,ATRF4P403,ATRF4P403,03/08/2014,03/08/2014,1,24,20,2,1,Construct,Code 05.,"Lift ""P4 -04/03"" will be renamed as ""P4-03"", ""04"" does not exist",Code 05a.,A-P-S-6131-0003
+A,TRF4,P3,7,ATRF4P307,ATRF4P307,03/09/2014,03/09/2014,1,0,0,,1,Construct,Code 02.,"A new row was created under the name of ""07"", with 0 quantities and with the dates of the previous lift plus one day",Code 01a.,A-P-S-6131-0002
+A,TRF4,P3,8,ATRF4P308,ATRF4P308,03/10/2014,03/10/2014,1,0,0,,3,Construct,Code 03.,"A new row was created under the name of ""08"", with 0 quantities and with the dates of the previous lift plus one day",Code 01a.,A-P-S-6131-0002
+A,TRF4,P5,3,ATRF4P503,ATRF4P503,03/13/2014,03/13/2014,1,48,40,2,0,Construct,Code 03.,"Lift ""P5 -04/03"" will be separated in ""P5-03"" and ""P5-04"", all quantities will be assigned to ""P5-03""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P5,4,ATRF4P504,ATRF4P504,03/13/2014,03/13/2014,1,0,0,,2,Construct,Code 03.,"Lift ""P5 -04/03"" will be separated in ""P5-03"" and ""P5-04"", all quantities will be assigned to ""P5-03""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P1,3,ATRF4P103,ATRF4P103,03/15/2014,03/15/2014,1,40,40,2,0,Construct,Code 03.,"Lift ""P1 -04/03"" will be separated in ""P1-03"" and ""P1-04"", all quantities will be assigned to ""P1-03""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P1,4,ATRF4P104,ATRF4P104,03/15/2014,03/15/2014,1,0,0,,0,Construct,Code 03.,"Lift ""P1 -04/03"" will be separated in ""P1-03"" and ""P1-04"", all quantities will be assigned to ""P1-03""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P2,1,ATRF4P201,ATRF4P201,03/15/2014,03/15/2014,1,40,40,2,0,Construct,Code 03.,"Lift ""P2 -02/01"" will be separated in ""P2-01"" and ""P2-02"", all quantities will be assigned to ""P2-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P2,2,ATRF4P202,ATRF4P202,03/15/2014,03/15/2014,1,0,0,,4,Construct,Code 03.,"Lift ""P2 -02/01"" will be separated in ""P2-01"" and ""P2-02"", all quantities will be assigned to ""P2-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P4,1,ATRF4P401,ATRF4P401,03/19/2014,03/19/2014,1,48,45,2,0,Construct,Code 03.,"Lift ""P4 -02/01"" will be separated in ""P4-01"" and ""P4-02"", all quantities will be assigned to ""P4-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P4,2,ATRF4P402,ATRF4P402,03/19/2014,03/19/2014,1,0,0,,3,Construct,Code 03.,"Lift ""P4 -02/01"" will be separated in ""P4-01"" and ""P4-02"", all quantities will be assigned to ""P4-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P1,1,ATRF4P101,ATRF4P101,03/22/2014,03/22/2014,1,64,70,2,0,Construct,Code 03.,"Lift ""P1 -02/01"" will be separated in ""P1-01"" and ""P1-02"", all quantities will be assigned to ""P1-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P1,2,ATRF4P102,ATRF4P102,03/22/2014,03/22/2014,1,0,0,,0,Construct,Code 03.,"Lift ""P1 -02/01"" will be separated in ""P1-01"" and ""P1-02"", all quantities will be assigned to ""P1-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P5,1,ATRF4P501,ATRF4P501,03/22/2014,03/22/2014,1,87,60,2,0,Construct,Code 03.,"Lift ""P5 -02/01"" will be separated in ""P5-01"" and ""P5-02"", all quantities will be assigned to ""P5-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,P5,2,ATRF4P502,ATRF4P502,03/22/2014,03/22/2014,1,0,0,,18,Construct,Code 03.,"Lift ""P5 -02/01"" will be separated in ""P5-01"" and ""P5-02"", all quantities will be assigned to ""P5-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,SW,1,ATRF4SW01,ATRF4SW01,04/09/2014,04/10/2014,2,72,60,2,-1,Construct,Code 03.,"Lift ""SW-02+01"" will be separated in ""SW-01"" and ""SW-02"", all quantities will be assigned to ""SW-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,SW,2,ATRF4SW02,ATRF4SW02,04/09/2014,04/10/2014,2,0,0,,-219,Construct,Code 03.,"Lift ""SW-02+01"" will be separated in ""SW-01"" and ""SW-02"", all quantities will be assigned to ""SW-01""",Code 03a.,A-P-S-6131-0003
+A,TRF4,SL,9,ATRF4SL09,ATRF4SL09,09/03/2013,09/04/2013,2,268,165,2,-15,Construct,,,,
+A,TRF4,SL,10,ATRF4SL10,ATRF4SL10,08/20/2013,08/20/2013,1,212,130,1,-3,Construct,,,,
+A,TRF4,SL,11,ATRF4SL11,ATRF4SL11,08/17/2013,08/18/2013,2,288,320,2,239,Construct,,,,
+A,TRF4,P3,1,ATRF4P301,ATRF4P301,04/14/2014,04/15/2014,2,96,80,2,-1,Construct,Code 03.,"Lift ""P3 -02/01"" will be separated in ""P3-01"" and ""P3-02"", all quantities will be assigned to ""P3-01""",Code 03a.,A-P-S-6131-0002
+A,TRF4,P3,2,ATRF4P302,ATRF4P302,04/14/2014,04/15/2014,2,0,0,,1,Construct,Code 03.,"Lift ""P3 -02/01"" will be separated in ""P3-01"" and ""P3-02"", all quantities will be assigned to ""P3-01""",Code 03a.,A-P-S-6131-0002
+A,TRF4,NW,1,ATRF4NW01,ATRF4NW01,04/16/2014,04/16/2014,1,74,57,1,-21,Construct,Code 03.,"Lift ""NW -02/01"" will be separated in ""NW-01"" and ""NW-02"", all quantities will be assigned to ""NW-01""",Code 03a.,A-P-S-6131-0004
+A,TRF4,SW,3,ATRF4SW03,ATRF4SW03,03/26/2014,03/27/2014,2,58,55,2,-14,Construct,,,,
+A,TRF4,SW,4,ATRF4SW04,ATRF4SW04,03/13/2014,03/13/2014,1,52,45,1,-65,Construct,,,,
+A,TRF4,SW,5,ATRF4SW05,ATRF4SW05,01/07/2014,01/07/2014,1,54,50,1,-19,Construct,,,,
+A,TRF4,SW,6,ATRF4SW06,ATRF4SW06,12/19/2013,12/19/2013,1,68,50,1,-8,Construct,,,,
+A,TRF4,SW,7,ATRF4SW07,ATRF4SW07,12/11/2013,12/12/2013,2,62,50,2,-16,Construct,,,,
+A,TRF4,SW,8,ATRF4SW08,ATRF4SW08,11/26/2013,11/26/2013,1,54,45,1,-10,Construct,,,,
+A,TRF4,SW,9,ATRF4SW09,ATRF4SW09,11/16/2013,11/16/2013,1,72,65,1,-31,Construct,,,,
+A,TRF4,SW,10,ATRF4SW10,ATRF4SW10,10/16/2013,10/16/2013,1,48,50,1,182,Construct,,,,
+A,TRF4,NW,2,ATRF4NW02,ATRF4NW02,04/16/2014,04/16/2014,1,0,0,,,Construct,Code 03.,"Lift ""NW -02/01"" will be separated in ""NW-01"" and ""NW-02"", all quantities will be assigned to ""NW-01""",Code 03a.,A-P-S-6131-0004

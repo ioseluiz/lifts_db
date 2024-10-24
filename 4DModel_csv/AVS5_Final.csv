@@ -1,0 +1,57 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number,
+A,VS5,,C05a1,AVS5C05a1,AVS5C05a1,06/21/2013,06/22/2013,1,168,174,2,3,Construct,.,,,,
+A,VS5,,C05a3,AVS5C05a3,AVS5C05a3,06/25/2013,06/25/2013,0,173,174,1,4,Construct,,,,,
+A,VS5,,C05a2,AVS5C05a2,AVS5C05a2,06/29/2013,06/29/2013,0,168,168,1,12,Construct,,,,,
+A,VS5,,C04a1,AVS5C04a1,AVS5C04a1,07/11/2013,07/11/2013,0,260,270,1,2,Construct,,,,,
+A,VS5,,C04a3,AVS5C04a3,AVS5C04a3,07/13/2013,07/13/2013,0,248,270,1,6,Construct,,,,,
+A,VS5,,C04a2,AVS5C04a2,AVS5C04a2,07/19/2013,07/19/2013,0,223,260,1,13,Construct,,,,,
+A,VS5,,C03a1,AVS5C03a1,AVS5C03a1,08/01/2013,08/01/2013,0,64,59,1,1,Construct,,,,,
+A,VS5,,C03a2,AVS5C03a2,AVS5C03a2,08/02/2013,08/02/2013,0,95,82,1,6,Construct,,,,,
+A,VS5,,C03a3,AVS5C03a3,AVS5C03a3,08/08/2013,08/08/2013,0,84,82,1,4,Construct,,,,,
+A,VS5,,C03a4,AVS5C03a4,AVS5C03a4,08/12/2013,08/13/2013,1,84,82,2,2,Construct,,,,,
+A,VS5,,C03a5,AVS5C03a5,AVS5C03a5,08/15/2013,08/15/2013,0,70,82,1,11,Construct,,,,,
+A,VS5,,C03a7,AVS5C03a7,AVS5C03a7,08/26/2013,08/26/2013,0,61,82,1,16,Construct,,,,,
+A,VS5,,C03a6,AVS5C03a6,AVS5C03a6,09/11/2013,09/11/2013,0,83,82,1,-22,Construct,,,,,
+A,VS5,,C02a01,AVS5C02a01,AVS5C02a01,08/20/2013,08/20/2013,0,62,52,1,2,Construct,,,,,
+A,VS5,,C02a3,AVS5C02a3,AVS5C02a3,08/22/2013,08/22/2013,0,77,74,1,13,Construct,,,,,
+A,VS5,,C02a2,AVS5C02a2,AVS5C02a2,09/04/2013,09/04/2013,0,63,74,1,2,Construct,,,,,
+A,VS5,,C02a5,AVS5C02a5,AVS5C02a5,09/06/2013,09/06/2013,0,85,74,1,10,Construct,,,,,
+A,VS5,,C02a4,AVS5C02a4,AVS5C02a4,09/16/2013,09/16/2013,0,72,74,1,0,Construct,,,,,
+A,VS5,,C02a7,AVS5C02a7,AVS5C02a7,09/16/2013,09/16/2013,0,52,52,1,8,Construct,,,,,
+A,VS5,,C02a6,AVS5C02a6,AVS5C02a6,09/24/2013,09/24/2013,0,80,74,1,44,Construct,,,,,
+A,VS5,,C01a,AVS5C01a,AVS5C01a,11/07/2013,11/24/2013,17,621,620,4,-79,Construct,Code 02.,"Joining lifts ""C01a-1"" and ""C01a-1(II)"" under the name of ""C01a"".",Code 02a.,A-P-S-6700-0002,
+A,VS5,,C05b3,AVS5C05b3,AVS5C05b3,09/06/2013,09/06/2013,0,165,176,1,5,Construct,,,,,(*)
+A,VS5,,C05b1,AVS5C05b1,AVS5C05b1,09/11/2013,09/12/2013,1,215,190,2,5,Construct,,,,,(*)
+A,VS5,,C05b2,AVS5C05b2,AVS5C05b2,09/17/2013,09/18/2013,1,176,176,2,2,Construct,,,,,(*)
+A,VS5,,C04b3,AVS5C04b3,AVS5C04b3,09/20/2013,09/21/2013,1,246,290,2,4,Construct,,,,,(*)
+A,VS5,,C04b1,AVS5C04b1,AVS5C04b1,09/25/2013,09/25/2013,0,304,309,1,7,Construct,,,,,(*)
+A,VS5,,C04b2,AVS5C04b2,AVS5C04b2,10/02/2013,10/02/2013,0,247,279,1,229,Construct,,,,,(*)
+A,VS5,,C03b1,AVS5C03b1,AVS5C03b1,05/19/2014,05/19/2014,0,56,55,1,7,Construct,,,,,(*)
+A,VS5,,C03b2,AVS5C03b2,AVS5C03b2,05/26/2014,05/26/2014,0,56,46,1,-6,Construct,,,,,(*)
+A,VS5,,C03b3,AVS5C03b3,AVS5C03b3,05/20/2014,05/20/2014,0,120,103,1,7,Construct,,,,,(*)
+A,VS5,,C03b4,AVS5C03b4,AVS5C03b4,05/27/2014,05/27/2014,0,56,50,1,2,Construct,,,,,(*)
+A,VS5,,C03b5,AVS5C03b5,AVS5C03b5,05/29/2014,05/29/2014,0,104,90,1,15,Construct,,,,,(*)
+A,VS5,,C03b6,AVS5C03b6,AVS5C03b6,06/13/2014,06/13/2014,0,0,55,0,0,Construct,,,,,(*)
+A,VS5,,C03b7,AVS5C03b7,AVS5C03b7,06/13/2014,06/14/2014,1,128,56,2,-19,Construct,,,,,(*)
+A,VS5,,C02b1,AVS5C02b1,AVS5C02b1,05/26/2014,05/26/2014,0,64,57,1,0,Construct,,,,,(*)
+A,VS5,,C02b3,AVS5C02b3,AVS5C02b3,05/26/2014,05/26/2014,0,80,107,1,3,Construct,,,,,(*)
+A,VS5,,C02b2,AVS5C02b2,AVS5C02b2,05/29/2014,05/29/2014,0,56,48,1,5,Construct,,,,,(*)
+A,VS5,,C02b5,AVS5C02b5,AVS5C02b5,06/03/2014,06/04/2014,1,88,94,2,0,Construct,Code 02.,"Lift ""C02b05"" with ""C02b5"". All quantities will be assigned to ""C02b5"".",Code 02a.,A-P-S-6740-0003,(*)
+A,VS5,,C02b4,AVS5C02b4,AVS5C02b4,06/04/2014,06/04/2014,0,56,52,1,16,Construct,,,,,(*)
+A,VS5,,C02b6,AVS5C02b6,AVS5C02b6,06/20/2014,06/20/2014,0,56,57,1,0,Construct,Code 05.,"Lift ""C02b06"" will be renamed as ""C02b6""",Code 05a.,A-P-S-6740-0003,(*)
+A,VS5,,C02b7,AVS5C02b7,AVS5C02b7,06/20/2014,06/20/2014,0,56,58,1,18,Construct,Code 05.,"Lift ""C02b07"" will be renamed as ""C02b7""",Code 05a.,A-P-S-6740-0003,(*)
+A,VS5,,C01b1,AVS5C01b1,AVS5C01b1,07/08/2014,07/12/2014,4,1075,994,3,-4,Construct,Code 02- Code 03.,"Joining ""AVS5C01b(I)"" with ""AVS5C01b(II)"". All quantities will be assigned to ""C01b1"". Lift ""C01b1"" will be separated into ""C01b2"" and ""C01b3"". All quantities will be assigned to ""C01b1"".",Code 02a. Code 03a.,A-P-S-6740-0003,(*)
+A,VS5,,C01b2,AVS5C01b2,AVS5C01b2,07/08/2014,07/12/2014,4,0,0,0,-4,Construct,Code 02- Code 03.,"Joining ""AVS5C01b(I)"" with ""AVS5C01b(II)"". All quantities will be assigned to ""C01b1"". Lift ""C01b1"" will be separated into ""C01b2"" and ""C01b3"". All quantities will be assigned to ""C01b1"".",Code 02a. Code 03a.,A-P-S-6740-0003,(*)
+A,VS5,,C01b3,AVS5C01b3,AVS5C01b3,07/08/2014,07/12/2014,4,0,0,0,-171,Construct,Code 02 - Code 03.,"Joining ""AVS5C01b(I)"" with ""AVS5C01b(II)"". All quantities will be assigned to ""C01b1"". Lift ""C01b1"" will be separated into ""C01b2"" and ""C01b3"". All quantities will be assigned to ""C01b1"".",Code 02a - Code 03a.,A-P-S-6740-0003,(*)
+A,VS5,,W06,AVS5W06,AVS5W06,01/22/2014,01/22/2014,0,936,889,1,37,Construct,,,,,
+A,VS5,,W05,AVS5W05,AVS5W05,02/28/2014,02/28/2014,0,890,891,1,18,Construct,,,,,
+A,VS5,,W04,AVS5W04,AVS5W04,03/18/2014,03/18/2014,0,861,898,1,9,Construct,,,,,
+A,VS5,,W03,AVS5W03,AVS5W03,03/27/2014,03/28/2014,1,840,898,2,10,Construct,,,,,
+A,VS5,,W02,AVS5W02,AVS5W02,04/07/2014,04/08/2014,1,880,891,2,44,Construct,,,,,
+A,VS5,,W01,AVS5W01,AVS5W01,05/22/2014,03/03/2015,285,370,465,2,-294,Construct,,,,,
+A,VS5,,C04b4,AVS5C04b4,AVS5C04b4,5/13/2014,5/13/2014,0,16,0,1,2,Construct,Code 06.,"Lift ""C04b-4"" does not exist in the RFC",Code 06a.,,(*)
+A,VS5,,C04b5,AVS5C04b5,AVS5C04b5,5/15/2014,5/15/2014,0,16,0,1,0,Construct,Code 06.,"Lift ""C04b-5"" does not exist in the RFC",Code 06a.,,(*)
+A,VS5,,C04b7,AVS5C04b7,AVS5C04b7,5/15/2014,5/15/2014,0,16,0,2,6,Construct,Code 06. ,"Lift ""C04b-7"" does not exist in the RFC",Code 06a.,,(*)
+A,VS5,,C04b07,AVS5C04b07,AVS5C04b07,5/21/2014,5/21/2014,0,24,0,2,,Construct,Code 06.,"Lift ""C04b-07"" does not exist in the RFC",Code 06a.,,(*)
+,,,,,,,,,,,,,,,,,(*) There is a mistake in the nomenclature of this lift in RFC drawing A-P-S-6740-0003.   This MS Excel table contains the correct name for the lift.,
+,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,53 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number,
+A,VS3,,C05a1,AVS3C05a1,AVS3C05a1,03/14/2013,03/15/2013,2,248,174,2,5,Construct,.,,,,
+A,VS3,,C05a3,AVS3C05a3,AVS3C05a3,03/20/2013,03/20/2013,1,188,174,1,6,Construct,,,,,
+A,VS3,,C05a2,AVS3C05a2,AVS3C05a2,03/26/2013,03/26/2013,1,184,168,1,32,Construct,,,,,
+A,VS3,,C04a3,AVS3C04a3,AVS3C04a3,04/27/2013,04/27/2013,1,232,270,1,5,Construct,,,,,
+A,VS3,,C04a1,AVS3C04a1,AVS3C04a1,05/02/2013,05/03/2013,2,232,270,2,7,Construct,,,,,
+A,VS3,,C04a2,AVS3C04a2,AVS3C04a2,05/10/2013,05/11/2013,2,236,260,2,3,Construct,,,,,
+A,VS3,,C03a7,AVS3C03a7,AVS3C03a7,05/14/2013,05/14/2013,1,72,59,1,6,Construct,,,,,
+A,VS3,,C03a6,AVS3C03a6,AVS3C03a6,05/20/2013,05/20/2013,1,96,71,1,11,Construct,,,,,
+A,VS3,,C03a5,AVS3C03a5,AVS3C03a5,05/31/2013,05/31/2013,1,80,71,1,7,Construct,,,,,
+A,VS3,,C03a4,AVS3C03a4,AVS3C03a4,06/07/2013,06/08/2013,2,88,82,2,16,Construct,,,,,
+A,VS3,,C03a3,AVS3C03a3,AVS3C03a3,06/24/2013,06/24/2013,1,81,82,1,30,Construct,,,,,
+A,VS3,,C03a1,AVS3C03a1,AVS3C03a1,07/24/2013,07/24/2013,1,72,59,1,0,Construct,,,,,
+A,VS3,,C03a2,AVS3C03a2,AVS3C03a2,07/24/2013,07/24/2013,1,86,82,1,-58,Construct,,,,,
+A,VS3,,C02a7,AVS3C02a7,AVS3C02a7,05/27/2013,05/27/2013,1,64,52,1,17,Construct,,,,,
+A,VS3,,C02a6,AVS3C02a6,AVS3C02a6,06/13/2013,06/14/2013,2,96,74,2,20,Construct,,,,,
+A,VS3,,C02a5,AVS3C02a5,AVS3C02a5,07/04/2013,07/04/2013,1,75,74,1,7,Construct,,,,,
+A,VS3,,C02a3,AVS3C02a3,AVS3C02a3,07/11/2013,07/11/2013,1,80,74,1,7,Construct,,,,,
+A,VS3,,C02a4,AVS3C02a4,AVS3C02a4,07/18/2013,07/18/2013,1,88,74,1,16,Construct,,,,,
+A,VS3,,C02a1,AVS3C02a1,AVS3C02a1,08/03/2013,08/03/2013,1,63,52,1,0,Construct,,,,,
+A,VS3,,C02a2,AVS3C02a2,AVS3C02a2,08/03/2013,08/03/2013,1,80,74,1,40,Construct,,,,,
+A,VS3,,C01a,AVS3C01a,AVS3C01a,09/12/2013,09/26/2013,15,639,620,6,228,Construct,Code 02.,"Joining ""C01a1(I)"" with ""C01a1(II)""under the name of ""C01a"".",Code 02a.,A-P-S-6720-0002,
+A,VS3,,C05b3,AVS3C05b3,AVS3C05b3,05/12/2014,05/13/2014,2,446,465,2,-1,Construct,Code 03.,"Lift ""AVS3C05&C04b03"" will be divided into ""C05b3 and C04b3"". All quantities will be assigned ""C05b3"".",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C05b2,AVS3C05b2,AVS3C05b2,05/12/2014,05/13/2014,2,0,0,0,10,Construct,Code 03.,"Lift ""AVS3C05b&C04b01/02"" will be divided into ""C05b1, C05b2, C04b1 and C04b2"". All quantities will be assigned ""C05b1"".",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C05b1,AVS3C05b1,AVS3C05b1,05/23/2014,05/24/2014,2,952,916,2,-12,Construct,Code 03.,"Lift ""AVS3C05b&C04b01/02"" will be divided into ""C05b1, C05b2, C04b1 and C04b2"". All quantities will be assigned ""C05b1"".",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C04b3,AVS3C04b3,AVS3C04b3,05/12/2014,05/13/2014,2,0,0,0,-1,Construct,Code 03.,"Lift ""AVS3C05&C04b03"" will be divided into ""C05b3 and C04b3"". All quantities will be assigned ""C05b3""",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C04b2,AVS3C04b2,AVS3C04b2,05/12/2014,05/13/2014,2,0,0,0,-1,Construct,Code 03.,"Lift ""AVS3C05b&C04b01/02"" will be divided into ""C05b1, C05b2, C04b1 and C04b2"". All quantities will be assigned ""C05b1""",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C04b1,AVS3C04b1,AVS3C04b1,05/12/2014,05/13/2014,2,0,0,0,20,Construct,Code 03.,"Lift ""AVS3C05b&C04b01/02"" will be divided into ""C05b1, C05b2, C04b1 and C04b2"". All quantities will be assigned ""C05b1""",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C03b1,AVS3C03b1,AVS3C03b1,06/02/2014,06/02/2014,1,88,55,1,39,Construct,,,,,(*)
+A,VS3,,C03b3,AVS3C03b3,AVS3C03b3,07/11/2014,07/11/2014,1,135,103,1,7,Construct,,,,,(*)
+A,VS3,,C03b5,AVS3C03b5,AVS3C03b5,07/18/2014,07/18/2014,1,140,90,1,10,Construct,,,,,(*)
+A,VS3,,C03b6,AVS3C03b6,AVS3C03b6,07/28/2014,07/28/2014,1,69,55,1,8,Construct,,,,,(*)
+A,VS3,,C03b4,AVS3C03b4,AVS3C03b4,08/05/2014,08/05/2014,1,64,50,1,27,Construct,Code 05.,"Lift ""C03b04"" will be renamed ""C03b4"".",Code 05a.,A-P-S-6720-0003,(*)
+A,VS3,,C03b2,AVS3C03b2,AVS3C03b2,09/01/2014,09/01/2014,1,68,46,1,-81,Construct,Code 05.,"Lift ""C03b02"" will be renamed ""C03b2"".",Code 05a.,A-P-S-6720-0003,(*)
+A,VS3,,C02b1,AVS3C02b1,AVS3C02b1,06/12/2014,06/12/2014,1,64,57,1,32,Construct,,,,,(*)
+A,VS3,,C02b7,AVS3C02b7,AVS3C02b7,07/14/2014,07/14/2014,1,66,58,1,9,Construct,Code 05.,"Lift ""C02b07"" will be renamed ""C02b7"".",Code 05a.,A-P-S-6720-0003 (there is a mistake in this drawing),(*)
+A,VS3,,C02b3,AVS3C02b3,AVS3C02b3,07/23/2014,07/23/2014,1,77,107,1,5,Construct,,,,,(*)
+A,VS3,,C02b5,AVS3C02b5,AVS3C02b5,07/28/2014,07/28/2014,1,97,94,1,9,Construct,,,,,(*)
+A,VS3,,C02b6,AVS3C02b6,AVS3C02b6,08/06/2014,08/06/2014,1,60,50,1,7,Construct,,,,,(*)
+A,VS3,,C02b4,AVS3C02b4,AVS3C02b4,08/13/2014,08/13/2014,1,76,52,1,29,Construct,,,,,(*)
+A,VS3,,C02b2,AVS3C02b2,AVS3C02b2,09/11/2014,09/11/2014,1,64,48,1,46,Construct,,,,,(*)
+A,VS3,,C01b1,AVS3C01b1,AVS3C01b1,10/27/2014,10/27/2014,1,397,340,4,3,Construct,Code 05.,"Lift ""C01b(I) will be renamed as ""C01b1"".",Code 05a.,A-P-S-6720-0003,(*)
+A,VS3,,C01b2,AVS3C01b2,AVS3C01b2,10/30/2014,10/31/2014,2,594,654,2,-1,Construct,Code 03.,"The Lift ""C01b(II) will be divided into C01b2 and C01b3. All quantities will be assigned to ""C01b2""",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,C01b3,AVS3C01b3,AVS3C01b3,10/30/2014,10/31/2014,2,0,0,0,-364,Construct,Code 03.,"The Lift ""C01b(II) will be divided into ""C01b1, C01b2 and C01b3. All quantities will be assigned to ""C01b1""",Code 03a.,A-P-S-6720-0003,(*)
+A,VS3,,W06,AVS3W06,AVS3W06,11/01/2013,11/07/2013,7,968,973,3,19,Construct,,,,,
+A,VS3,,W05,AVS3W05,AVS3W05,11/26/2013,11/28/2013,3,926,925,3,13,Construct,,,,,
+A,VS3,,W04,AVS3W04,AVS3W04,12/11/2013,12/13/2013,3,1003,931,3,13,Construct,,,,,
+A,VS3,,W03,AVS3W03,AVS3W03,12/26/2013,12/27/2013,2,998,931,2,22,Construct,,,,,
+A,VS3,,W02,AVS3W02,AVS3W02,01/18/2014,01/18/2014,1,930,967,1,79,Construct,,,,,
+A,VS3,,W01,AVS3W01,AVS3W01,04/07/2014,03/26/2015,354,407,399,2,-283,Construct,,,,,
+A,VS3,,C03b7,AVS3C03b7,AVS3C03b7,06/16/2014,06/16/2014,1,70,56,1,,Construct,Code 05.,"Lift ""C07b7"" will be renamed as ""C03b7"".",Code 05a.,A-P-S-6721-0002,(*)
+,,,,,,,,,,,,,,,,,(*) There is a mistake in the nomenclature of this lift in RFC drawing A-P-S-6720-0003.   This MS Excel table contains the correct name for the lift.,
+,,,,,,,,,,,,,,,,,,

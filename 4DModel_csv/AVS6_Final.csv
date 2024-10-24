@@ -1,0 +1,56 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number,
+A,VS6,,C05a1,AVS6C05a1,AVS6C05a1,07/19/2013,07/19/2013,1,183,174,1,6,Construct,.,,,,
+A,VS6,,C05a2,AVS6C05a2,AVS6C05a2,07/25/2013,07/25/2013,1,168,168,1,5,Construct,,,,,
+A,VS6,,C05a3,AVS6C05a3,AVS6C05a3,07/30/2013,07/30/2013,1,176,174,1,6,Construct,,,,,
+A,VS6,,C04a1,AVS6C04a1,AVS6C04a1,08/05/2013,08/05/2013,1,286,270,1,7,Construct,,,,,
+A,VS6,,C04a3,AVS6C04a3,AVS6C04a3,08/12/2013,08/12/2013,1,235,270,1,7,Construct,,,,,
+A,VS6,,C04a2,AVS6C04a2,AVS6C04a2,08/19/2013,08/20/2013,2,248,260,2,2,Construct,Code 02.,"Joining lifts ""AVS6C04a02"" and ""AVS6C04a2"" under the name of ""AVS6C04a2"".",Code 02a.,A-P-S-6750-0003,
+A,VS6,,C03a1,AVS6C03a1,AVS6C03a1,08/22/2013,08/22/2013,1,62,59,1,16,Construct,,,,,
+A,VS6,,C03a2,AVS6C03a2,AVS6C03a2,09/07/2013,09/07/2013,1,79,82,1,11,Construct,,,,,
+A,VS6,,C03a3,AVS6C03a3,AVS6C03a3,09/18/2013,09/18/2013,1,81,82,1,15,Construct,,,,,
+A,VS6,,C03a4,AVS6C03a4,AVS6C03a4,10/03/2013,10/03/2013,1,80,71,1,6,Construct,,,,,
+A,VS6,,C03a5,AVS6C03a5,AVS6C03a5,10/09/2013,10/09/2013,1,80,82,1,7,Construct,,,,,
+A,VS6,,C03a6,AVS6C03a6,AVS6C03a6,10/16/2013,10/17/2013,2,80,82,2,29,Construct,,,,,
+A,VS6,,C03a7,AVS6C03a7,AVS6C03a7,11/15/2013,11/15/2013,1,64,59,1,-65,Construct,,,,,
+A,VS6,,C02a1,AVS6C02a1,AVS6C02a1,09/11/2013,09/12/2013,2,69,59,2,18,Construct,,,,,
+A,VS6,,C02a2,AVS6C02a2,AVS6C02a2,09/30/2013,09/30/2013,1,89,74,1,23,Construct,,,,,
+A,VS6,,C02a3,AVS6C02a3,AVS6C02a3,10/23/2013,10/24/2013,2,78,74,2,20,Construct,,,,,
+A,VS6,,C02a5,AVS6C02a5,AVS6C02a5,11/13/2013,11/13/2013,1,64,82,1,2,Construct,,,,,
+A,VS6,,C02a4,AVS6C02a4,AVS6C02a4,11/15/2013,11/15/2013,1,104,74,1,5,Construct,,,,,
+A,VS6,,C02a6,AVS6C02a6,AVS6C02a6,11/20/2013,11/20/2013,1,64,74,1,10,Construct,Code 05.,"Lift ""AVS6C02a06"" will be renamed ""AVS6C04a6""",Code 05a.,A-P-S-6750-0003,
+A,VS6,,C02a7,AVS6C02a7,AVS6C02a7,11/30/2013,11/30/2013,1,49,52,1,133,Construct,,,,,
+A,VS6,,C01a,AVS6C01a,AVS6C01a,04/12/2014,05/17/2014,36,648,630,3,-220,Construct,Code 02.,"Joining ""AVS6C01a01"" with ""AVS6C01a1(II)"" under the name of ""AVS6C01a"".",Code 02a.,A-P-S-6750-0003,
+A,VS6,,C05b3,AVS6C05b3,AVS6C05b3,10/09/2013,10/09/2013,1,183,176,1,22,Construct,,,,,(*)
+A,VS6,,C05b2,AVS6C05b2,AVS6C05b2,10/31/2013,10/31/2013,1,179,170,1,2,Construct,Code 05.,"Lift ""AVS6C05B2"" will be renamed ""AVS6C05b2""",Code 05a.,A-P-S-6750-0003,(*)
+A,VS6,,C05b1,AVS6C05b1,AVS6C05b1,11/02/2013,11/02/2013,1,144,190,1,-15,Construct,,,,,(*)
+A,VS6,,C04b3,AVS6C04b3,AVS6C04b3,10/18/2013,12/10/2013,54,280,290,2,-28,Construct,Code 02.,"Joining lifts ""AVS6C04b03""and ""C04b3(Kicker)"" under the name of ""AVS6C04b3""",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,C04b2,AVS6C04b2,AVS6C04b2,11/12/2013,01/08/2014,58,287,279,3,-55,Construct,Code 02.,"Joining lifts ""AVS6C04b02""and ""C04b2(Kicker)"" under the name of ""AVS6C04b2""",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,C04b1,AVS6C04b1,AVS6C04b1,11/14/2013,07/08/2014,237,304,309,3,-203,Construct,Code 02.,"Joining lifts ""AVS6C04b01""and ""C04b1(Kicker)"" under the name of ""AVS6C04b1""",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,C04b05(Kicker),AVS6C04b05(Kicker),AVS6C04b05(Kicker),12/17/2013,12/17/2013,1,18,0,1,183,Construct,Code 06.,"Lift ""C04b05(Kicker)"" does not exist in the RFC",Code 06a. ,A-P-S-6750-0003,(*)
+A,VS6,,C04b6(Kicker),AVS6C04b6(Kicker),AVS6C04b6(Kicker),06/18/2014,06/18/2014,1,16,0,1,10,Construct,Code 06.,"Lift ""C04b06(Kicker)"" does not exist in the RFC",Code 06a. ,A-P-S-6750-0003,(*)
+A,VS6,,C04b07(Kicker),AVS6C04b07(Kicker),AVS6C04b07(Kicker),06/28/2014,06/28/2014,1,16,0,1,-155,Construct,Code 06.,"Lift ""C04b07(Kicker)"" does not exist in the RFC",Code 06a. ,A-P-S-6750-0003,(*)
+A,VS6,,C03b3,AVS6C03b3,AVS6C03b3,01/24/2014,01/24/2014,1,106,103,1,0,Construct,,,,,(*)
+A,VS6,,C03b4,AVS6C03b4,AVS6C03b4,01/24/2014,01/24/2014,1,50,50,1,0,Construct,,,,,(*)
+A,VS6,,C03b5,AVS6C03b5,AVS6C03b5,01/24/2014,01/24/2014,1,101,90,1,81,Construct,,,,,(*)
+A,VS6,,C03b2,AVS6C03b2,AVS6C03b2,04/15/2014,04/15/2014,1,56,46,1,70,Construct,Code 05.,"Lift "" AVS6C02b02"" will be renamed ""AVS6C02b2""",Code 05a.,A-P-S-6750-0003,(*)
+A,VS6,,C03b6,AVS6C03b6,AVS6C03b6,06/24/2014,06/24/2014,1,48,55,1,16,Construct,,,,,(*)
+A,VS6,,C03b1,AVS6C03b1,AVS6C03b1,07/10/2014,07/14/2014,5,99,110,2,-4,Construct,Code 02.,"Joining ""AVS6C03b01"" with ""AVS6C03b1"". All quantitites will be assigned to ""AVS6C03b1"".",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,C03b7,AVS6C03b7,AVS6C03b7,07/10/2014,07/10/2014,1,48,56,1,-157,Construct,,,,,(*)
+A,VS6,,C02b3,AVS6C02b3,AVS6C02b3,02/03/2014,02/03/2014,1,100,107,1,0,Construct,,,,,(*)
+A,VS6,,C02b4,AVS6C02b4,AVS6C02b4,02/03/2014,02/03/2014,1,47,52,1,0,Construct,,,,,(*)
+A,VS6,,C02b5,AVS6C02b5,AVS6C02b5,02/03/2014,02/03/2014,1,82,94,1,136,Construct,,,,,(*)
+A,VS6,,C02b2,AVS6C02b2,AVS6C02b2,06/19/2014,06/19/2014,1,64,48,1,16,Construct,,,,,(*)
+A,VS6,,C02b6,AVS6C02b6,AVS6C02b6,07/05/2014,07/05/2014,1,70,57,1,18,Construct,Code 05.,"Lift "" AVS6C02b06"" will be renamed ""AVS6C02b6""",Code 05a.,A-P-S-6750-0003,(*)
+A,VS6,,C02b1,AVS6C02b1,AVS6C02b1,07/23/2014,07/23/2014,1,94,57,1,0,Construct,,,,,(*)
+A,VS6,,C02b7,AVS6C02b7,AVS6C02b7,07/23/2014,07/23/2014,1,61,58,1,-29,Construct,,,,,(*)
+A,VS6,,C01b2,AVS6C01b2,AVS6C01b2,06/24/2014,06/30/2014,7,320,316,2,30,Construct,Code 02.,"Joining ""AVS6C01b2(I)"" with ""AVS6C01b02(II)"" under the name of ""AVS6C01b2"".",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,C01b1,AVS6C01b1,AVS6C01b1,07/30/2014,07/30/2014,1,388,361,3,5,Construct,Code 02.,"Joining ""AVS6C01b1(I)"" with ""AVS6C01b1(II)"" under the name of ""AVS6C01b1"".",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,C01b3,AVS6C01b3,AVS6C01b3,08/04/2014,08/04/2014,1,309,264,3,-63,Construct,Code 02.,"Joining ""AVS6C01b3(I)"" with ""AVS6C01b3(II)"" under the name of ""AVS6C01b3"".",Code 02a.,A-P-S-6750-0003,(*)
+A,VS6,,W06,AVS6W06,AVS6W06,06/02/2014,06/03/2014,2,944,889,2,10,Construct,,,,,
+A,VS6,,W05,AVS6W05,AVS6W05,06/13/2014,06/14/2014,2,896,891,2,12,Construct,,,,,
+A,VS6,,W04,AVS6W04,AVS6W04,06/26/2014,06/28/2014,3,920,898,3,10,Construct,,,,,
+A,VS6,,W03,AVS6W03,AVS6W03,07/08/2014,07/10/2014,3,896,898,3,7,Construct,,,,,
+A,VS6,,W02,AVS6W02,AVS6W02,07/17/2014,07/19/2014,3,876,891,3,47,Construct,,,,,
+A,VS6,,W01,AVS6W01,AVS6W01,09/04/2014,04/10/2015,219,356,399,2,,Construct,Code 02.,"Joining lifts ""W01"" and ""W01Blockout"" under the name of ""W01"".",Code 02.,A-P-S-6751-0002,
+,,,,,,,,,,,,,,,,,(*) There is a mistake in the nomenclature of this lift in RFC drawing A-P-S-6750-0003.   This MS Excel table contains the correct name for the lift.,
+,,,,,,,,,,,,,,,,,,

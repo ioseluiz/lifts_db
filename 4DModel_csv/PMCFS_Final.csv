@@ -1,0 +1,22 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number
+P,FS,M19,A,PFSM19A,PFSM19A,09/09/2013,09/09/2013,1,168,152,2,38,Construct,.,,,
+P,FS,M19,B,PFSM19B,PFSM19B,10/17/2013,10/18/2013,2,340,336,4,-150,Construct,,,,
+P,FS,M20,B,PFSM20B,PFSM20B,05/21/2013,05/22/2013,2,560,558,4,92,Construct,,,,
+P,FS,M20,A,PFSM20A,PFSM20A,08/22/2013,08/22/2013,1,260,258,1,0,Construct,Code 03,"Lift ""A+C"" will be divided into ""A"" and ""C"".  All quantities will be assigned to ""A"".",Code 03a.,P-P-S-7801-0001
+P,FS,M20,C,PFSM20C,PFSM20C,08/22/2013,08/22/2013,1,0,0,0,-104,Construct,Code 3,"Lift ""A+C"" will be divided into ""A"" and ""C"".  All quantities will be assigned to ""A"".",Code 03a.,P-P-S-7801-0001
+P,FS,M21,B,PFSM21B,PFSM21B,05/10/2013,05/11/2013,2,288,278,2,3,Construct,,,,
+P,FS,M21,A,PFSM21A,PFSM21A,05/14/2013,05/14/2013,1,104,109,1,44,Construct,,,,
+P,FS,M21,C,PFSM21C,PFSM21C,06/27/2013,06/28/2013,2,236,225,2,5,Construct,,,,
+P,FS,M21,D,PFSM21D,PFSM21D,07/03/2013,07/03/2013,1,123,108,1,-124,Construct,,,,
+P,FS,M22,D,PFSM22D,PFSM22D,03/01/2013,03/01/2013,1,106,108,1,3,Construct,,,,
+P,FS,M22,C,PFSM22C,PFSM22C,03/04/2013,03/04/2013,1,289,279,1,57,Construct,,,,
+P,FS,M22,B,PFSM22B,PFSM22B,04/30/2013,04/30/2013,1,288,279,1,9,Construct,,,,
+P,FS,M22,A,PFSM22A,PFSM22A,05/09/2013,05/09/2013,1,99,108,1,-77,Construct,,,,
+P,FS,M23,A,PFSM23A,PFSM23A,02/21/2013,08/21/2013,182,272,250,4,-177,Construct,,,,
+P,FS,M23,C,PFSM23C,PFSM23C,02/25/2013,02/25/2013,1,286,321,1,59,Construct,,,,
+P,FS,M23,B,PFSM23B,PFSM23B,04/25/2013,04/25/2013,1,323,321,1,1,Construct,,,,
+P,FS,M23,D,PFSM23D,PFSM23D,04/26/2013,04/25/2013,0,0,0,0,-148,Construct,Code 01.,"A new row was created under the name of ""D"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,P-P-S-7807-0001
+P,FS,H3C,A4,PFSH3CA4,PFSH3CA4,11/28/2012,04/26/2013,150,164,57,1,53,Construct,,,,
+P,FS,H3C,A2,PFSH3CA2,PFSH3CA2,06/18/2013,06/18/2013,1,144,148,1,2,Construct,,,,
+P,FS,H3C,A1,PFSH3CA1,PFSH3CA1,06/20/2013,06/20/2013,1,64,57,1,0,Construct,,,,
+P,FS,H3C,A3,PFSH3CA3,PFSH3CA3,06/20/2013,06/20/2013,1,120,148,1,,Construct,,,,

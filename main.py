@@ -116,6 +116,8 @@ def main():
         {'name': 'Valve Structure 4', 'abr': 'VS4'},
         {'name': 'Valve Structure 5', 'abr': 'VS5'},
         {'name': 'Valve Structure 6', 'abr': 'VS6'},
+        {'name': 'Floor Slab', 'abr': 'FS'},
+
     ]
 
     # 4D Model Database - SQLite
@@ -214,17 +216,26 @@ def main():
         defects_fixed = fix["defects_fix"]
         ncr_fixed = fix["ncr_fix"]
         cod_fixed = fix["cod_fix"]
+        formwork_fixed = fix["formwork_fix"]
+        rebar_fixed = fix["rebar_fix"]
 
         name_fix_defect.insert_name_fix_defect(lift_fix_name, defects_fix_name, ncr_fix_name,
                                                cod_fix_name, code_fix_name, description_fix_name,
                                                solution_fix_name,name_fixed, defects_fixed,
-                                               ncr_fixed, cod_fixed)
+                                               ncr_fixed, cod_fixed, formwork_fixed, rebar_fixed)
 
 
     # Create defects table
     allowed_structures = ["UE","UW","ME","MW","LE","LW",
                           "H1C","H1E","H1W","H2C","H2E","H2W",
-                          "H3C","H3E","H3W","H4C","H4E","H4W"]
+                          "H3C","H3E","H3W","H4C","H4E","H4W",
+                          "CC1","CC2","CC3","CC4","CC5","CC6",
+                          "CU1","CU2","CU3",
+                          "TRF1","TRF2","TRF3","TRF4","TRF5","TRF6",
+                          "VS1","VS2","VS3","VS4","VS5","VS6",
+                          "T1","T2","T3","T4","T5","T6",
+                          "IE","IW","OE","OW"
+                          "FS"]
     defects_files = os.listdir(DEFECTS_FOLDER)
     for file in defects_files:
         full_file_path = str(Path(DEFECTS_FOLDER) / file)
@@ -244,6 +255,8 @@ def main():
                 correct_defects = lift_for_fix[9]
                 correct_ncr = lift_for_fix[10]
                 correct_cod = lift_for_fix[11]
+                correct_formwork = lift_for_fix[12]
+                correct_rebar = lift_for_fix[13]
                 if "," in correct_lift_name:
                     lifts_for_correction = correct_lift_name.split(",")
                     lifts_for_correction = [x.replace(" ","") for x in lifts_for_correction]
@@ -255,20 +268,22 @@ def main():
                                 "lift": lift_name_defects,
                                 "defects": row["defects"],
                                 "ncr": row["ncr"],
-                                "cod": row["cod"]
+                                "cod": row["cod"],
+                                "formwork_defects": row["formwork_defects"],
+                                "rebar_defects": row["rebar_defects"],
                                 }
                             lifts_defects_for_fix.append(info)
                         else:
                             # Insert data into table defect
                             lift_id = lift.get_lift_id_by_name(fix_lift_name)
-                            defect.insert_defect(lift_id, row["icl_found"], correct_defects,correct_ncr, correct_cod)
+                            defect.insert_defect(lift_id, row["icl_found"], correct_defects,correct_ncr, correct_cod, correct_formwork, correct_rebar)
 
                 elif "skip" == correct_lift_name:
                     pass
                 else:
                     # Insert data into table defect
                     lift_id = lift.get_lift_id_by_name(correct_lift_name)
-                    defect.insert_defect(lift_id, row["icl_found"], correct_defects, correct_ncr, correct_cod)
+                    defect.insert_defect(lift_id, row["icl_found"], correct_defects, correct_ncr, correct_cod, correct_formwork, correct_rebar)
             else:
 
                 # Search lift in database
@@ -278,13 +293,15 @@ def main():
                         "lift": lift_name_defects,
                         "defects": row["defects"],
                         "ncr": row["ncr"],
-                        "cod": row["cod"]
+                        "cod": row["cod"],
+                        "formwork_defects": row["formwork_defects"],
+                        "rebar_defects": row["rebar_defects"],
                     }
                     lifts_defects_for_fix.append(info)
                 else:
                     # insert data into table defect
                     lift_id = lift.get_lift_id_by_name(lift_name_defects)
-                    defect.insert_defect(lift_id, row["icl_found"], row["defects"], row["ncr"], row["cod"])
+                    defect.insert_defect(lift_id, row["icl_found"], row["defects"], row["ncr"], row["cod"], row["formwork_defects"], row["rebar_defects"])
 
     print("Check the following lifts because don't match lift name in database: ")
 

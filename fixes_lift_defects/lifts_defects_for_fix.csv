@@ -1,40 +1,86 @@
-lift,defects,ncr,cod,fix_code,description,solution,name_fix,defects_fix,ncr_fix,cod_fix
-AH4E6CW08N,0,0,0,1,lift splitted in multiple pours,sum defects,AH4E6CW08,0,0,0
-AH4E6CW08S,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-AH4E6CW09N,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-AH4E6CW09S,0,0,0,1,lift splitted in multiple pours,sum defects,AH4E6CW09,0,0,0
-AH4E6DF02N,5,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-AH4E6DF02S,5,0,0,1,lift splitted in multiple pours,sum defects,AH4E6DF02,10,0,0
-AH4W1BW04N,0,0,0,1,lift splitted in multiple pours,sum defects,AH4W1BW04,0,0,0
-AH4W1BW04S,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-AH4W3AF02N,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-AH4W3AF02S,0,0,0,1,lift splitted in multiple pours,sum defects,AH4W3AF02,0,0,0
-AUWM01F01B,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-AUWM01F02B,0,0,0,1,lift splitted in multiple pours,sum defects,AUWM01F02,0,0,0
-PH1W6DW9a,4,1,0,3,lift name mispelled,correct lift name,PH1W6DW09a,4,1,0
-PH1W6DW9b,5,0,0,3,lift name mispelled,correct lift name,PH1W6DW09b,5,0,0
-PH1W6DW9c,5,1,0,3,lift name mispelled,correct lift name,PH1W6DW09c,5,1,0
-PH2W6CW10b,1,0,0,3,lift name mispelled,correct lift name,PH2W6CW10,1,0,0
-PH2W6CW12,3,0,0,2,single pour for multiple lifts,split lifts,"PH2W6CW12a, PH2W6CW12b, PH2W6CW12c",3,0,0
-PH2W6CW13a+b+c,3,0,0,2,single pour for multiple lifts,split lifts,"PH2W6CW13a, PH2W6CW13b, PH2W6CW13c",10,0,0
-PH2W6CW13a+b+c,7,0,0,2,single pour for multiple lifts,split lifts,skip,,,
-PH2W6EW06b,4,0,0,3,lift name mispelled,correct lift name,PH2W6EW06,4,0,0
-PH2W6EW08a+b,0,0,0,2,single pour for multiple lifts,split lifts,"PH2W6EW08a, PH2W6EW08b",0,0,0
-PH2W6EW09a+b,1,0,0,2,single pour for multiple lifts,split lifts,"PH2W6EW09a, PH2W6EW09b",1,0,0
-PMWM02C05,3,1,0,3,lift name mispelled,correct lift name,PMWM02C05a,3,1,0
-PMWM02C05,3,1,0,3,lift name mispelled,correct lift name,PMWM02C05b,3,1,0
-PMWM04W03,1,0,0,3,lift name mispelled,correct lift name,PMWM04W03a,,,
-PMWM04W03,0,0,0,3,lift name mispelled,correct lift name,PMWM04W03b,,,
-PMWM10F01b,3,1,0,3,lift name mispelled,correct lift name,PMWM10F01,,,
-PUEM01F02,0,1,0,2,single pour for multiple lifts,split lifts,"PUEM01F02a, PUEM01F02b",0,1,0
-PUEM08C01a,7,0,0,3,lift name mispelled,correct lift name,PUEM08C01,7,0,0
-PUEM10C01a,5,0,0,3,lift name mispelled,correct lift name,PUEM10C0,5,0,0
-PUEM20F02a,6,0,0,3,lift name mispelled,correct lift name,PUEM20F02,6,0,0
-PUEM21C01a,1,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-PUEM21C01b,0,0,0,1,lift splitted in multiple pours,sum defects,PUEM21C01,1,0,0
-PUWM03C01b,0,0,0,3,lift name mispelled,correct lift name,PUWM03C01,0,0,0
-PUWM10C01b,5,0,0,3,lift name mispelled,correct lift name,PUWM10C01,5,0,0
-PUWM12C01b,0,0,0,3,lift name mispelled,correct lift name,PUWM12C01,0,0,0
-PUWM13C01a,5,0,1,1,lift splitted in multiple pours,sum defects,PUWM13C01,14,0,1
-PUWM13C01b,9,0,0,1,lift splitted in multiple pours,sum defects,skip,,,
-PUEM14F01,2,0,0,3,lift name mispelled,correct lift name,PUEM14F01a,2,0,0
+lift,defects,ncr,cod,fix_code,description,solution,name_fix,defects_fix,ncr_fix,cod_fix,formwork_fix,rebar_fix
+AH4E6CW08N,0,0,0,1,lift splitted in multiple pours,sum defects,AH4E6CW08,0,0,0,0,0
+AH4E6CW08S,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+AH4E6CW09N,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+AH4E6CW09S,0,0,0,1,lift splitted in multiple pours,sum defects,AH4E6CW09,0,0,0,0,0
+AH4E6DF02N,5,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+AH4E6DF02S,5,0,0,1,lift splitted in multiple pours,sum defects,AH4E6DF02,10,0,0,2,2
+AH4W1BW04N,0,0,0,1,lift splitted in multiple pours,sum defects,AH4W1BW04,0,0,0,0,0
+AH4W1BW04S,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+AH4W3AF02N,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+AH4W3AF02S,0,0,0,1,lift splitted in multiple pours,sum defects,AH4W3AF02,0,0,0,0,0
+AUWM01F01B,0,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+AUWM01F02B,0,0,0,1,lift splitted in multiple pours,sum defects,AUWM01F02,0,0,0,0,0
+PH1W6DW9a,4,1,0,3,lift name mispelled,correct lift name,PH1W6DW09a,4,1,0,2,2
+PH1W6DW9b,5,0,0,3,lift name mispelled,correct lift name,PH1W6DW09b,5,0,0,3,1
+PH1W6DW9c,5,1,0,3,lift name mispelled,correct lift name,PH1W6DW09c,5,1,0,4,1
+PH2W6CW10b,1,0,0,3,lift name mispelled,correct lift name,PH2W6CW10,1,0,0,0,1
+PH2W6CW12,3,0,0,2,single pour for multiple lifts,split lifts,"PH2W6CW12a, PH2W6CW12b, PH2W6CW12c",3,0,0,3,0
+PH2W6CW13a+b+c,3,0,0,2,single pour for multiple lifts,split lifts,"PH2W6CW13a, PH2W6CW13b, PH2W6CW13c",10,0,0,3,5
+PH2W6CW13a+b+c,7,0,0,2,single pour for multiple lifts,split lifts,skip,,,,,
+PH2W6EW06b,4,0,0,3,lift name mispelled,correct lift name,PH2W6EW06,4,0,0,2,1
+PH2W6EW08a+b,0,0,0,2,single pour for multiple lifts,split lifts,"PH2W6EW08a, PH2W6EW08b",0,0,0,0,0
+PH2W6EW09a+b,1,0,0,2,single pour for multiple lifts,split lifts,"PH2W6EW09a, PH2W6EW09b",1,0,0,1,0
+PMWM02C05,3,1,0,3,lift name mispelled,correct lift name,PMWM02C05a,3,1,0,1,2
+PMWM02C05,3,1,0,3,lift name mispelled,correct lift name,PMWM02C05b,3,1,0,1,2
+PMWM04W03,1,0,0,3,lift name mispelled,correct lift name,PMWM04W03a,,,,,
+PMWM04W03,0,0,0,3,lift name mispelled,correct lift name,PMWM04W03b,,,,,
+PMWM10F01b,3,1,0,3,lift name mispelled,correct lift name,PMWM10F01,,,,,
+PUEM01F02,0,1,0,2,single pour for multiple lifts,split lifts,"PUEM01F02a, PUEM01F02b",0,1,0,0,0
+PUEM08C01a,7,0,0,3,lift name mispelled,correct lift name,PUEM08C01,7,0,0,1,6
+PUEM10C01a,5,0,0,3,lift name mispelled,correct lift name,PUEM10C0,5,0,0,3,2
+PUEM20F02a,6,0,0,3,lift name mispelled,correct lift name,PUEM20F02,6,0,0,3,1
+PUEM21C01a,1,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+PUEM21C01b,0,0,0,1,lift splitted in multiple pours,sum defects,PUEM21C01,1,0,0,0,0
+PUWM03C01b,0,0,0,3,lift name mispelled,correct lift name,PUWM03C01,0,0,0,0,0
+PUWM10C01b,5,0,0,3,lift name mispelled,correct lift name,PUWM10C01,5,0,0,1,4
+PUWM12C01b,0,0,0,3,lift name mispelled,correct lift name,PUWM12C01,0,0,0,0,0
+PUWM13C01a,5,0,1,1,lift splitted in multiple pours,sum defects,PUWM13C01,14,0,1,7,6
+PUWM13C01b,9,0,0,1,lift splitted in multiple pours,sum defects,skip,,,,,
+PUEM14F01,2,0,0,3,lift name mispelled,correct lift name,PUEM14F01a,2,0,0,0,2
+ACC4E4b,15,0,0,3,lift name mispelled,correct lift name,ACC4E04b,15,0,0,4,11
+ACC4E4c,13,0,0,3,lift name mispelled,correct lift name,ACC4E04c,13,0,0,4,8
+ACC4E3c,0,0,0,3,lift name mispelled,correct lift name,ACC4E03c,0,0,0,0,0
+ACC4E3b,0,0,0,3,lift name mispelled,correct lift name,ACC4E03b,0,0,0,0,0
+PCC1L5,4,0,0,3,lift name mispelled,correct lift name,PCC1L05,4,0,0,0,0
+PCU11E4,0,1,0,3,lift name mispelled,correct lift name,PCU11E04,0,1,0,0,0
+PCU2C03a-N,2,0,0,3,lift name mispelled,correct lift name,PCU2C03aN,2,0,0,0,2
+PCU2C03a-S,0,0,0,3,lift name mispelled,correct lift name,PCU2C03aS,0,0,0,0,0
+PCU2C03b-N,1,1,0,3,lift name mispelled,correct lift name,PCU2C03bN,1,1,0,0,0
+PCU2C03b-S,0,1,0,3,lift name mispelled,correct lift name,PCU2C03bS,0,1,0,0,0
+PCU2C03c-N,0,0,0,3,lift name mispelled,correct lift name,PCU2C03cN,0,0,0,0,0
+PCU2C03c-S,3,0,0,3,lift name mispelled,correct lift name,PCU2C03cS,3,0,0,1,2
+PCU2C03d-N,1,0,0,3,lift name mispelled,correct lift name,PCU2C03dN,1,0,0,0,1
+PCU2C03d-S,0,0,0,3,lift name mispelled,correct lift name,PCU2C03dS,0,0,0,0,0
+PCU21E4,0,0,0,3,lift name mispelled,correct lift name,PCU21E04,0,0,0,0,0
+PCU21W4,0,2,0,3,lift name mispelled,correct lift name,PCU21W04,0,2,0,0,0
+PCU1C03bs,1,0,0,3,lift name mispelled,correct lift name,PCU1C03bS,1,0,0,0,0
+PCU1C03bn,1,0,0,3,lift name mispelled,correct lift name,PCU1C03bN,1,0,0,0,0
+PCU1C03as,1,0,0,3,lift name mispelled,correct lift name,PCU1C03aS,1,0,0,0,1
+PCU1C03an,1,1,0,3,lift name mispelled,correct lift name,PCU1C03aN,1,1,0,0,1
+PCU1C03cs,0,0,0,3,lift name mispelled,correct lift name,PCU1C03cS,0,0,0,0,0
+PCU1C03cn,1,0,0,3,lift name mispelled,correct lift name,PCU1C03cN,1,0,0,0,1
+PCU1C03ds,0,0,0,3,lift name mispelled,correct lift name,PCU1C03dS,0,0,0,0,0
+PCU1C03dn,1,0,0,3,lift name mispelled,correct lift name,PCU1C03dN,1,0,0,0,1
+PCU22E9,1,0,0,3,lift name mispelled,correct lift name,PCU22E09,1,0,0,0,1
+PCU22E8,2,0,0,3,lift name mispelled,correct lift name,PCU22E08,2,0,0,1,1
+PCU22E7,3,0,0,3,lift name mispelled,correct lift name,PCU22E07,3,0,0,1,2
+PCU22E6,8,0,0,3,lift name mispelled,correct lift name,PCU22E06,8,0,0,4,4
+PCU22E5,0,0,0,3,lift name mispelled,correct lift name,PCU22E05,0,0,0,0,0
+PCU22E4,0,0,0,3,lift name mispelled,correct lift name,PCU22E04,0,0,0,0,0
+PCU22E3,5,0,0,3,lift name mispelled,correct lift name,PCU22E03,5,0,0,1,4
+PCU22W9,0,0,1,3,lift name mispelled,correct lift name,PCU22W09,0,0,1,0,0
+PCU22W8,1,0,0,3,lift name mispelled,correct lift name,PCU22W08,1,0,0,0,1
+PCU22W7,0,0,0,3,lift name mispelled,correct lift name,PCU22W07,0,0,0,0,0
+PCU22W6,0,0,0,3,lift name mispelled,correct lift name,PCU22W06,0,0,0,0,0
+PCU22W5,0,0,1,3,lift name mispelled,correct lift name,PCU22W05,0,0,1,0,0
+PCU22W4,0,0,1,3,lift name mispelled,correct lift name,PCU22W04,0,0,1,0,0
+PCU22W3,0,0,0,3,lift name mispelled,correct lift name,PCU22W03,0,0,0,0,0
+PCU22W2b,0,0,0,3,lift name mispelled,correct lift name,PCU22W02b,0,0,0,0,0
+PCU22W2a,0,0,0,3,lift name mispelled,correct lift name,PCU22W20a,0,0,0,0,0
+ATRF4SL8,1,0,1,3,lift name mispelled,correct lift name,ATRF4SL08,1,0,1,0,1
+ATRF6SL8,0,0,0,3,lift name mispelled,correct lift name,ATRF6SL08,0,0,0,0,0
+PTRF6SL9,1,0,0,3,lift name mispelled,correct lift name,PTRF6SL09,1,0,0,0,1
+PIWM03P03-3,0,0,0,3,lift name mispelled,correct lift name,PIWM03P3-03,0,0,0,0,0
+PIWM03P02-02,1,0,0,3,lift name mispelled,correct lift name,PIWM03P2-02,1,0,0,0,0
+PIWM03P01-2,0,0,0,3,lift name mispelled,correct lift name,PIWM03P1-02,0,0,0,0,0

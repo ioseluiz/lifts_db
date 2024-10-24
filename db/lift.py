@@ -85,4 +85,32 @@ def get_lifts_that_contain_name(lift_name) -> str:
 def get_lifts_with_pours():
     db = sqlite3.connect('lifts_4d.db')
 
+def get_lifts_filter_by_structure(site_id: int, structure_id: int) -> list[tuple]:
+    db = sqlite3.connect('lifts_4d.db')
+    query = """
+                SELECT lift.name, structure.abr, structure.name FROM lift
+                LEFT JOIN structure ON structure.id = lift.structure_id
+                WHERE lift.site_id = ? AND lift.structure_id = ?;
+            """
+    cur = db.cursor()
+    lifts = cur.execute(query, (site_id, structure_id))
+    lifts = lifts.fetchall()
+    return lifts
+
+
+def get_lift_with_actual_start(liftname: str):
+    db = sqlite3.connect('lifts_4d.db')
+    query = """
+            SELECT lift.name, pour.actual_start FROM lift
+            LEFT JOIN pour ON lift.id = pour.lift_id
+            WHERE lift.name = ?
+            """
+    cur = db.cursor()
+    lift = cur.execute(query, (liftname,))
+    lift_id = lift.fetchone()
+    if lift_id != None:
+        lift_id = lift_id
+    else:
+        lift_id =  "lift don't exists."
+    return lift_id
 

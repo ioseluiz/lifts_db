@@ -1,0 +1,59 @@
+Side,Structure,Monolith,Lift,Collated,Name,Actual Start,Actual End,Duration in days,Actual Quantity,Design Quantity,Number of Pours,Days before next lift,Activity Type,Revision Process,,,RFC Number,
+A,VS2,,C05a3,AVS2C05a3,AVS2C05a3,07/24/2012,07/24/2012,1,158,174,1,2,Construct,.,,,,
+A,VS2,,C05a1,AVS2C05a1,AVS2C05a1,07/26/2012,07/26/2012,1,168,174,1,5,Construct,,,,,
+A,VS2,,C05a2,AVS2C05a2,AVS2C05a2,07/31/2012,08/01/2012,2,167,168,2,69,Construct,,,,,
+A,VS2,,C04a3,AVS2C04a3,AVS2C04a3,10/09/2012,10/09/2012,1,260,270,1,7,Construct,,,,,
+A,VS2,,C04a1,AVS2C04a1,AVS2C04a1,10/16/2012,10/17/2012,2,240,270,2,15,Construct,,,,,
+A,VS2,,C04a2,AVS2C04a2,AVS2C04a2,11/01/2012,11/01/2012,1,224,260,1,124,Construct,,,,,
+A,VS2,,C03a7,AVS2C03a7,AVS2C03a7,03/05/2013,03/05/2013,1,96,51,1,3,Construct,,,,,
+A,VS2,,C03a1,AVS2C03a1,AVS2C03a1,03/08/2013,03/08/2013,1,64,51,1,4,Construct,,,,,
+A,VS2,,C03a5,AVS2C03a5,AVS2C03a5,03/12/2013,03/12/2013,1,80,71,1,6,Construct,,,,,
+A,VS2,,C03a6,AVS2C03a6,AVS2C03a6,03/18/2013,03/18/2013,1,72,82,1,4,Construct,,,,,
+A,VS2,,C03a4,AVS2C03a4,AVS2C03a4,03/22/2013,03/22/2013,1,88,71,1,6,Construct,,,,,
+A,VS2,,C03a3,AVS2C03a3,AVS2C03a3,03/28/2013,03/28/2013,1,80,82,1,6,Construct,,,,,
+A,VS2,,C03a2,AVS2C03a2,AVS2C03a2,04/03/2013,04/03/2013,1,80,82,1,-20,Construct,,,,,
+A,VS2,,C02a7,AVS2C02a7,AVS2C02a7,03/14/2013,03/14/2013,1,52,52,1,7,Construct,,,,,
+A,VS2,,C02a5,AVS2C02a5,AVS2C02a5,03/21/2013,03/21/2013,1,80,74,1,5,Construct,,,,,
+A,VS2,,C02a6,AVS2C02a6,AVS2C02a6,03/26/2013,03/26/2013,1,72,74,1,6,Construct,,,,,
+A,VS2,,C02a1,AVS2C02a1,AVS2C02a1,04/01/2013,04/01/2013,1,48,52,1,2,Construct,,,,,
+A,VS2,,C02a4,AVS2C02a4,AVS2C02a4,04/03/2013,04/03/2013,1,72,74,1,1,Construct,,,,,
+A,VS2,,C02a3,AVS2C02a3,AVS2C02a3,04/04/2013,04/04/2013,1,88,74,1,6,Construct,,,,,
+A,VS2,,C02a2,AVS2C02a2,AVS2C02a2,04/10/2013,04/11/2013,2,72,74,2,48,Construct,,,,,
+A,VS2,,C01a,AVS2C01a,AVS2C01a,05/29/2013,07/08/2013,41,649,723,2,61,Construct,Code 05.,"Lift ""AVS2C01a1"" will be renamed ""C01a""",Code 05a.,A-P-S-6710-0002,
+A,VS2,,C05b3,AVS2C05b3,AVS2C05b3,09/07/2013,09/07/2013,1,158,176,1,320,Construct,,,,,(*)
+A,VS2,,C05b1,AVS2C05b1,AVS2C05b1,07/24/2014,07/25/2014,2,876,948,2,-1,Construct,Code 03.,"Lift ""AVS2C05b/C04b1/2"" will be divided into C05b1, C05b2, C04b1, C04b2. All quantities will be assigned to C05b1",Code 03a.,A-P-S-6710-0003,(*)
+A,VS2,,C05b2,AVS2C05b2,AVS2C05b2,07/24/2014,07/25/2014,2,0,0,0,-1,Construct,Code 03.,"Lift ""AVS2C05b/C04b1/2"" will be divided into C05b1, C05b2, C04b1, C04b2. All quantities will be assigned to C05b1",Code 03a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b1,AVS2C04b1,AVS2C04b1,07/24/2014,07/25/2014,2,0,0,0,-1,Construct,Code 03.,"Lift ""AVS2C05b/C04b1/2"" will be divided into C05b1, C05b2, C04b1, C04b2. All quantities will be assigned to C05b1",Code 03a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b2,AVS2C04b2,AVS2C04b2,07/24/2014,07/25/2014,2,0,0,0,-300,Construct,Code 03.,"Lift ""AVS2C05b/C04b1/2"" will be divided into C05b1, C05b2, C04b1, C04b2. All quantities will be assigned to C05b1",Code 03a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b3,AVS2C04b3,AVS2C04b3,09/28/2013,09/28/2013,1,271,290,1,308,Construct,Code 03.,"Lift ""AVS2C05b/C04b1/2"" will be divided into C05b1, C05b2, C04b1, C04b2. All quantities will be assigned to C05b1",Code 03a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b1(Kicker),AVS2C04b1(Kicker),AVS2C04b1(Kicker),08/02/2014,08/02/2014,1,16,0,1,23,Construct,Code 06.,"Lift ""AVS2C04b1(Kicker), AVS2C04b2(KICKER), AVS2C04b2(kicker), AVS2C04b3(kicker), AVS2C04b4(kicker)"" does not exist in the RFC",Code 06a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b2(KICKER),AVS2C04b2(KICKER),AVS2C04b2(KICKER),08/25/2014,08/25/2014,1,16,0,1,8,Construct,Code 06.,"Lift ""AVS2C04b1(Kicker), AVS2C04b2(KICKER), AVS2C04b2(kicker), AVS2C04b3(kicker), AVS2C04b4(kicker)"" does not exist in the RFC",Code 06a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b2(kicker),AVS2C04b2(kicker),AVS2C04b2(kicker),09/02/2014,09/02/2014,1,14,0,1,0,Construct,Code 06.,"Lift ""AVS2C04b1(Kicker), AVS2C04b2(KICKER), AVS2C04b2(kicker), AVS2C04b3(kicker), AVS2C04b4(kicker)"" does not exist in the RFC",Code 06a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b3(kicker),AVS2C04b3(kicker),AVS2C04b3(kicker),09/02/2014,09/02/2014,1,14,0,1,0,Construct,Code 06.,"Lift ""AVS2C04b1(Kicker), AVS2C04b2(KICKER), AVS2C04b2(kicker), AVS2C04b3(kicker), AVS2C04b4(kicker)"" does not exist in the RFC",Code 06a.,A-P-S-6710-0003,(*)
+A,VS2,,C04b4(kicker),AVS2C04b4(kicker),AVS2C04b4(kicker),09/02/2014,09/02/2014,1,8,0,1,-15,Construct,Code 06.,"Lift ""AVS2C04b1(Kicker), AVS2C04b2(KICKER), AVS2C04b2(kicker), AVS2C04b3(kicker), AVS2C04b4(kicker)"" does not exist in the RFC",Code 06a.,A-P-S-6710-0001,
+A,VS2,,C03b1,AVS2C03b1,AVS2C03b1,08/18/2014,08/18/2014,1,64,40,1,21,Construct,,,,,(*)
+A,VS2,,C03b3,AVS2C03b3,AVS2C03b3,09/08/2014,09/08/2014,1,96,103,1,2,Construct,,,,,(*)
+A,VS2,,C03b4,AVS2C03b4,AVS2C03b4,09/10/2014,09/10/2014,1,56,50,1,2,Construct,,,,,(*)
+A,VS2,,C03b2,AVS2C03b2,AVS2C03b2,09/12/2014,09/12/2014,1,52,46,1,3,Construct,,,,,(*)
+A,VS2,,C03b5,AVS2C03b5,AVS2C03b5,09/15/2014,09/16/2014,2,80,90,2,-352,Construct,,,,,(*)
+A,VS2,,C03b6,AVS2C03b6,AVS2C03b6,09/29/2013,09/29/2013,1,0,0,0,-25,Construct,Code 01.,"A new row was created under the name of ""C03b6"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,A-P-S-6710-0003,(*)
+A,VS2,,C03b7,AVS2C03b7,AVS2C03b7,09/04/2013,09/04/2013,1,88,56,1,369,Construct,,,,,(*)
+A,VS2,,C02b1,AVS2C02b1,AVS2C02b1,09/08/2014,09/08/2014,1,63,57,1,9,Construct,,,,,(*)
+A,VS2,,C02b2,AVS2C02b2,AVS2C02b2,09/17/2014,09/18/2014,2,42,48,2,-7,Construct,,,,A-P-S-6710-0003,(*)
+A,VS2,,C02b3,AVS2C02b3,AVS2C02b3,09/11/2014,09/12/2014,2,110,107,2,7,Construct,,,,,(*)
+A,VS2,,C02b4,AVS2C02b4,AVS2C02b4,09/19/2014,09/19/2014,1,68,52,1,0,Construct,,,,,(*)
+A,VS2,,C02b5,AVS2C02b5,AVS2C02b5,09/19/2014,09/20/2014,2,94,94,2,0,Construct,,,,,(*)
+A,VS2,,C02b6,AVS2C02b6,AVS2C02b6,09/20/2014,09/20/2014,1,56,55,1,-380,Construct,,,,,(*)
+A,VS2,,C02b7,AVS2C02b7,AVS2C02b7,09/05/2013,09/05/2013,1,0,0,1,384,Construct,Code 01.,"A new row was created under the name of ""7"", with 0 quantities and with the dates of the previous lift plus one day",Code 01a.,A-P-S-6710-0003,(*)
+A,VS2,,C02b6,AVS2C02b6,AVS2C02b06,09/24/2014,09/24/2014,1,50,57,1,21,Construct,Code 06.,"Lift ""AVS2C02b06"" does not exist in the RFC",Code 06a.,A-P-S-6710-0003,(*)
+A,VS2,,C01b1,AVS2C01b1,AVS2C01b1,10/15/2014,10/14/2014,0,974,994,3,-23,Construct,Code 05.,"Lift ""AVS2C01b(I)"" will be renamed ""AVS2C01b1"".",Code 05a.,A-P-S-6710-0003,(*)
+A,VS2,,C01b2,AVS2C01b2,AVS2C01b2,09/21/2014,09/21/2014,1,0,0,0,4,Construct,Code 01.,"A new row was created under the name of ""C01b2"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,A-P-S-6710-0003,(*)
+A,VS2,,C01b3,AVS2C01b3,AVS2C01b3,09/25/2014,09/25/2014,1,0,0,0,-416,Construct,Code 01.,"A new row was created under the name of ""C01b3"", with 0 quantities and with the dates of the previous lift plus one day.",Code 01a.,A-P-S-6710-0003,(*)
+A,VS2,,W06,AVS2W06,AVS2W06,08/05/2013,08/07/2013,3,984,961,3,23,Construct,,,,,
+A,VS2,,W05,AVS2W05,AVS2W05,08/30/2013,08/31/2013,2,949,965,2,18,Construct,,,,,
+A,VS2,,W04,AVS2W04,AVS2W04,09/18/2013,09/20/2013,3,1023,971,3,15,Construct,,,,,
+A,VS2,,W03,AVS2W03,AVS2W03,10/05/2013,10/06/2013,2,1148,971,2,18,Construct,,,,,
+A,VS2,,W02,AVS2W02,AVS2W02,10/24/2013,10/26/2013,3,988,967,3,54,Construct,,,,,
+A,VS2,,W01,AVS2W01,AVS2W01,12/19/2013,01/10/2015,388,364,336,3,-268,Construct,Code 02.,"Joining lifts  ""AVS2W01a"" and ""AVS2W01(II)"" under the name of ""W01"".",Code 05a.,A-P-S-6711-0002,
+A,VS2,,,AVS2,AVS2,04/17/2014,04/17/2014,1,64,58,,,,Code 06.,The Summary Lift and Pours has a concrete pour  under the structure VS2 but without a name for the monolith or the lift.,Code 06.,,
+,,,,,,,,,,,,,,,,,(*) There is a mistake in the nomenclature of this lift in RFC drawing A-P-S-6710-0003.   This MS Excel table contains the correct name for the lift.,
